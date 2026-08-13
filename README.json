@@ -1,0 +1,1452 @@
+{
+  "items": [
+    {
+      "description": "When sending PRs, please put the new paper at the correct chronological position as the following format:",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Habitat: A Platform for Embodied AI Research Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra ICCV, 2019. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-07T22:03:51Z",
+            "owner": "facebookresearch",
+            "repo": "habitat-lab",
+            "stars": 3096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames Erik Wijmans, Abhishek Kadian, Ari Morcos, Stefan Lee, Irfan Essa, Devi Parikh, Manolis Savva, Dhruv Batra ICLR, 2020. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-07T22:03:51Z",
+            "owner": "facebookresearch",
+            "repo": "habitat-lab",
+            "stars": 3096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Explore using Active Neural SLAM Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov ICLR, 2020. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-17T23:05:03Z",
+            "owner": "devendrachaplot",
+            "repo": "Neural-SLAM",
+            "stars": 852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Occupancy Anticipation for Efficient Exploration and Navigation Santhosh K. Ramakrishnan, Ziad Al-Halah, Kristen Grauman ECCV, 2020. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-04-07T01:32:29Z",
+            "owner": "facebookresearch",
+            "repo": "OccupancyAnticipation",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SplitNet: Sim2Sim and Task2Task Transfer for Embodied Visual Navigation Daniel Gordon, Abhishek Kadian, Devi Parikh, Judy Hoffman, Dhruv Batra ICCV, 2019. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-02-03T17:57:42Z",
+            "owner": "facebookresearch",
+            "repo": "splitnet",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Surprising Effectiveness of Visual Odometry Techniques for Embodied PointGoal Navigation Peter Karkus, Shaojun Cai, David Hsu ICCV, 2021. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-22T14:08:51Z",
+            "owner": "joel99",
+            "repo": "objectnav",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RobustNav: Towards Benchmarking Robustness in Embodied Navigation Prithvijit Chattopadhyay, Judy Hoffman, Roozbeh Mottaghi, Aniruddha Kembhavi ICCV, 2021. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-07T05:00:42Z",
+            "owner": "allenai",
+            "repo": "robustnav",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Behavioral Approach to Visual Navigation with Graph Localization Networks Kevin Chen, Juan Pablo de Vicente, Gabriel Sepulveda, Fei Xia, Alvaro Soto, Marynel Vazquez, Silvio Savarese RSS, 2019. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-22T02:59:14Z",
+            "owner": "kchen92",
+            "repo": "graphnav",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auxiliary Tasks Speed Up Learning PointGoal Navigation Joel Ye, Dhruv Batra, Erik Wijmans, Abhishek Das CoRL, 2020. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-27T19:27:08Z",
+            "owner": "joel99",
+            "repo": "habitat-pointnav-aux",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Comparison of Model-Free and Model-Based Learning-Informed Planning for PointGoal Navigation Yimeng Li, Arnab Debnath, Gregory J. Stein, Jana Kosecka CoRL, 2022. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-18T03:45:17Z",
+            "owner": "yimengli46",
+            "repo": "bellman_point_goal",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "PointGoal Navigation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Semantic Audio-Visual Navigation Changan Chen, Ziad Al-Halah, Kristen Grauman CVPR, 2021. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-09-29T03:24:35Z",
+            "owner": "facebookresearch",
+            "repo": "sound-spaces",
+            "stars": 470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoundSpaces 2.0: A Simulation Platform for Visual-Acoustic Learning Changan Chen*, Carl Schissler*, Sanchit Garg*, Philip Kobernik, Alexander Clegg, Paul Calamia, Dhruv Batra, Philip W Robinson, Kristen Grauman arXiv, 2022. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-09-29T03:24:35Z",
+            "owner": "facebookresearch",
+            "repo": "sound-spaces",
+            "stars": 470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sound Adversarial Audio-Visual Navigation Yinfeng Yu, Wenbing Huang, Fuchun Sun, Changan Chen, Yikai Wang, Xiaohong Liu ICLR, 2022. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-09T02:32:42Z",
+            "owner": "yyf17",
+            "repo": "SAAVN",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Audio-Visual Navigation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Learning to Learn How to Learn: Self-Adaptive Visual Navigation Using Meta-Learning Mitchell Wortsman, Kiana Ehsani, Mohammad Rastegari, Ali Farhadi, Roozbeh Mottaghi CVPR, 2019. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-20T19:40:15Z",
+            "owner": "allenai",
+            "repo": "savn",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auxiliary Tasks and Exploration Enable ObjectGoal Navigation Peter Karkus, Shaojun Cai, David Hsu ICCV, 2021. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-23T06:26:51Z",
+            "owner": "Xiaoming-Zhao",
+            "repo": "PointNav-VO",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MultiON: Benchmarking Semantic Map Memory using Multi-Object Navigation Saim Wani*, Shivansh Patel*, Unnat Jain*, Angel X. Chang, Manolis Savva NeurIPS, 2020. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-08T15:23:06Z",
+            "owner": "saimwani",
+            "repo": "multiON",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hierarchical Object-to-Zone Graph for Object Navigation Sixian Zhang, Xinhang Song, Yubing Bai, Weijie Li, Yakui Chu, Shuqiang Jiang ICCV, 2021. [Paper]",
+          "description": "[Code] [Video]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-04T13:37:37Z",
+            "owner": "sx-zhang",
+            "repo": "HOZ",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bayesian Relational Memory for Semantic Visual Navigation Yi Wu, Yuxin Wu, Aviv Tamar, Stuart Russell, Georgia Gkioxari, Yuandong Tian ICCV, 2019. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-13T21:28:45Z",
+            "owner": "jxwuyi",
+            "repo": "HouseNavAgent",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Good Time to Ask: A Learning Framework for Asking for Help in Embodied Visual Navigation Jenny Zhang, Samson Yu, Jiafei Duan, Cheston Tan arXiv, 2022. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-27T05:51:16Z",
+            "owner": "jennyzzt",
+            "repo": "good_time_to_ask",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visual Representations for Semantic Target Driven Navigation Arsalan Mousavian, Alexander Toshev, Marek Fiser, Jana Kosecka, Ayzaan Wahid, James Davidson ICRA, 2019. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-01-23T03:15:59Z",
+            "owner": "arsalan-mousavian",
+            "repo": "Navigation",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "ObjectGoal Navigation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Topological Semantic Graph Memory for Image-Goal Navigation Nuri Kim, Obin Kwon, Hwiyeon Yoo, Yunho Choi, Jeongho Park, Songhwai Oh CoRL, 2022. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-24T10:37:55Z",
+            "owner": "rllab-snu",
+            "repo": "TopologicalSemanticGraphMemory",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semi-Parametric Topological Memory for Navigation Nikolay Savinov*, Alexey Dosovitskiy*, Vladlen Koltun ICLR, 2018. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-09T12:40:41Z",
+            "owner": "nsavinov",
+            "repo": "SPTM",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visual Graph Memory with Unsupervised Representation for Visual Navigation Obin Kwon, Nuri Kim, Yunho Choi, Hwiyeon Yoo, Jeongho Park, Songhwai Oh ICCV, 2021. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-24T10:27:22Z",
+            "owner": "rllab-snu",
+            "repo": "Visual-Graph-Memory",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Last-Mile Embodied Visual Navigation Justin Wasserman, Karmesh Yadav, Girish Chowdhary, Abhinav Gupta, Unnat Jain CoRL, 2022. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-01T15:15:09Z",
+            "owner": "Jbwasse2",
+            "repo": "SLING",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning View and Target Invariant Visual Servoing for Navigation Yimeng Li, Jana Kosecka ICRA, 2020. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-28T17:06:44Z",
+            "owner": "GMU-vision-robotics",
+            "repo": "View-Invariant-Visual-Servoing-for-Navigation",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "ImageGoal Navigation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments Jacob Krantz, Erik Wijmans, Arjun Majumdar, Dhruv Batra, Stefan Lee ECCV, 2020. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-07T18:53:33Z",
+            "owner": "jacobkrantz",
+            "repo": "VLN-CE",
+            "stars": 851
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling Tsu-Jui Fu, Xin Eric Wang, Matthew Peterson, Scott Grafton, Miguel Eckstein, William Yang Wang ECCV, 2020. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-07T18:53:33Z",
+            "owner": "jacobkrantz",
+            "repo": "VLN-CE",
+            "stars": 851
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Waypoint Models for Instruction-guided Navigation in Continuous Environments Jacob Krantz, Aaron Gokaslan, Dhruv Batra, Stefan Lee, Oleksandr Maksymets ICCV, 2021. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-07T18:53:33Z",
+            "owner": "jacobkrantz",
+            "repo": "VLN-CE",
+            "stars": 851
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel CVPR, 2018. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-12T09:04:20Z",
+            "owner": "peteanderson80",
+            "repo": "Matterport3DSimulator",
+            "stars": 712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VLN BERT: A Recurrent Vision-and-Language BERT for Navigation Yicong Hong, Qi Wu, Yuankai Qi, Cristian Rodriguez-Opazo, Stephen Gould CVPR, 2021. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-13T19:31:03Z",
+            "owner": "YicongHong",
+            "repo": "Recurrent-VLN-BERT",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pathdreamer: A World Model for Indoor Navigation Jing Yu Koh, Honglak Lee, Yinfei Yang, Jason Baldridge, Peter Anderson ICCV, 2021. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-19T22:43:08Z",
+            "owner": "google-research",
+            "repo": "pathdreamer",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "History Aware Multimodal Transformer for Vision-and-Language Navigation Shizhe Chen, Pierre-Louis Guhur, Cordelia Schmid, Ivan Laptev NeurIPS, 2021. [Paper]",
+          "description": "[Website] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-14T07:29:05Z",
+            "owner": "cshizhe",
+            "repo": "VLN-HAMT",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Speaker-Follower Models for Vision-and-Language Navigation Daniel Fried, Ronghang Hu, Volkan Cirik, Anna Rohrbach, Jacob Andreas, Louis-Philippe Morency, Taylor Berg-Kirkpatrick, Kate Saenko, Dan Klein, Trevor Darrell NeurIPS, 2018. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-11-22T02:08:41Z",
+            "owner": "ronghanghu",
+            "repo": "speaker_follower",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Regretful Agent: Heuristic-Aided Navigation through Progress Estimation Chih-Yao Ma, Zuxuan Wu, Ghassan AlRegib, Caiming Xiong, Zsolt Kira CVPR, 2019. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-10-03T21:09:56Z",
+            "owner": "chihyaoma",
+            "repo": "regretful-agent",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-Monitoring Navigation Agent via Auxiliary Progress Estimation Chih-Yao Ma, Jiasen Lu, Zuxuan Wu, Ghassan AlRegib, Zsolt Kira, Richard Socher, Caiming Xiong ICLR, 2019. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-10-03T23:07:37Z",
+            "owner": "chihyaoma",
+            "repo": "selfmonitoring-agent",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TOUCHDOWN: Natural Language Navigation and Spatial Reasoning in Visual Street Environments Howard Chen, Alane Suhr, Dipendra Misra, Noah Snavely, Yoav Artzi CVPR, 2019. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-05T21:32:02Z",
+            "owner": "lil-lab",
+            "repo": "touchdown",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training Weituo Hao, Chunyuan Li, Xiujun Li, Lawrence Carin, Jianfeng Gao CVPR, 2020. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-02T21:14:33Z",
+            "owner": "weituo12321",
+            "repo": "PREVALENT",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Episodic Transformer for Vision-and-Language Navigation Alexander Pashevich, Cordelia Schmid, Chen Sun ICCV, 2021. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-07-11T06:32:27Z",
+            "owner": "alexpashevich",
+            "repo": "E.T.",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation Muhammad Zubair Irshad, Chih-Yao Ma, Zsolt Kira ICRA, 2021. [Paper]",
+          "description": "[Code] [Website] [Video]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-27T18:20:32Z",
+            "owner": "GT-RIPL",
+            "repo": "robo-vln",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neighbor-view Enhanced Model for Vision and Language Navigation Dong An, Yuankai Qi, Yan Huang, Qi Wu, Liang Wang, Tieniu Tan ACM MM, 2021. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-11-16T07:01:00Z",
+            "owner": "MarSaKi",
+            "repo": "NvEM",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation Liyiming Ke, Xiujun Li, Yonatan Bisk, Ari Holtzman, Zhe Gan, Jingjing Liu, Jianfeng Gao, Yejin Choi, Siddhartha Srinivasa CVPR, 2019. [Paper]",
+          "description": "[Code] [Video]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-09-24T22:51:53Z",
+            "owner": "Kelym",
+            "repo": "FAST",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning Khanh Nguyen, Hal Daumé III EMNLP, 2019. [Paper]",
+          "description": "[Code] [Video]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-03-30T18:35:32Z",
+            "owner": "debadeepta",
+            "repo": "vnla",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Language and Visual Entity Relationship Graph for Agent Navigation Yicong Hong, Cristian Rodriguez, Yuankai Qi, Qi Wu, Stephen Gould NeurIPS, 2020. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-31T11:50:29Z",
+            "owner": "YicongHong",
+            "repo": "Entity-Graph-VLN",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airbert: In-domain Pretraining for Vision-and-Language Navigation Pierre-Louis Guhur, Makarand Tapaswi, Shizhe Chen, Ivan Laptev, Cordelia Schmid ICCV, 2021. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-20T10:39:23Z",
+            "owner": "airbert-vln",
+            "repo": "airbert",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Active Visual Information Gathering for Vision-Language Navigation Hanqing Wang, Wenguan Wang, Tianmin Shu, Wei Liang, Jianbing Shen ECCV, 2020. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-09T17:22:30Z",
+            "owner": "HanqingWangAI",
+            "repo": "Active_VLN",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Structured Scene Memory for Vision-Language Navigation Hanqing Wang, Wenguan Wang, Wei Liang, Caiming Xiong, Jianbing Shen CVPR, 2021. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-07-31T01:59:07Z",
+            "owner": "HanqingWangAI",
+            "repo": "SSM-VLN",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vision-based Navigation with Language-based Assistance via Imitation Learning with Indirect Intervention Khanh Nguyen, Debadeepta Dey, Chris Brockett, Bill Dolan CVPR, 2019. [Paper]",
+          "description": "[Code] [Video]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-06-30T18:19:58Z",
+            "owner": "khanhptnk",
+            "repo": "hanna",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Embodied Vision-and-Language Navigation with Dynamic Convolutional Filters Federico Landi, Lorenzo Baraldi, Massimiliano Corsini, Rita Cucchiara BMVC, 2019. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-01-04T11:16:19Z",
+            "owner": "aimagelab",
+            "repo": "DynamicConv-agent",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Perceive, Transform, and Act: Multi-Modal Attention Networks for Vision-and-Language Navigation Federico Landi, Lorenzo Baraldi, Marcella Cornia, Massimiliano Corsini, Rita Cucchiara arXiv, 2019. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-08-05T09:51:00Z",
+            "owner": "aimagelab",
+            "repo": "perceive-transform-and-act",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vision-Dialog Navigation by Exploring Cross-modal Memory Yi Zhu, Fengda Zhu, Zhaohuan Zhan, Bingqian Lin, Jianbin Jiao, Xiaojun Chang, Xiaodan Liang CVPR, 2020. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-11-22T02:11:06Z",
+            "owner": "yeezhu",
+            "repo": "CMN.pytorch",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Road To Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation Yuankai Qi, Zizheng Pan, Yicong Hong, Ming-Hsuan Yang, Anton van den Hengel, Qi Wu ICCV, 2021. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-02-07T22:45:19Z",
+            "owner": "YuankaiQi",
+            "repo": "ORIST",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Curriculum Learning for Vision-and-Language Navigation Jiwen Zhang, Zhongyu Wei, Jianqing Fan, Jiajie Peng NeurIPS, 2021. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-13T04:28:09Z",
+            "owner": "IMNearth",
+            "repo": "Curriculum-Learning-For-VLN",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Language-Aligned Waypoint (LAW) Supervision for Vision-and-Language Navigation in Continuous Environments Sonia Raychaudhuri, Saim Wani, Shivansh Patel, Unnat Jain, Angel Chang EMNLP, 2021. [Paper]",
+          "description": "[Code] [Website] [Video]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-29T16:29:14Z",
+            "owner": "3dlg-hcvc",
+            "repo": "LAW-VLNCE",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vision-Language Navigation with Random Environmental Mixup Chong Liu*, Fengda Zhu*, Xiaojun Chang, Xiaodan Liang, Zongyuan Ge, Yi-Dong Shen ICCV, 2021. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-08-03T14:18:46Z",
+            "owner": "LCFractal",
+            "repo": "VLNREM",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chasing Ghosts: Instruction Following as Bayesian State Tracking Peter Anderson, Ayush Shrivastava, Devi Parikh, Dhruv Batra, Stefan Lee NeurIPS, 2019. [Paper]",
+          "description": "[Code] [Video]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-01-10T03:55:14Z",
+            "owner": "batra-mlp-lab",
+            "repo": "vln-chasing-ghosts",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Vision-Language Navigation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Cordial Sync: Going Beyond Marginal Policies For Multi-Agent Embodied Tasks Unnat Jain*, Luca Weihs*, Eric Kolve, Ali Farhadi, Svetlana Lazebnik, Aniruddha Kembhavi, Alexander Schwing ECCV, 2020. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-13T13:06:47Z",
+            "owner": "allenai",
+            "repo": "cordial-sync",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sound Adversarial Audio-Visual Navigation Yinfeng Yu, Wenbing Huang, Fuchun Sun, Changan Chen, Yikai Wang, Xiaohong Liu ICLR, 2022. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-09T02:32:42Z",
+            "owner": "yyf17",
+            "repo": "SAAVN",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Multi-Agent Tasks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AD-VAT: An Asymmetric Dueling mechanism for learning Visual Active Tracking Fangwei Zhong, Wenhan Luo, Peng Sun, Tingyun Yan, Yizhou Wang ICLR, 2019. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T18:03:40Z",
+            "owner": "zfw1226",
+            "repo": "active_tracking_rl",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AD-VAT+: An Asymmetric Dueling Mechanism for Learning and Understanding Visual Active Tracking Fangwei Zhong, Wenhan Luo, Peng Sun, Tingyun Yan, Yizhou Wang IEEE TPAMI, 2019. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T18:03:40Z",
+            "owner": "zfw1226",
+            "repo": "active_tracking_rl",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Distraction-Robust Active Visual Tracking Fangwei Zhong, Wenhan Luo, Peng Sun, Tingyun Yan, Yizhou Wang ICML, 2021. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T18:03:40Z",
+            "owner": "zfw1226",
+            "repo": "active_tracking_rl",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pose-Assisted Multi-Camera Collaboration for Active Object Tracking Jing Li*, Jing Xu*, Fangwei Zhong*, Xiangyu Kong, Yu Qiao, Yizhou Wang AAAI, 2020. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T09:47:11Z",
+            "owner": "LilJing",
+            "repo": "pose-assisted-collaboration",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Active Visual Tracking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Curiosity-driven Exploration by Self-supervised Prediction Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell ICML, 2017. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-07T23:59:41Z",
+            "owner": "pathak22",
+            "repo": "noreward-rl",
+            "stars": 1481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Explore using Active Neural SLAM Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov ICLR, 2020. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-17T23:05:03Z",
+            "owner": "devendrachaplot",
+            "repo": "Neural-SLAM",
+            "stars": 852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Episodic Curiosity through Reachability Nikolay Savinov, Anton Raichuk, Damien Vincent, Raphael Marinier, Marc Pollefeys, Timothy Lillicrap, Sylvain Gelly ICLR, 2019. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-10-02T17:57:24Z",
+            "owner": "google-research",
+            "repo": "episodic-curiosity",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction Xiao Chen, Quanyi Li, Tai Wang, Tianfan Xue, Jiangmiao Pang CVPR, 2024. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-10T12:12:05Z",
+            "owner": "zjwzcx",
+            "repo": "GenNBV",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Exploration Policies for Navigation Tao Chen, Saurabh Gupta, Abhinav Gupta ICLR, 2019. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-29T19:56:06Z",
+            "owner": "taochenshh",
+            "repo": "exp4nav",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Occupancy Anticipation for Efficient Exploration and Navigation Santhosh K. Ramakrishnan, Ziad Al-Halah, Kristen Grauman ECCV, 2020. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-04-07T01:32:29Z",
+            "owner": "facebookresearch",
+            "repo": "OccupancyAnticipation",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sidekick Policy Learning for Active Visual Exploration Santhosh K. Ramakrishnan, Kristen Grauman ECCV, 2018. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-21T19:42:38Z",
+            "owner": "srama2512",
+            "repo": "sidekicks",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Focus on Impact: Indoor Exploration With Intrinsic Motivation Roberto Bigazzi, Federico Landi, Silvia Cascianelli, Lorenzo Baraldi, Marcella Cornia, Rita Cucchiara IEEE RA-L + ICRA, 2022. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-12T13:59:43Z",
+            "owner": "aimagelab",
+            "repo": "focus-on-impact",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emergence of Exploratory Look-Around Behaviors through Active Observation Completion Santhosh K. Ramakrishnan*, Dinesh Jayaraman*, Kristen Grauman Science Robotics, 2019. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-21T19:52:10Z",
+            "owner": "srama2512",
+            "repo": "visual-exploration",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Symmetry-aware Neural Architecture for. Embodied Visual Exploration Shuang Liu, Takayuki Okatani CVPR, 2022. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-30T21:49:28Z",
+            "owner": "vincent341",
+            "repo": "S-ANS",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Visual Exploration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning Mohit Shridhar, Xingdi Yuan, Marc-Alexandre Côté, Yonatan Bisk, Adam Trischler, Matthew Hausknecht ICLR, 2021. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T15:40:09Z",
+            "owner": "alfworld",
+            "repo": "alfworld",
+            "stars": 831
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, Dieter Fox CVPR, 2020. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-05T10:08:24Z",
+            "owner": "askforalfred",
+            "repo": "alfred",
+            "stars": 528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IQA: Visual Question Answering in Interactive Environments Daniel Gordon, Aniruddha Kembhavi, Mohammad Rastegari, Joseph Redmon, Dieter Fox, and Ali Farhadi CVPR, 2018. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-11T16:06:32Z",
+            "owner": "danielgordon10",
+            "repo": "thor-iqa-cvpr-2018",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ManipulaTHOR: A Framework for Visual Object Manipulation Kiana Ehsani, Winson Han, Alvaro Herrasti, Eli VanderBilt, Luca Weihs, Eric Kolve, Aniruddha Kembhavi, Roozbeh Mottaghi CVPR, 2021. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-07T19:09:04Z",
+            "owner": "allenai",
+            "repo": "manipulathor",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pushing It Out of the Way: Interactive Visual Navigation Kuo-Hao Zeng, Luca Weihs, Ali Farhadi, Roozbeh Mottaghi CVPR, 2021. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-26T01:20:27Z",
+            "owner": "KuoHaoZeng",
+            "repo": "Interactive_Visual_Navigation",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Visual Interactions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Habitat 2.0: Training Home Assistants to Rearrange their Habitat Andrew Szot, Alex Clegg, Eric Undersander, Erik Wijmans, Yili Zhao, John Turner, Noah Maestre, Mustafa Mukadam, Devendra Chaplot, Oleksandr Maksymets, Aaron Gokaslan, Vladimir Vondrus, Sameer Dharur, Franziska Meier, Wojciech Galuba, Angel Chang, Zsolt Kira, Vladlen Koltun, Jitendra Malik, Manolis Savva, Dhruv Batra NeurIPS 2021. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-07T22:03:51Z",
+            "owner": "facebookresearch",
+            "repo": "habitat-lab",
+            "stars": 3096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visual Room Rearrangement Luca Weihs, Matt Deitke, Aniruddha Kembhavi, and Roozbeh Mottaghi CVPR, 2021. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-15T22:02:07Z",
+            "owner": "allenai",
+            "repo": "ai2thor-rearrangement",
+            "stars": 127
+          }
+        }
+      ],
+      "title": "Rearrangement"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AI2-THOR: An Interactive 3D Environment for Visual AI Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi arXiv, 2017. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-04T06:09:29Z",
+            "owner": "allenai",
+            "repo": "ai2thor",
+            "stars": 1780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Replica Dataset: A Digital Replica of Indoor Spaces Julian Straub, Thomas Whelan, Lingni Ma, Yufan Chen, Erik Wijmans, Simon Green, Jakob J. Engel, Raul Mur-Artal, Carl Ren, Shobhit Verma, Anton Clarkson, Mingfei Yan, Brian Budge, Yajie Yan, Xiaqing Pan, June Yon, Yuyang Zou, Kimberly Leon, Nigel Carter, Jesus Briales, Tyler Gillingham, Elias Mueggler, Luis Pesqueira, Manolis Savva, Dhruv Batra, Hauke M. Strasdat, Renzo De Nardi, Michael Goesele, Steven Lovegrove, Richard Newcombe arXiV, 2019. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-22T12:41:43Z",
+            "owner": "facebookresearch",
+            "repo": "Replica-Dataset",
+            "stars": 1314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matterport3D: Learning from RGB-D Data in Indoor Environments Angel Chang, Angela Dai, Thomas Funkhouser, Maciej Halber, Matthias Nießner, Manolis Savva, Shuran Song, Andy Zeng, Yinda Zhang 3DV, 2017. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-03T12:14:52Z",
+            "owner": "niessner",
+            "repo": "Matterport",
+            "stars": 1241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gibson Env: Real-World Perception for Embodied Agents Fei Xia, Amir Zamir, Zhi-Yang He, Alexander Sax, Jitendra Malik, Silvio Savarese CVPR, 2018. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-15T12:20:11Z",
+            "owner": "StanfordVL",
+            "repo": "GibsonEnv",
+            "stars": 945
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Dataset for Developing and Benchmarking Active Vision Phil Ammirato, Patrick Poirson, Eunbyung Park, Jana Kosecka, Alexander C. Berg ICRA, 2017. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2018-06-17T16:36:12Z",
+            "owner": "ammirato",
+            "repo": "active_vision_dataset_processing",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EgoTV 📺: Egocentric Task Verification from Natural Language Task Descriptions Rishi Hazra, Brian Chen, Akshara Rai, Nitin Kamra, Ruta Desai ICCV, 2023. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-09T19:47:45Z",
+            "owner": "facebookresearch",
+            "repo": "EgoTV",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Actionet: An Interactive End-to-End Platform for Task-Based Data Collection and Augmentation in 3D Environments Jiafei Duan, Samson Yu, Hui Li Tan, Cheston Tan ICIP, 2020. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-04-14T02:38:06Z",
+            "owner": "SamsonYuBaiJian",
+            "repo": "actionet",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Habitat: A Platform for Embodied AI Research Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra ICCV, 2019. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-07T22:03:51Z",
+            "owner": "facebookresearch",
+            "repo": "habitat-lab",
+            "stars": 3096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnrealCV: Virtual Worlds for Computer Vision Weichao Qiu, Fangwei Zhong, Yi Zhang, Siyuan Qiao, Zihao Xiao, Tae Soo Kim, Yizhou Wang, Alan Yuille ACM MM Open Source Software Competition, 2017. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T18:40:59Z",
+            "owner": "unrealcv",
+            "repo": "unrealcv",
+            "stars": 2207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI2-THOR: An Interactive 3D Environment for Visual AI Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi arXiv, 2017. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-04T06:09:29Z",
+            "owner": "allenai",
+            "repo": "ai2thor",
+            "stars": 1780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Building Generalizable Agents with a Realistic and Rich 3D Environment (House3D) Yi Wu, Yuxin Wu, Georgia Gkioxari, Yuandong Tian arXiv, 2018. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2020-07-06T04:41:49Z",
+            "owner": "facebookresearch",
+            "repo": "House3D",
+            "stars": 1201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CHALET: Cornell House Agent Learning Environment Claudia Yan, Dipendra Misra, Andrew Bennett, Aaron Walsman, Yonatan Bisk and Yoav Artzi arXiv, 2018. [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2020-07-06T04:41:49Z",
+            "owner": "facebookresearch",
+            "repo": "House3D",
+            "stars": 1201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gibson Env: Real-World Perception for Embodied Agents Fei Xia, Amir Zamir, Zhi-Yang He, Alexander Sax, Jitendra Malik, Silvio Savarese CVPR, 2018. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-15T12:20:11Z",
+            "owner": "StanfordVL",
+            "repo": "GibsonEnv",
+            "stars": 945
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning Mohit Shridhar, Xingdi Yuan, Marc-Alexandre Côté, Yonatan Bisk, Adam Trischler, Matthew Hausknecht ICLR, 2021. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T15:40:09Z",
+            "owner": "alfworld",
+            "repo": "alfworld",
+            "stars": 831
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VirtualHome: Simulating Household Activities via Programs Xavier Puig*, Kevin Ra*, Marko Boben*, Jiaman Li, Tingwu Wang, Sanja Fidler, Antonio Torralba CVPR, 2018. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-20T03:19:25Z",
+            "owner": "xavierpuigf",
+            "repo": "virtualhome",
+            "stars": 627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation Chuang Gan, Jeremy Schwartz, Seth Alter, Martin Schrimpf, James Traer, Julian De Freitas, Jonas Kubilius, Abhishek Bhandwaldar, Nick Haber, Megumi Sano, Kuno Kim, Elias Wang, Damian Mrowca, Michael Lingelbach, Aidan Curtis, Kevin Feigelis, Daniel M. Bear, Dan Gutfreund, David Cox, James J. DiCarlo, Josh McDermott, Joshua B. Tenenbaum, Daniel L.K. Yamins arXiv, 2020. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-03T12:57:30Z",
+            "owner": "threedworld-mit",
+            "repo": "tdw",
+            "stars": 604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ManipulaTHOR: A Framework for Visual Object Manipulation Kiana Ehsani, Winson Han, Alvaro Herrasti, Eli VanderBilt, Luca Weihs, Eric Kolve, Aniruddha Kembhavi, Roozbeh Mottaghi CVPR, 2021. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-07T19:09:04Z",
+            "owner": "allenai",
+            "repo": "manipulathor",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoboTHOR: An Open Simulation-to-Real Embodied AI Platform Matt Deitke, Winson Han, Alvaro Herrasti, Aniruddha Kembhavi, Eric Kolve, Roozbeh Mottaghi, Jordi Salvador, Dustin Schwenk, Eli VanderBilt, Matthew Wallingford, Luca Weihs, Mark Yatskar, Ali Farhadi CVPR, 2020. [Paper]",
+          "description": "[Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-06-22T20:20:24Z",
+            "owner": "lil-lab",
+            "repo": "chalet",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Personalized Instance-based Navigation Toward User-Specific Objects in Realistic Environments Luca Barsellotti*, Roberto Bigazzi*, Marcella Cornia, Lorenzo Baraldi, Rita Cucchiara NeurIPS, 2024. [Paper]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-10-18T12:38:52Z",
+            "owner": "aimagelab",
+            "repo": "pin",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Simulators"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:21:53.538Z",
+    "original_repository": "ChanganVR/awesome-embodied-vision",
+    "original_repository_sha": "27a814b8cadf18d764384fdda17435f28fdcc0a2",
+    "enhanced_repository": "enhansome/enhansome-embodied-vision",
+    "enhanced_repository_description": null,
+    "title": "Awesome Embodied Vision with stars"
+  }
+}
