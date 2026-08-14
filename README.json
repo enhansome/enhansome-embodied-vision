@@ -24,7 +24,7 @@
             "last_commit": "2026-05-07T22:03:51Z",
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3096
+            "stars": 3097
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-05-07T22:03:51Z",
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3096
+            "stars": 3097
           }
         },
         {
@@ -1066,7 +1066,7 @@
             "last_commit": "2026-02-08T15:40:09Z",
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 831
+            "stars": 832
           }
         },
         {
@@ -1142,7 +1142,7 @@
             "last_commit": "2026-05-07T22:03:51Z",
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3096
+            "stars": 3097
           }
         },
         {
@@ -1280,7 +1280,7 @@
             "last_commit": "2026-05-07T22:03:51Z",
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3096
+            "stars": 3097
           }
         },
         {
@@ -1291,7 +1291,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T18:40:59Z",
+            "last_commit": "2026-08-13T19:32:17Z",
             "owner": "unrealcv",
             "repo": "unrealcv",
             "stars": 2207
@@ -1364,7 +1364,7 @@
             "last_commit": "2026-02-08T15:40:09Z",
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 831
+            "stars": 832
           }
         },
         {
@@ -1442,7 +1442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:21:53.538Z",
+    "last_updated": "2026-08-14T19:14:33.096Z",
     "original_repository": "ChanganVR/awesome-embodied-vision",
     "original_repository_sha": "27a814b8cadf18d764384fdda17435f28fdcc0a2",
     "enhanced_repository": "enhansome/enhansome-embodied-vision",
