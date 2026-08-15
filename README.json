@@ -24,7 +24,7 @@
             "last_commit": "2026-05-07T22:03:51Z",
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3097
+            "stars": 3099
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-05-07T22:03:51Z",
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3097
+            "stars": 3099
           }
         },
         {
@@ -398,7 +398,7 @@
             "last_commit": "2025-01-07T18:53:33Z",
             "owner": "jacobkrantz",
             "repo": "VLN-CE",
-            "stars": 851
+            "stars": 853
           }
         },
         {
@@ -412,7 +412,7 @@
             "last_commit": "2025-01-07T18:53:33Z",
             "owner": "jacobkrantz",
             "repo": "VLN-CE",
-            "stars": 851
+            "stars": 853
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2025-01-07T18:53:33Z",
             "owner": "jacobkrantz",
             "repo": "VLN-CE",
-            "stars": 851
+            "stars": 853
           }
         },
         {
@@ -1066,7 +1066,7 @@
             "last_commit": "2026-02-08T15:40:09Z",
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 832
+            "stars": 833
           }
         },
         {
@@ -1142,7 +1142,7 @@
             "last_commit": "2026-05-07T22:03:51Z",
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3097
+            "stars": 3099
           }
         },
         {
@@ -1176,7 +1176,7 @@
             "last_commit": "2025-11-04T06:09:29Z",
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1780
+            "stars": 1781
           }
         },
         {
@@ -1280,7 +1280,7 @@
             "last_commit": "2026-05-07T22:03:51Z",
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3097
+            "stars": 3099
           }
         },
         {
@@ -1291,7 +1291,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T19:32:17Z",
+            "last_commit": "2026-08-15T12:31:19Z",
             "owner": "unrealcv",
             "repo": "unrealcv",
             "stars": 2207
@@ -1308,7 +1308,7 @@
             "last_commit": "2025-11-04T06:09:29Z",
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1780
+            "stars": 1781
           }
         },
         {
@@ -1364,7 +1364,7 @@
             "last_commit": "2026-02-08T15:40:09Z",
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 832
+            "stars": 833
           }
         },
         {
@@ -1442,7 +1442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:14:33.096Z",
+    "last_updated": "2026-08-15T18:47:54.837Z",
     "original_repository": "ChanganVR/awesome-embodied-vision",
     "original_repository_sha": "27a814b8cadf18d764384fdda17435f28fdcc0a2",
     "enhanced_repository": "enhansome/enhansome-embodied-vision",
