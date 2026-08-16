@@ -24,7 +24,7 @@
             "last_commit": "2026-05-07T22:03:51Z",
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3099
+            "stars": 3100
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-05-07T22:03:51Z",
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3099
+            "stars": 3100
           }
         },
         {
@@ -398,7 +398,7 @@
             "last_commit": "2025-01-07T18:53:33Z",
             "owner": "jacobkrantz",
             "repo": "VLN-CE",
-            "stars": 853
+            "stars": 854
           }
         },
         {
@@ -412,7 +412,7 @@
             "last_commit": "2025-01-07T18:53:33Z",
             "owner": "jacobkrantz",
             "repo": "VLN-CE",
-            "stars": 853
+            "stars": 854
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2025-01-07T18:53:33Z",
             "owner": "jacobkrantz",
             "repo": "VLN-CE",
-            "stars": 853
+            "stars": 854
           }
         },
         {
@@ -962,7 +962,7 @@
             "last_commit": "2026-03-10T12:12:05Z",
             "owner": "zjwzcx",
             "repo": "GenNBV",
-            "stars": 108
+            "stars": 109
           }
         },
         {
@@ -1142,7 +1142,7 @@
             "last_commit": "2026-05-07T22:03:51Z",
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3099
+            "stars": 3100
           }
         },
         {
@@ -1204,7 +1204,7 @@
             "last_commit": "2025-11-03T12:14:52Z",
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1241
+            "stars": 1242
           }
         },
         {
@@ -1280,7 +1280,7 @@
             "last_commit": "2026-05-07T22:03:51Z",
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3099
+            "stars": 3100
           }
         },
         {
@@ -1291,7 +1291,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T12:31:19Z",
+            "last_commit": "2026-08-16T09:00:17Z",
             "owner": "unrealcv",
             "repo": "unrealcv",
             "stars": 2207
@@ -1442,7 +1442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T18:47:54.837Z",
+    "last_updated": "2026-08-16T18:47:16.099Z",
     "original_repository": "ChanganVR/awesome-embodied-vision",
     "original_repository_sha": "27a814b8cadf18d764384fdda17435f28fdcc0a2",
     "enhanced_repository": "enhansome/enhansome-embodied-vision",
