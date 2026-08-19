@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-07T22:03:51Z",
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3103
+                "stars": 3104
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-05-07T22:03:51Z",
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3103
+                "stars": 3104
               }
             },
             {
@@ -1138,7 +1138,7 @@
                 "last_commit": "2026-02-08T15:40:09Z",
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 837
+                "stars": 838
               }
             },
             {
@@ -1220,7 +1220,7 @@
                 "last_commit": "2026-05-07T22:03:51Z",
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3103
+                "stars": 3104
               }
             },
             {
@@ -1291,7 +1291,7 @@
             "last_commit": "2025-11-03T12:14:52Z",
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1243
+            "stars": 1244
           }
         },
         {
@@ -1372,7 +1372,7 @@
             "last_commit": "2026-05-07T22:03:51Z",
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3103
+            "stars": 3104
           }
         },
         {
@@ -1384,7 +1384,7 @@
             "archived": false,
             "id": 67727697,
             "language": "C++",
-            "last_commit": "2026-08-16T09:00:17Z",
+            "last_commit": "2026-08-19T18:48:59Z",
             "owner": "unrealcv",
             "repo": "unrealcv",
             "stars": 2208
@@ -1462,7 +1462,7 @@
             "last_commit": "2026-02-08T15:40:09Z",
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 837
+            "stars": 838
           }
         },
         {
@@ -1545,7 +1545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:27:51.256Z",
+    "last_updated": "2026-08-19T18:53:52.708Z",
     "original_repository": "ChanganVR/awesome-embodied-vision",
     "original_repository_id": 277348364,
     "original_repository_sha": "27a814b8cadf18d764384fdda17435f28fdcc0a2",
