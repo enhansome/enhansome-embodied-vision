@@ -465,7 +465,7 @@
                 "last_commit": "2024-07-12T09:04:20Z",
                 "owner": "peteanderson80",
                 "repo": "Matterport3DSimulator",
-                "stars": 712
+                "stars": 711
               }
             },
             {
@@ -1198,7 +1198,7 @@
                 "last_commit": "2024-01-26T01:20:27Z",
                 "owner": "KuoHaoZeng",
                 "repo": "Interactive_Visual_Navigation",
-                "stars": 44
+                "stars": 45
               }
             }
           ],
@@ -1291,7 +1291,7 @@
             "last_commit": "2025-11-03T12:14:52Z",
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1244
+            "stars": 1245
           }
         },
         {
@@ -1306,7 +1306,7 @@
             "last_commit": "2024-04-15T12:20:11Z",
             "owner": "StanfordVL",
             "repo": "GibsonEnv",
-            "stars": 945
+            "stars": 946
           }
         },
         {
@@ -1384,7 +1384,7 @@
             "archived": false,
             "id": 67727697,
             "language": "C++",
-            "last_commit": "2026-08-19T18:48:59Z",
+            "last_commit": "2026-08-20T16:55:13Z",
             "owner": "unrealcv",
             "repo": "unrealcv",
             "stars": 2208
@@ -1447,7 +1447,7 @@
             "last_commit": "2024-04-15T12:20:11Z",
             "owner": "StanfordVL",
             "repo": "GibsonEnv",
-            "stars": 945
+            "stars": 946
           }
         },
         {
@@ -1545,7 +1545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T18:53:52.708Z",
+    "last_updated": "2026-08-20T18:59:49.292Z",
     "original_repository": "ChanganVR/awesome-embodied-vision",
     "original_repository_id": 277348364,
     "original_repository_sha": "27a814b8cadf18d764384fdda17435f28fdcc0a2",

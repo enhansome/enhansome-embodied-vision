@@ -2,7 +2,7 @@
 
 > A curated list of embodied vision resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,764 | 🐛 102 | 📅 2026-08-18 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,178 | 🐛 105 | 📅 2026-08-18 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
 
 By [Changan Chen](https://changan.io) (<changan@cs.utexas.edu>), Department of Computer Science at the University of Texas at Austin, with help from [Tushar Nagarajan](https://tushar-n.github.io/), [Santhosh Kumar Ramakrishnan](https://srama2512.github.io/) and [Yinfeng Yu](https://yyf17.github.io/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
@@ -286,7 +286,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments** <br>
   *Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel* <br>
-  CVPR, 2018. [\[Paper\]](https://arxiv.org/abs/1711.07280) [\[Code\]](https://github.com/peteanderson80/Matterport3DSimulator) ⭐ 712 | 🐛 51 | 🌐 C++ | 📅 2024-07-12 [\[Website\]](https://bringmeaspoon.org)
+  CVPR, 2018. [\[Paper\]](https://arxiv.org/abs/1711.07280) [\[Code\]](https://github.com/peteanderson80/Matterport3DSimulator) ⭐ 711 | 🐛 51 | 🌐 C++ | 📅 2024-07-12 [\[Website\]](https://bringmeaspoon.org)
 
 * **VLN BERT: A Recurrent Vision-and-Language BERT for Navigation** <br>
   *Yicong Hong, Qi Wu, Yuankai Qi, Cristian Rodriguez-Opazo, Stephen Gould* <br>
@@ -681,7 +681,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Pushing It Out of the Way: Interactive Visual Navigation** <br>
   *Kuo-Hao Zeng, Luca Weihs, Ali Farhadi, Roozbeh Mottaghi* <br>
-  CVPR, 2021. [\[Paper\]](https://arxiv.org/pdf/2104.14040.pdf) [\[Code\]](https://github.com/KuoHaoZeng/Interactive_Visual_Navigation) ⭐ 44 | 🐛 2 | 🌐 Python | 📅 2024-01-26 [\[Website\]](https://prior.allenai.org/projects/interactive-visual-navigation)
+  CVPR, 2021. [\[Paper\]](https://arxiv.org/pdf/2104.14040.pdf) [\[Code\]](https://github.com/KuoHaoZeng/Interactive_Visual_Navigation) ⭐ 45 | 🐛 2 | 🌐 Python | 📅 2024-01-26 [\[Website\]](https://prior.allenai.org/projects/interactive-visual-navigation)
 
 * **Visual Semantic Planning using Deep Successor Representations** <br>
   *Yuke Zhu, Daniel Gordon, Eric Kolve, Dieter Fox, Li Fei-Fei, Abhinav Gupta, Roozbeh Mottaghi, Ali Farhadi* <br>
@@ -763,11 +763,11 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Matterport3D: Learning from RGB-D Data in Indoor Environments** <br>
   *Angel Chang, Angela Dai, Thomas Funkhouser, Maciej Halber, Matthias Nießner, Manolis Savva, Shuran Song, Andy Zeng, Yinda Zhang* <br>
-  3DV, 2017. [\[Paper\]](https://arxiv.org/pdf/1709.06158.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,244 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://niessner.github.io/Matterport/)
+  3DV, 2017. [\[Paper\]](https://arxiv.org/pdf/1709.06158.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,245 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://niessner.github.io/Matterport/)
 
 * **Gibson Env: Real-World Perception for Embodied Agents** <br>
   *Fei Xia, Amir Zamir, Zhi-Yang He, Alexander Sax, Jitendra Malik, Silvio Savarese* <br>
-  CVPR, 2018. [\[Paper\]](https://arxiv.org/abs/1808.10654) [\[Code\]](https://github.com/StanfordVL/GibsonEnv) ⭐ 945 | 🐛 49 | 🌐 C | 📅 2024-04-15 [\[Website\]](http://gibsonenv.stanford.edu/)
+  CVPR, 2018. [\[Paper\]](https://arxiv.org/abs/1808.10654) [\[Code\]](https://github.com/StanfordVL/GibsonEnv) ⭐ 946 | 🐛 49 | 🌐 C | 📅 2024-04-15 [\[Website\]](http://gibsonenv.stanford.edu/)
 
 * **A Dataset for Developing and Benchmarking Active Vision** <br>
   *Phil Ammirato, Patrick Poirson, Eunbyung Park, Jana Kosecka, Alexander C. Berg* <br>
@@ -801,7 +801,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **UnrealCV: Virtual Worlds for Computer Vision** <br>
   *Weichao Qiu, Fangwei Zhong, Yi Zhang, Siyuan Qiao, Zihao Xiao, Tae Soo Kim, Yizhou Wang, Alan Yuille* <br>
-  ACM MM Open Source Software Competition, 2017. [\[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396) [\[Code\]](https://github.com/unrealcv/unrealcv) ⭐ 2,208 | 🐛 117 | 🌐 C++ | 📅 2026-08-19 [\[Website\]](https://unrealcv.org/)
+  ACM MM Open Source Software Competition, 2017. [\[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396) [\[Code\]](https://github.com/unrealcv/unrealcv) ⭐ 2,208 | 🐛 117 | 🌐 C++ | 📅 2026-08-20 [\[Website\]](https://unrealcv.org/)
 
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
   *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
@@ -817,7 +817,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Gibson Env: Real-World Perception for Embodied Agents** <br>
   *Fei Xia, Amir Zamir, Zhi-Yang He, Alexander Sax, Jitendra Malik, Silvio Savarese* <br>
-  CVPR, 2018. [\[Paper\]](https://arxiv.org/abs/1808.10654) [\[Code\]](https://github.com/StanfordVL/GibsonEnv) ⭐ 945 | 🐛 49 | 🌐 C | 📅 2024-04-15 [\[Website\]](http://gibsonenv.stanford.edu/)
+  CVPR, 2018. [\[Paper\]](https://arxiv.org/abs/1808.10654) [\[Code\]](https://github.com/StanfordVL/GibsonEnv) ⭐ 946 | 🐛 49 | 🌐 C | 📅 2024-04-15 [\[Website\]](http://gibsonenv.stanford.edu/)
 
 * **ALFWorld: Aligning Text and Embodied Environments for Interactive Learning** <br>
   *Mohit Shridhar, Xingdi Yuan, Marc-Alexandre Côté, Yonatan Bisk, Adam Trischler, Matthew Hausknecht*<br>
@@ -889,4 +889,4 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
