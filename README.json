@@ -420,7 +420,7 @@
                 "last_commit": "2025-01-07T18:53:33Z",
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 856
+                "stars": 857
               }
             },
             {
@@ -435,7 +435,7 @@
                 "last_commit": "2025-01-07T18:53:33Z",
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 856
+                "stars": 857
               }
             },
             {
@@ -450,7 +450,7 @@
                 "last_commit": "2025-01-07T18:53:33Z",
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 856
+                "stars": 857
               }
             },
             {
@@ -495,7 +495,7 @@
                 "last_commit": "2026-05-19T22:43:08Z",
                 "owner": "google-research",
                 "repo": "pathdreamer",
-                "stars": 164
+                "stars": 163
               }
             },
             {
@@ -1138,7 +1138,7 @@
                 "last_commit": "2026-02-08T15:40:09Z",
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 839
+                "stars": 840
               }
             },
             {
@@ -1462,7 +1462,7 @@
             "last_commit": "2026-02-08T15:40:09Z",
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 839
+            "stars": 840
           }
         },
         {
@@ -1545,7 +1545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T18:56:52.846Z",
+    "last_updated": "2026-08-22T18:49:27.882Z",
     "original_repository": "ChanganVR/awesome-embodied-vision",
     "original_repository_id": 277348364,
     "original_repository_sha": "27a814b8cadf18d764384fdda17435f28fdcc0a2",
