@@ -2,7 +2,7 @@
 
 > A curated list of embodied vision resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,926 | 🐛 106 | 📅 2026-08-21 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,260 | 🐛 106 | 📅 2026-08-21 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
 
 By [Changan Chen](https://changan.io) (<changan@cs.utexas.edu>), Department of Computer Science at the University of Texas at Austin, with help from [Tushar Nagarajan](https://tushar-n.github.io/), [Santhosh Kumar Ramakrishnan](https://srama2512.github.io/) and [Yinfeng Yu](https://yyf17.github.io/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
@@ -232,7 +232,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Topological Semantic Graph Memory for Image-Goal Navigation** <br>
   *Nuri Kim, Obin Kwon, Hwiyeon Yoo, Yunho Choi, Jeongho Park, Songhwai Oh* <br>
-  CoRL, 2022. [\[Paper\]](https://openreview.net/pdf?id=xjTUxBfIzE) [\[Code\]](https://github.com/rllab-snu/TopologicalSemanticGraphMemory) ⭐ 140 | 🐛 8 | 🌐 Python | 📅 2025-11-24 [\[Website\]](https://github.com/bareblackfoot/Topological-Semantic-Graph-Memory) ⚠️ Archived
+  CoRL, 2022. [\[Paper\]](https://openreview.net/pdf?id=xjTUxBfIzE) [\[Code\]](https://github.com/rllab-snu/TopologicalSemanticGraphMemory) ⭐ 141 | 🐛 8 | 🌐 Python | 📅 2025-11-24 [\[Website\]](https://github.com/bareblackfoot/Topological-Semantic-Graph-Memory) ⚠️ Archived
 
 * **Semi-Parametric Topological Memory for Navigation** <br>
   *Nikolay Savinov\*, Alexey Dosovitskiy\*, Vladlen Koltun* <br>
@@ -755,7 +755,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
   *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
-  arXiv, 2017. [\[Paper\]](https://arxiv.org/abs/1712.05474) [\[Code\]](https://github.com/allenai/ai2thor) ⭐ 1,783 | 🐛 279 | 🌐 C# | 📅 2025-11-04 [\[Website\]](https://ai2thor.allenai.org/)
+  arXiv, 2017. [\[Paper\]](https://arxiv.org/abs/1712.05474) [\[Code\]](https://github.com/allenai/ai2thor) ⭐ 1,784 | 🐛 279 | 🌐 C# | 📅 2025-11-04 [\[Website\]](https://ai2thor.allenai.org/)
 
 * **The Replica Dataset: A Digital Replica of Indoor Spaces** <br>
   *Julian Straub, Thomas Whelan, Lingni Ma, Yufan Chen, Erik Wijmans, Simon Green, Jakob J. Engel, Raul Mur-Artal, Carl Ren, Shobhit Verma, Anton Clarkson, Mingfei Yan, Brian Budge, Yajie Yan, Xiaqing Pan, June Yon, Yuyang Zou, Kimberly Leon, Nigel Carter, Jesus Briales, Tyler Gillingham, Elias Mueggler, Luis Pesqueira, Manolis Savva, Dhruv Batra, Hauke M. Strasdat, Renzo De Nardi, Michael Goesele, Steven Lovegrove, Richard Newcombe* <br>
@@ -805,7 +805,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
   *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
-  arXiv, 2017. [\[Paper\]](https://arxiv.org/abs/1712.05474) [\[Code\]](https://github.com/allenai/ai2thor) ⭐ 1,783 | 🐛 279 | 🌐 C# | 📅 2025-11-04 [\[Website\]](https://ai2thor.allenai.org/)
+  arXiv, 2017. [\[Paper\]](https://arxiv.org/abs/1712.05474) [\[Code\]](https://github.com/allenai/ai2thor) ⭐ 1,784 | 🐛 279 | 🌐 C# | 📅 2025-11-04 [\[Website\]](https://ai2thor.allenai.org/)
 
 * **Building Generalizable Agents with a Realistic and Rich 3D Environment (House3D)** <br>
   *Yi Wu, Yuxin Wu, Georgia Gkioxari, Yuandong Tian* <br>
@@ -889,4 +889,4 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

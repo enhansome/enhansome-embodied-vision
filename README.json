@@ -338,7 +338,7 @@
                 "last_commit": "2025-11-24T10:37:55Z",
                 "owner": "rllab-snu",
                 "repo": "TopologicalSemanticGraphMemory",
-                "stars": 140
+                "stars": 141
               }
             },
             {
@@ -1261,7 +1261,7 @@
             "last_commit": "2025-11-04T06:09:29Z",
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1783
+            "stars": 1784
           }
         },
         {
@@ -1402,7 +1402,7 @@
             "last_commit": "2025-11-04T06:09:29Z",
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1783
+            "stars": 1784
           }
         },
         {
@@ -1545,7 +1545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T18:49:27.882Z",
+    "last_updated": "2026-08-23T18:49:01.571Z",
     "original_repository": "ChanganVR/awesome-embodied-vision",
     "original_repository_id": 277348364,
     "original_repository_sha": "27a814b8cadf18d764384fdda17435f28fdcc0a2",
