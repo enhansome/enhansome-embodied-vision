@@ -2,7 +2,7 @@
 
 > A curated list of embodied vision resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,516 | 🐛 106 | 📅 2026-08-21 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,571 | 🐛 106 | 📅 2026-08-21 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
 
 By [Changan Chen](https://changan.io) (<changan@cs.utexas.edu>), Department of Computer Science at the University of Texas at Austin, with help from [Tushar Nagarajan](https://tushar-n.github.io/), [Santhosh Kumar Ramakrishnan](https://srama2512.github.io/) and [Yinfeng Yu](https://yyf17.github.io/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
