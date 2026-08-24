@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-07T22:03:51Z",
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3105
+                "stars": 3106
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-05-07T22:03:51Z",
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3105
+                "stars": 3106
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2025-11-24T10:37:55Z",
                 "owner": "rllab-snu",
                 "repo": "TopologicalSemanticGraphMemory",
-                "stars": 141
+                "stars": 142
               }
             },
             {
@@ -615,7 +615,7 @@
                 "last_commit": "2024-06-27T18:20:32Z",
                 "owner": "GT-RIPL",
                 "repo": "robo-vln",
-                "stars": 89
+                "stars": 90
               }
             },
             {
@@ -1128,6 +1128,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Embodied Question Answering Abhishek Das, Samyak Datta, Georgia Gkioxari, Stefan Lee, Devi Parikh, Dhruv Batra CVPR, 2018. [Paper]",
+              "description": "[Code] [Website]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 137247305,
+                "language": "Python",
+                "last_commit": "2023-07-25T15:23:56Z",
+                "owner": "facebookresearch",
+                "repo": "EmbodiedQA",
+                "stars": 315
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Embodied Question Answering"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning Mohit Shridhar, Xingdi Yuan, Marc-Alexandre Côté, Yonatan Bisk, Adam Trischler, Matthew Hausknecht ICLR, 2021. [Paper]",
               "description": "[Code] [Website]",
               "children": [],
@@ -1138,7 +1160,7 @@
                 "last_commit": "2026-02-08T15:40:09Z",
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 840
+                "stars": 841
               }
             },
             {
@@ -1220,7 +1242,7 @@
                 "last_commit": "2026-05-07T22:03:51Z",
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3105
+                "stars": 3106
               }
             },
             {
@@ -1372,7 +1394,7 @@
             "last_commit": "2026-05-07T22:03:51Z",
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3105
+            "stars": 3106
           }
         },
         {
@@ -1462,7 +1484,7 @@
             "last_commit": "2026-02-08T15:40:09Z",
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 840
+            "stars": 841
           }
         },
         {
@@ -1545,7 +1567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:49:01.571Z",
+    "last_updated": "2026-08-24T14:20:29.120Z",
     "original_repository": "ChanganVR/awesome-embodied-vision",
     "original_repository_id": 277348364,
     "original_repository_sha": "27a814b8cadf18d764384fdda17435f28fdcc0a2",
