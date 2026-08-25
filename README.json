@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-07T22:03:51Z",
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3106
+                "stars": 3107
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-05-07T22:03:51Z",
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3106
+                "stars": 3107
               }
             },
             {
@@ -1242,7 +1242,7 @@
                 "last_commit": "2026-05-07T22:03:51Z",
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3106
+                "stars": 3107
               }
             },
             {
@@ -1298,7 +1298,7 @@
             "last_commit": "2024-07-22T12:41:43Z",
             "owner": "facebookresearch",
             "repo": "Replica-Dataset",
-            "stars": 1315
+            "stars": 1316
           }
         },
         {
@@ -1394,7 +1394,7 @@
             "last_commit": "2026-05-07T22:03:51Z",
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3106
+            "stars": 3107
           }
         },
         {
@@ -1406,7 +1406,7 @@
             "archived": false,
             "id": 67727697,
             "language": "C++",
-            "last_commit": "2026-08-20T16:55:13Z",
+            "last_commit": "2026-08-25T14:34:51Z",
             "owner": "unrealcv",
             "repo": "unrealcv",
             "stars": 2209
@@ -1567,7 +1567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:12:17.759Z",
+    "last_updated": "2026-08-25T18:57:31.406Z",
     "original_repository": "ChanganVR/awesome-embodied-vision",
     "original_repository_id": 277348364,
     "original_repository_sha": "27a814b8cadf18d764384fdda17435f28fdcc0a2",
