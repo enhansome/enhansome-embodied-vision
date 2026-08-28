@@ -2,7 +2,7 @@
 
 > A curated list of embodied vision resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,361 | 🐛 105 | 📅 2026-08-21 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,564 | 🐛 105 | 📅 2026-08-21 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
 
 By [Changan Chen](https://changan.io) (<changan@cs.utexas.edu>), Department of Computer Science at the University of Texas at Austin, with help from [Tushar Nagarajan](https://tushar-n.github.io/), [Santhosh Kumar Ramakrishnan](https://srama2512.github.io/) and [Yinfeng Yu](https://yyf17.github.io/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
@@ -801,7 +801,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **UnrealCV: Virtual Worlds for Computer Vision** <br>
   *Weichao Qiu, Fangwei Zhong, Yi Zhang, Siyuan Qiao, Zihao Xiao, Tae Soo Kim, Yizhou Wang, Alan Yuille* <br>
-  ACM MM Open Source Software Competition, 2017. [\[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396) [\[Code\]](https://github.com/unrealcv/unrealcv) ⭐ 2,209 | 🐛 117 | 🌐 C++ | 📅 2026-08-27 [\[Website\]](https://unrealcv.org/)
+  ACM MM Open Source Software Competition, 2017. [\[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396) [\[Code\]](https://github.com/unrealcv/unrealcv) ⭐ 2,209 | 🐛 117 | 🌐 Python | 📅 2026-08-27 [\[Website\]](https://unrealcv.org/)
 
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
   *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
@@ -889,4 +889,4 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

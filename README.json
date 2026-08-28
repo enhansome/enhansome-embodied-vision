@@ -1405,8 +1405,8 @@
           "repo_info": {
             "archived": false,
             "id": 67727697,
-            "language": "C++",
-            "last_commit": "2026-08-27T06:02:56Z",
+            "language": "Python",
+            "last_commit": "2026-08-27T18:41:29Z",
             "owner": "unrealcv",
             "repo": "unrealcv",
             "stars": 2209
@@ -1567,7 +1567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:35:17.645Z",
+    "last_updated": "2026-08-28T02:11:05.546Z",
     "original_repository_info": {
       "archived": false,
       "id": 277348364,
