@@ -2,7 +2,7 @@
 
 > A curated list of embodied vision resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,564 | 🐛 105 | 📅 2026-08-21 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,866 | 🐛 105 | 📅 2026-08-21 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
 
 By [Changan Chen](https://changan.io) (<changan@cs.utexas.edu>), Department of Computer Science at the University of Texas at Austin, with help from [Tushar Nagarajan](https://tushar-n.github.io/), [Santhosh Kumar Ramakrishnan](https://srama2512.github.io/) and [Yinfeng Yu](https://yyf17.github.io/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
@@ -665,7 +665,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **ALFWorld: Aligning Text and Embodied Environments for Interactive Learning** <br>
   *Mohit Shridhar, Xingdi Yuan, Marc-Alexandre Côté, Yonatan Bisk, Adam Trischler, Matthew Hausknecht* <br>
-  ICLR, 2021. [\[Paper\]](https://arxiv.org/pdf/2010.03768.pdf) [\[Code\]](https://github.com/alfworld/alfworld) ⭐ 844 | 🐛 14 | 🌐 Python | 📅 2026-02-08 [\[Website\]](https://alfworld.github.io/)
+  ICLR, 2021. [\[Paper\]](https://arxiv.org/pdf/2010.03768.pdf) [\[Code\]](https://github.com/alfworld/alfworld) ⭐ 846 | 🐛 14 | 🌐 Python | 📅 2026-02-08 [\[Website\]](https://alfworld.github.io/)
 
 * **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks** <br>
   *Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, Dieter Fox* <br>
@@ -715,7 +715,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Visual Room Rearrangement** <br>
   *Luca Weihs, Matt Deitke, Aniruddha Kembhavi, and Roozbeh Mottaghi* <br>
-  CVPR, 2021. [\[Paper\]](https://arxiv.org/abs/2103.16544) [\[Code\]](https://github.com/allenai/ai2thor-rearrangement) ⭐ 127 | 🐛 9 | 🌐 Python | 📅 2023-08-15 [\[Website\]](https://ai2thor.allenai.org/rearrangement)
+  CVPR, 2021. [\[Paper\]](https://arxiv.org/abs/2103.16544) [\[Code\]](https://github.com/allenai/ai2thor-rearrangement) ⭐ 128 | 🐛 9 | 🌐 Python | 📅 2023-08-15 [\[Website\]](https://ai2thor.allenai.org/rearrangement)
 
 * **Rearrangement: A Challenge for Embodied AI** <br>
   *Dhruv Batra, Angel X. Chang, Sonia Chernova, Andrew J. Davison, Jia Deng, Vladlen Koltun, Sergey Levine, Jitendra Malik, Igor Mordatch, Roozbeh Mottaghi, Manolis Savva, Hao Su* <br>
@@ -755,11 +755,11 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
   *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
-  arXiv, 2017. [\[Paper\]](https://arxiv.org/abs/1712.05474) [\[Code\]](https://github.com/allenai/ai2thor) ⭐ 1,785 | 🐛 279 | 🌐 C# | 📅 2025-11-04 [\[Website\]](https://ai2thor.allenai.org/)
+  arXiv, 2017. [\[Paper\]](https://arxiv.org/abs/1712.05474) [\[Code\]](https://github.com/allenai/ai2thor) ⭐ 1,786 | 🐛 279 | 🌐 C# | 📅 2025-11-04 [\[Website\]](https://ai2thor.allenai.org/)
 
 * **The Replica Dataset: A Digital Replica of Indoor Spaces** <br>
   *Julian Straub, Thomas Whelan, Lingni Ma, Yufan Chen, Erik Wijmans, Simon Green, Jakob J. Engel, Raul Mur-Artal, Carl Ren, Shobhit Verma, Anton Clarkson, Mingfei Yan, Brian Budge, Yajie Yan, Xiaqing Pan, June Yon, Yuyang Zou, Kimberly Leon, Nigel Carter, Jesus Briales, Tyler Gillingham, Elias Mueggler, Luis Pesqueira, Manolis Savva, Dhruv Batra, Hauke M. Strasdat, Renzo De Nardi, Michael Goesele, Steven Lovegrove, Richard Newcombe* <br>
-  arXiV, 2019. [\[Paper\]](https://arxiv.org/pdf/1906.05797.pdf) [\[Code\]](https://github.com/facebookresearch/Replica-Dataset) ⭐ 1,316 | 🐛 67 | 🌐 C++ | 📅 2024-07-22
+  arXiV, 2019. [\[Paper\]](https://arxiv.org/pdf/1906.05797.pdf) [\[Code\]](https://github.com/facebookresearch/Replica-Dataset) ⭐ 1,317 | 🐛 67 | 🌐 C++ | 📅 2024-07-22
 
 * **Matterport3D: Learning from RGB-D Data in Indoor Environments** <br>
   *Angel Chang, Angela Dai, Thomas Funkhouser, Maciej Halber, Matthias Nießner, Manolis Savva, Shuran Song, Andy Zeng, Yinda Zhang* <br>
@@ -801,11 +801,11 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **UnrealCV: Virtual Worlds for Computer Vision** <br>
   *Weichao Qiu, Fangwei Zhong, Yi Zhang, Siyuan Qiao, Zihao Xiao, Tae Soo Kim, Yizhou Wang, Alan Yuille* <br>
-  ACM MM Open Source Software Competition, 2017. [\[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396) [\[Code\]](https://github.com/unrealcv/unrealcv) ⭐ 2,209 | 🐛 117 | 🌐 Python | 📅 2026-08-27 [\[Website\]](https://unrealcv.org/)
+  ACM MM Open Source Software Competition, 2017. [\[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396) [\[Code\]](https://github.com/unrealcv/unrealcv) ⭐ 2,209 | 🐛 117 | 🌐 Python | 📅 2026-08-28 [\[Website\]](https://unrealcv.org/)
 
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
   *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
-  arXiv, 2017. [\[Paper\]](https://arxiv.org/abs/1712.05474) [\[Code\]](https://github.com/allenai/ai2thor) ⭐ 1,785 | 🐛 279 | 🌐 C# | 📅 2025-11-04 [\[Website\]](https://ai2thor.allenai.org/)
+  arXiv, 2017. [\[Paper\]](https://arxiv.org/abs/1712.05474) [\[Code\]](https://github.com/allenai/ai2thor) ⭐ 1,786 | 🐛 279 | 🌐 C# | 📅 2025-11-04 [\[Website\]](https://ai2thor.allenai.org/)
 
 * **Building Generalizable Agents with a Realistic and Rich 3D Environment (House3D)** <br>
   *Yi Wu, Yuxin Wu, Georgia Gkioxari, Yuandong Tian* <br>
@@ -821,7 +821,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **ALFWorld: Aligning Text and Embodied Environments for Interactive Learning** <br>
   *Mohit Shridhar, Xingdi Yuan, Marc-Alexandre Côté, Yonatan Bisk, Adam Trischler, Matthew Hausknecht*<br>
-  ICLR, 2021. [\[Paper\]](https://arxiv.org/abs/2010.03768) [\[Code\]](https://github.com/alfworld/alfworld) ⭐ 844 | 🐛 14 | 🌐 Python | 📅 2026-02-08 [\[Website\]](https://alfworld.github.io/)
+  ICLR, 2021. [\[Paper\]](https://arxiv.org/abs/2010.03768) [\[Code\]](https://github.com/alfworld/alfworld) ⭐ 846 | 🐛 14 | 🌐 Python | 📅 2026-02-08 [\[Website\]](https://alfworld.github.io/)
 
 * **VirtualHome: Simulating Household Activities via Programs** <br>
   *Xavier Puig\*, Kevin Ra\*, Marko Boben\*, Jiaman Li, Tingwu Wang, Sanja Fidler, Antonio Torralba* <br>
@@ -889,4 +889,4 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
