@@ -12,12 +12,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modular high-level library to train embodied AI agents across a variety of tasks and environments.",
+                "homepage": "https://aihabitat.org/",
                 "id": 169164391,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-07T22:03:51Z",
+                "open_issues": 388,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3110
+                "stars": 3110,
+                "topics": [
+                  "ai",
+                  "computer-vision",
+                  "deep-learning",
+                  "deep-reinforcement-learning",
+                  "python",
+                  "reinforcement-learning",
+                  "research",
+                  "robotics",
+                  "sim2real",
+                  "simulator"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -28,12 +44,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modular high-level library to train embodied AI agents across a variety of tasks and environments.",
+                "homepage": "https://aihabitat.org/",
                 "id": 169164391,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-07T22:03:51Z",
+                "open_issues": 388,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3110
+                "stars": 3110,
+                "topics": [
+                  "ai",
+                  "computer-vision",
+                  "deep-learning",
+                  "deep-reinforcement-learning",
+                  "python",
+                  "reinforcement-learning",
+                  "research",
+                  "robotics",
+                  "sim2real",
+                  "simulator"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -44,12 +76,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch code for ICLR-20 Paper \"Learning to Explore using Active Neural SLAM\"",
+                "homepage": "https://devendrachaplot.github.io/projects/neural-slam.html",
                 "id": 254725341,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-17T23:05:03Z",
+                "open_issues": 10,
                 "owner": "devendrachaplot",
                 "repo": "Neural-SLAM",
-                "stars": 851
+                "stars": 851,
+                "topics": [
+                  "active-neural-slam",
+                  "deep-learning",
+                  "deep-reinforcement-learning",
+                  "deep-rl",
+                  "exploration",
+                  "navigation",
+                  "neural-slam",
+                  "robotics",
+                  "visual-navigation"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -60,12 +107,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This repository contains code for our publication \"Occupancy Anticipation for Efficient Exploration and Navigation\" in ECCV 2020.",
+                "homepage": null,
                 "id": 287572068,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-07T01:32:29Z",
+                "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "OccupancyAnticipation",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -76,12 +128,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Code for SplitNet paper",
+                "homepage": null,
                 "id": 178291573,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-02-03T17:57:42Z",
+                "open_issues": 1,
                 "owner": "facebookresearch",
                 "repo": "splitnet",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -92,12 +149,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Resources for Auxiliary Tasks and Exploration Enable ObjectNav",
+                "homepage": null,
                 "id": 350796256,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-10-22T14:08:51Z",
+                "open_issues": 0,
                 "owner": "joel99",
                 "repo": "objectnav",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -108,12 +170,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Evaluating pre-trained navigation agents under corruptions",
+                "homepage": "https://prior.allenai.org/projects/robustnav",
                 "id": 370939315,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-09-07T05:00:42Z",
+                "open_issues": 1,
                 "owner": "allenai",
                 "repo": "robustnav",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "ai2thor-environment",
+                  "computer-vision",
+                  "deep-reinforcement-learning",
+                  "embodied-ai",
+                  "embodied-vision",
+                  "visual-navigation"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -124,12 +198,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 193778676,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-22T02:59:14Z",
+                "open_issues": 9,
                 "owner": "kchen92",
                 "repo": "graphnav",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -140,12 +219,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"Auxiliary Tasks Speed Up Learning PointGoal Navigation\"",
+                "homepage": null,
                 "id": 248789150,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-11-27T19:27:08Z",
+                "open_issues": 0,
                 "owner": "joel99",
                 "repo": "habitat-pointnav-aux",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -156,12 +240,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code for paper 'Comparison of Model Free and Model-Based Learning-Informed Planning for PointGoal Navigation' ",
+                "homepage": "https://yimengli46.github.io/Projects/CoRL2022LHPWorkshop/index.html",
                 "id": 550572710,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-18T03:45:17Z",
+                "open_issues": 0,
                 "owner": "yimengli46",
                 "repo": "bellman_point_goal",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "habitat-lab",
+                  "matterport3d-dataset",
+                  "model-based",
+                  "point-goal-navigation",
+                  "python",
+                  "robotics",
+                  "u-net",
+                  "visual-navigation"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             }
@@ -179,12 +277,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A first-of-its-kind acoustic simulation platform for audio-visual embodied AI research. It supports training and evaluating multiple tasks and applications.",
+                "homepage": "https://soundspaces.org",
                 "id": 282289621,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2023-09-29T03:24:35Z",
+                "open_issues": 56,
                 "owner": "facebookresearch",
                 "repo": "sound-spaces",
-                "stars": 470
+                "stars": 470,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -195,12 +298,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A first-of-its-kind acoustic simulation platform for audio-visual embodied AI research. It supports training and evaluating multiple tasks and applications.",
+                "homepage": "https://soundspaces.org",
                 "id": 282289621,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2023-09-29T03:24:35Z",
+                "open_issues": 56,
                 "owner": "facebookresearch",
                 "repo": "sound-spaces",
-                "stars": 470
+                "stars": 470,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -211,12 +319,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SAAVN Code release for paper \"Sound Adversarial Audio-Visual Navigation,ICLR2022\" (In PyTorch)",
+                "homepage": null,
                 "id": 455447434,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-09T02:32:42Z",
+                "open_issues": 2,
                 "owner": "yyf17",
                 "repo": "SAAVN",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             }
@@ -234,12 +347,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning to Learn how to Learn: Self-Adaptive Visual Navigation using Meta-Learning (https://arxiv.org/abs/1812.00971)",
+                "homepage": null,
                 "id": 177212861,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-20T19:40:15Z",
+                "open_issues": 25,
                 "owner": "allenai",
                 "repo": "savn",
-                "stars": 195
+                "stars": 195,
+                "topics": [
+                  "ai2thor-environment",
+                  "meta-learning",
+                  "reinforcement-learning",
+                  "self-adaptive"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -250,12 +373,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2021] Official implementation of \"The Surprising Effectiveness of Visual Odometry Techniques for Embodied PointGoal Navigation\"",
+                "homepage": "https://xiaoming-zhao.github.io/projects/pointnav-vo/",
                 "id": 398901643,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-23T06:26:51Z",
+                "open_issues": 1,
                 "owner": "Xiaoming-Zhao",
                 "repo": "PointNav-VO",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "embodied-ai",
+                  "iccv2021",
+                  "indoor-navigation",
+                  "visual-odometry"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -266,12 +401,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for reproducing the results of NeurIPS 2020 paper \"MultiON: Benchmarking Semantic Map Memory using Multi-Object Navigation”",
+                "homepage": null,
                 "id": 318281773,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-12-08T15:23:06Z",
+                "open_issues": 0,
                 "owner": "saimwani",
                 "repo": "multiON",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -282,12 +422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hierarchical Object-to-Zone Graph for Object Navigation (ICCV 2021)",
+                "homepage": null,
                 "id": 371283743,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-04T13:37:37Z",
+                "open_issues": 6,
                 "owner": "sx-zhang",
                 "repo": "HOZ",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -298,12 +443,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Navigation agent with Bayesian relational memory in the House3D environment",
+                "homepage": null,
                 "id": 93430062,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-09-13T21:28:45Z",
+                "open_issues": 0,
                 "owner": "jxwuyi",
                 "repo": "HouseNavAgent",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -314,12 +464,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Good Time to Ask: A Learning Framework for Asking for Help in Embodied Visual Navigation",
+                "homepage": "http://www.jennyzhangzt.com/gta/",
                 "id": 594498852,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-27T05:51:16Z",
+                "open_issues": 0,
                 "owner": "jennyzzt",
                 "repo": "good_time_to_ask",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "active-learning",
+                  "ai",
+                  "embodied-ai",
+                  "visual-navigation"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -330,12 +490,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 140499863,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-01-23T03:15:59Z",
+                "open_issues": 1,
                 "owner": "arsalan-mousavian",
                 "repo": "Navigation",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             }
@@ -353,12 +518,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Topological Semantic Graph Memory for Image Goal Navigation  (CoRL 2022 oral)",
+                "homepage": null,
                 "id": 562836909,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-24T10:37:55Z",
+                "open_issues": 8,
                 "owner": "rllab-snu",
                 "repo": "TopologicalSemanticGraphMemory",
-                "stars": 142
+                "stars": 142,
+                "topics": [
+                  "gibson",
+                  "gibson-dataset",
+                  "habitat",
+                  "image-goal",
+                  "image-goal-navigation",
+                  "indoor-navigation",
+                  "navigation",
+                  "reinforcement-learning",
+                  "semantic-prior",
+                  "topological-graph",
+                  "visual-navigation"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -369,12 +551,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2018] Tensorflow/Keras code for Semi-parametric Topological Memory for Navigation",
+                "homepage": null,
                 "id": 122266761,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-04-09T12:40:41Z",
+                "open_issues": 1,
                 "owner": "nsavinov",
                 "repo": "SPTM",
-                "stars": 106
+                "stars": 106,
+                "topics": [
+                  "deep-learning",
+                  "doom",
+                  "keras",
+                  "memory",
+                  "navigation",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -385,12 +579,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official GitHub Repository for paper \"Visual Graph Memory with Unsupervised Representation for Visual Navigation\", ICCV 2021",
+                "homepage": null,
                 "id": 397104186,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-11-24T10:27:22Z",
+                "open_issues": 0,
                 "owner": "rllab-snu",
                 "repo": "Visual-Graph-Memory",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "embodied-ai",
+                  "habitat-sim",
+                  "image-goal-navigation",
+                  "imitation-learning",
+                  "pytorch",
+                  "reinforcement-learning",
+                  "visual-navigation"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -401,12 +608,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Last-Mile Embodied Visual Navigation https://jbwasse2.github.io/portfolio/SLING/",
+                "homepage": null,
                 "id": 560120472,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-01T15:15:09Z",
+                "open_issues": 1,
                 "owner": "Jbwasse2",
                 "repo": "SLING",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -417,12 +629,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code for paper 'Learning View and Target Invariant Visual Servoing for Navigation'",
+                "homepage": null,
                 "id": 294983116,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-04-28T17:06:44Z",
+                "open_issues": 2,
                 "owner": "GMU-vision-robotics",
                 "repo": "View-Invariant-Visual-Servoing-for-Navigation",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             }
@@ -440,12 +657,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vision-and-Language Navigation in Continuous Environments using Habitat",
+                "homepage": "https://jacobkrantz.github.io/vlnce/",
                 "id": 252797712,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-07T18:53:33Z",
+                "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 858
+                "stars": 858,
+                "topics": [
+                  "ai",
+                  "computer-vision",
+                  "deep-learning",
+                  "python",
+                  "research",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -456,12 +685,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vision-and-Language Navigation in Continuous Environments using Habitat",
+                "homepage": "https://jacobkrantz.github.io/vlnce/",
                 "id": 252797712,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-07T18:53:33Z",
+                "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 858
+                "stars": 858,
+                "topics": [
+                  "ai",
+                  "computer-vision",
+                  "deep-learning",
+                  "python",
+                  "research",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -472,12 +713,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vision-and-Language Navigation in Continuous Environments using Habitat",
+                "homepage": "https://jacobkrantz.github.io/vlnce/",
                 "id": 252797712,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-07T18:53:33Z",
+                "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 858
+                "stars": 858,
+                "topics": [
+                  "ai",
+                  "computer-vision",
+                  "deep-learning",
+                  "python",
+                  "research",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -488,12 +741,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Research Platform for Reinforcement Learning from Real Panoramic Images.",
+                "homepage": null,
                 "id": 105216383,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-12T09:04:20Z",
+                "open_issues": 51,
                 "owner": "peteanderson80",
                 "repo": "Matterport3DSimulator",
-                "stars": 712
+                "stars": 712,
+                "topics": [
+                  "matterport3d-dataset",
+                  "matterport3d-simulator",
+                  "natural-language-processing",
+                  "reinforcement-learning",
+                  "rl",
+                  "simulator",
+                  "vision-and-language"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -504,12 +770,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code of the CVPR 2021 Oral paper: A Recurrent Vision-and-Language BERT for Navigation",
+                "homepage": null,
                 "id": 329508160,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-08-13T19:31:03Z",
+                "open_issues": 2,
                 "owner": "YicongHong",
                 "repo": "Recurrent-VLN-BERT",
-                "stars": 209
+                "stars": 209,
+                "topics": [
+                  "bert",
+                  "cvpr-oral",
+                  "cvpr2021",
+                  "pre-trained-model",
+                  "transformer",
+                  "vision-and-language",
+                  "vision-and-language-navigation"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -520,12 +799,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 402866949,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-19T22:43:08Z",
+                "open_issues": 13,
                 "owner": "google-research",
                 "repo": "pathdreamer",
-                "stars": 163
+                "stars": 163,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -536,12 +820,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of History Aware Multimodal Transformer for Vision-and-Language Navigation (NeurIPS'21).",
+                "homepage": null,
                 "id": 427344270,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-14T07:29:05Z",
+                "open_issues": 9,
                 "owner": "cshizhe",
                 "repo": "VLN-HAMT",
-                "stars": 149
+                "stars": 149,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -552,12 +841,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code release for Fried et al., Speaker-Follower Models for Vision-and-Language Navigation. in NeurIPS, 2018.",
+                "homepage": "http://ronghanghu.com/speaker_follower/",
                 "id": 148533777,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-22T02:08:41Z",
+                "open_issues": 11,
                 "owner": "ronghanghu",
                 "repo": "speaker_follower",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -568,12 +862,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch code for CVPR 2019 paper: The Regretful Agent: Heuristic-Aided Navigation through Progress Estimation",
+                "homepage": "https://arxiv.org/abs/1903.01602",
                 "id": 173049198,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-10-03T21:09:56Z",
+                "open_issues": 15,
                 "owner": "chihyaoma",
                 "repo": "regretful-agent",
-                "stars": 125
+                "stars": 125,
+                "topics": [
+                  "cvpr2019",
+                  "navigation",
+                  "pytorch",
+                  "vision-and-language"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -584,12 +888,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch code for ICLR 2019 paper: Self-Monitoring Navigation Agent via Auxiliary Progress Estimation",
+                "homepage": "https://arxiv.org/abs/1901.03035",
                 "id": 162737294,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-10-03T23:07:37Z",
+                "open_issues": 9,
                 "owner": "chihyaoma",
                 "repo": "selfmonitoring-agent",
-                "stars": 123
+                "stars": 123,
+                "topics": [
+                  "iclr2019",
+                  "navigation",
+                  "pytorch",
+                  "vision-and-language"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -600,12 +914,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cornell Touchdown natural language navigation and spatial reasoning dataset.",
+                "homepage": null,
                 "id": 158486898,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2020-09-05T21:32:02Z",
+                "open_issues": 1,
                 "owner": "lil-lab",
                 "repo": "touchdown",
-                "stars": 114
+                "stars": 114,
+                "topics": [
+                  "computer-vision",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "visual-language-grounding"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -616,12 +940,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "large scale pretrain for navigation task",
+                "homepage": null,
                 "id": 241232784,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-03-02T21:14:33Z",
+                "open_issues": 11,
                 "owner": "weituo12321",
                 "repo": "PREVALENT",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -632,12 +961,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Episodic Transformer (E.T.) is a novel attention-based architecture for vision-and-language navigation. E.T. is based on a multimodal transformer that encodes language inputs and the full episode history of visual observations and actions.",
+                "homepage": "https://sites.google.com/view/episodictransformer",
                 "id": 364225910,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-07-11T06:32:27Z",
+                "open_issues": 4,
                 "owner": "alexpashevich",
                 "repo": "E.T.",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -648,12 +982,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch code for ICRA'21 paper: \"Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation\"",
+                "homepage": "https://zubair-irshad.github.io/projects/robo-vln.html",
                 "id": 360163581,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-27T18:20:32Z",
+                "open_issues": 1,
                 "owner": "GT-RIPL",
                 "repo": "robo-vln",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "artificial-intelligence",
+                  "bert",
+                  "computer-vision",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "habitat-api",
+                  "habitat-sim",
+                  "language",
+                  "navigation",
+                  "python",
+                  "pytorch",
+                  "robotics",
+                  "supervised-learning",
+                  "transformers",
+                  "vision-and-language",
+                  "vision-and-language-navigation"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -664,12 +1020,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACM MM 2021 Oral] Official repo of \"Neighbor-view Enhanced Model for Vision and Language Navigation\"",
+                "homepage": null,
                 "id": 385857190,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-11-16T07:01:00Z",
+                "open_issues": 0,
                 "owner": "MarSaKi",
                 "repo": "NvEM",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "embodied-ai",
+                  "vision-and-language",
+                  "vision-language-navigation"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -680,12 +1045,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"Tactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation\"",
+                "homepage": "https://arxiv.org/abs/1903.02547",
                 "id": 174098007,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2019-09-24T22:51:53Z",
+                "open_issues": 2,
                 "owner": "Kelym",
                 "repo": "FAST",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -696,12 +1066,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code accompanying the CVPR 2019 paper: https://arxiv.org/abs/1812.04155",
+                "homepage": null,
                 "id": 145790590,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2022-03-30T18:35:32Z",
+                "open_issues": 0,
                 "owner": "debadeepta",
                 "repo": "vnla",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "assistant",
+                  "computer-vision",
+                  "imitation-learning",
+                  "microsoft-research",
+                  "nlp-machine-learning",
+                  "robotics-simulation"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -712,12 +1094,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code of the NeurIPS 2021 paper: Language and Visual Entity Relationship Graph for Agent Navigation",
+                "homepage": null,
                 "id": 303549681,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-10-31T11:50:29Z",
+                "open_issues": 0,
                 "owner": "YicongHong",
                 "repo": "Entity-Graph-VLN",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "deep-learning",
+                  "graph-neural-networks",
+                  "neurips-2021",
+                  "vision-and-language-navigation"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -728,12 +1120,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codebase for the Airbert paper",
+                "homepage": null,
                 "id": 391083672,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-20T10:39:23Z",
+                "open_issues": 1,
                 "owner": "airbert-vln",
                 "repo": "airbert",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -744,12 +1141,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The repository of ECCV 2020 paper `Active Visual Information Gathering for Vision-Language Navigation`",
+                "homepage": null,
                 "id": 277308893,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-09T17:22:30Z",
+                "open_issues": 1,
                 "owner": "HanqingWangAI",
                 "repo": "Active_VLN",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "eccv2020",
+                  "embodied-ai",
+                  "embodied-navigation",
+                  "navigation",
+                  "room-to-room",
+                  "vision-language"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -760,12 +1169,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and Data for our CVPR 2021 paper \"Structured Scene Memory for Vision-Language Navigation\"",
+                "homepage": null,
                 "id": 349026597,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-07-31T01:59:07Z",
+                "open_issues": 4,
                 "owner": "HanqingWangAI",
                 "repo": "SSM-VLN",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -776,12 +1190,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual Navigation with Natural Multimodal Assistance (EMNLP 2019)",
+                "homepage": null,
                 "id": 206078594,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2020-06-30T18:19:58Z",
+                "open_issues": 0,
                 "owner": "khanhptnk",
                 "repo": "hanna",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -792,12 +1211,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch code for BMVC 2019 paper: Embodied Vision-and-Language Navigation with Dynamic Convolutional Filters ",
+                "homepage": "https://bmvc2019.org/wp-content/uploads/papers/0384-paper.pdf",
                 "id": 210352524,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-01-04T11:16:19Z",
+                "open_issues": 15,
                 "owner": "aimagelab",
                 "repo": "DynamicConv-agent",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -808,12 +1232,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch code for the paper: \"Perceive, Transform, and Act: Multi-Modal Attention Networks for Vision-and-Language Navigation\"",
+                "homepage": null,
                 "id": 224471917,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-08-05T09:51:00Z",
+                "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "perceive-transform-and-act",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "attention",
+                  "language-navigation",
+                  "navigation",
+                  "pytorch",
+                  "transformer-architecture"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -824,12 +1259,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of \"Vision-Dialog Navigation by Exploring Cross-modal Memory\", CVPR 2020. ",
+                "homepage": null,
                 "id": 247074684,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-22T02:11:06Z",
+                "open_issues": 5,
                 "owner": "yeezhu",
                 "repo": "CMN.pytorch",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -840,12 +1280,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Know What and Know Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation",
+                "homepage": null,
                 "id": 388650754,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2022-02-07T22:45:19Z",
+                "open_issues": 1,
                 "owner": "YuankaiQi",
                 "repo": "ORIST",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -856,12 +1301,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for NeurIPS 2021 paper \"Curriculum Learning for Vision-and-Language Navigation\"",
+                "homepage": null,
                 "id": 420964934,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-13T04:28:09Z",
+                "open_issues": 2,
                 "owner": "IMNearth",
                 "repo": "Curriculum-Learning-For-VLN",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "computer-vision",
+                  "machine-learning",
+                  "vision-and-language"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -872,12 +1326,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Language-Aligned Waypoint (LAW) Supervision for Vision-and-Language Navigation in Continuous Environments",
+                "homepage": null,
                 "id": 345015387,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-11-29T16:29:14Z",
+                "open_issues": 1,
                 "owner": "3dlg-hcvc",
                 "repo": "LAW-VLNCE",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -888,12 +1347,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vision-Language Navigation with Random Environmental Mixup",
+                "homepage": null,
                 "id": 391904125,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-08-03T14:18:46Z",
+                "open_issues": 1,
                 "owner": "LCFractal",
                 "repo": "VLNREM",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -904,12 +1368,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for 'Chasing Ghosts: Instruction Following as Bayesian State Tracking' published at NeurIPS 2019",
+                "homepage": null,
                 "id": 225948902,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2020-01-10T03:55:14Z",
+                "open_issues": 2,
                 "owner": "batra-mlp-lab",
                 "repo": "vln-chasing-ghosts",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "neurips",
+                  "neurips-2019",
+                  "vision-and-language",
+                  "vision-and-language-navigation",
+                  "vln"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             }
@@ -927,12 +1402,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cordial-sync is a software package than can be used to reproduce the results from the paper \"A Cordial Sync: Going Beyond Marginal Policies for Multi-Agent Embodied Tasks”",
+                "homepage": null,
                 "id": 276750203,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-01-13T13:06:47Z",
+                "open_issues": 1,
                 "owner": "allenai",
                 "repo": "cordial-sync",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -943,12 +1423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SAAVN Code release for paper \"Sound Adversarial Audio-Visual Navigation,ICLR2022\" (In PyTorch)",
+                "homepage": null,
                 "id": 455447434,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-09T02:32:42Z",
+                "open_issues": 2,
                 "owner": "yyf17",
                 "repo": "SAAVN",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             }
@@ -966,12 +1451,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Active visual tracking library based on PyTorch.",
+                "homepage": null,
                 "id": 195059278,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-09T18:03:40Z",
+                "open_issues": 2,
                 "owner": "zfw1226",
                 "repo": "active_tracking_rl",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "active-tracking",
+                  "adversarial-reinforcement-learning",
+                  "multi-agent-learning"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -982,12 +1476,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Active visual tracking library based on PyTorch.",
+                "homepage": null,
                 "id": 195059278,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-09T18:03:40Z",
+                "open_issues": 2,
                 "owner": "zfw1226",
                 "repo": "active_tracking_rl",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "active-tracking",
+                  "adversarial-reinforcement-learning",
+                  "multi-agent-learning"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -998,12 +1501,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Active visual tracking library based on PyTorch.",
+                "homepage": null,
                 "id": 195059278,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-09T18:03:40Z",
+                "open_issues": 2,
                 "owner": "zfw1226",
                 "repo": "active_tracking_rl",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "active-tracking",
+                  "adversarial-reinforcement-learning",
+                  "multi-agent-learning"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -1014,12 +1526,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python implementation for paper: \"Pose-Assisted Multi-Camera Collaboration for Active Object Tracking\"（AAAI 2020）",
+                "homepage": null,
                 "id": 240450985,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-10T09:47:11Z",
+                "open_issues": 1,
                 "owner": "LilJing",
                 "repo": "pose-assisted-collaboration",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             }
@@ -1037,12 +1554,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2017] TensorFlow code for Curiosity-driven Exploration for Deep Reinforcement Learning",
+                "homepage": null,
                 "id": 91322593,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-07T23:59:41Z",
+                "open_issues": 35,
                 "owner": "pathak22",
                 "repo": "noreward-rl",
-                "stars": 1482
+                "stars": 1482,
+                "topics": [
+                  "curiosity",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "deep-reinforcement-learning",
+                  "doom",
+                  "exploration",
+                  "mario",
+                  "openai-gym",
+                  "rl",
+                  "self-supervised",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -1053,12 +1587,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch code for ICLR-20 Paper \"Learning to Explore using Active Neural SLAM\"",
+                "homepage": "https://devendrachaplot.github.io/projects/neural-slam.html",
                 "id": 254725341,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-17T23:05:03Z",
+                "open_issues": 10,
                 "owner": "devendrachaplot",
                 "repo": "Neural-SLAM",
-                "stars": 851
+                "stars": 851,
+                "topics": [
+                  "active-neural-slam",
+                  "deep-learning",
+                  "deep-reinforcement-learning",
+                  "deep-rl",
+                  "exploration",
+                  "navigation",
+                  "neural-slam",
+                  "robotics",
+                  "visual-navigation"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -1069,12 +1618,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Tensorflow/Keras code and trained models for Episodic Curiosity Through Reachability",
+                "homepage": null,
                 "id": 171925742,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2020-10-02T17:57:24Z",
+                "open_issues": 7,
                 "owner": "google-research",
                 "repo": "episodic-curiosity",
-                "stars": 205
+                "stars": 205,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -1085,12 +1639,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction",
+                "homepage": "https://gennbv.tech",
                 "id": 753453765,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-10T12:12:05Z",
+                "open_issues": 0,
                 "owner": "zjwzcx",
                 "repo": "GenNBV",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -1101,12 +1660,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(ICLR 2019) Learning Exploration Policies for Navigation",
+                "homepage": "https://sites.google.com/view/exploration-for-nav/",
                 "id": 173998055,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-04-29T19:56:06Z",
+                "open_issues": 2,
                 "owner": "taochenshh",
                 "repo": "exp4nav",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -1117,12 +1681,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This repository contains code for our publication \"Occupancy Anticipation for Efficient Exploration and Navigation\" in ECCV 2020.",
+                "homepage": null,
                 "id": 287572068,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-07T01:32:29Z",
+                "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "OccupancyAnticipation",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -1133,12 +1702,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sidekick Policy Learning for Active Visual Exploration (ECCV 2018)",
+                "homepage": null,
                 "id": 140138546,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-01-21T19:42:38Z",
+                "open_issues": 1,
                 "owner": "srama2512",
                 "repo": "sidekicks",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "exploration",
+                  "learning",
+                  "reinforcement",
+                  "visual"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -1149,12 +1728,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 434683296,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-12T13:59:43Z",
+                "open_issues": 0,
                 "owner": "aimagelab",
                 "repo": "focus-on-impact",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -1165,12 +1749,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Emergence of exploratory look-around behaviors through active observation completion (Science Robotics 2019)",
+                "homepage": "http://vision.cs.utexas.edu/projects/visual-exploration/",
                 "id": 197072109,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-01-21T19:52:10Z",
+                "open_issues": 2,
                 "owner": "srama2512",
                 "repo": "visual-exploration",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -1181,12 +1770,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Symmetry-aware Neural Architecture for Embodied Visual Exploration",
+                "homepage": null,
                 "id": 471002786,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-30T21:49:28Z",
+                "open_issues": 1,
                 "owner": "vincent341",
                 "repo": "S-ANS",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             }
@@ -1204,12 +1798,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Train embodied agents that can answer questions in environments",
+                "homepage": null,
                 "id": 137247305,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-07-25T15:23:56Z",
+                "open_issues": 20,
                 "owner": "facebookresearch",
                 "repo": "EmbodiedQA",
-                "stars": 315
+                "stars": 315,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             }
@@ -1227,12 +1826,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+                "homepage": null,
                 "id": 303795676,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-08T15:40:09Z",
+                "open_issues": 14,
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 846
+                "stars": 847,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -1243,12 +1847,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ALFRED - A Benchmark for Interpreting Grounded Instructions for Everyday Tasks",
+                "homepage": null,
                 "id": 227495032,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-02-05T10:08:24Z",
+                "open_issues": 23,
                 "owner": "askforalfred",
                 "repo": "alfred",
-                "stars": 529
+                "stars": 529,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -1259,12 +1868,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository containing code for the paper \"IQA: Visual Question Answering in Interactive Environments\"",
+                "homepage": null,
                 "id": 136536545,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-02-11T16:06:32Z",
+                "open_issues": 5,
                 "owner": "danielgordon10",
                 "repo": "thor-iqa-cvpr-2018",
-                "stars": 126
+                "stars": 126,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -1275,12 +1889,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ManipulaTHOR, a framework that facilitates visual manipulation of objects using a robotic arm",
+                "homepage": "https://ai2thor.allenai.org/manipulathor",
                 "id": 355720441,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-07T19:09:04Z",
+                "open_issues": 6,
                 "owner": "allenai",
                 "repo": "manipulathor",
-                "stars": 100
+                "stars": 100,
+                "topics": [
+                  "ai2thor-environment",
+                  "embodied-ai",
+                  "manipulathor",
+                  "object-manipulation"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -1291,12 +1915,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pushing it out of the Way: Interactive Visual Navigation",
+                "homepage": null,
                 "id": 362594632,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-26T01:20:27Z",
+                "open_issues": 2,
                 "owner": "KuoHaoZeng",
                 "repo": "Interactive_Visual_Navigation",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             }
@@ -1314,12 +1943,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modular high-level library to train embodied AI agents across a variety of tasks and environments.",
+                "homepage": "https://aihabitat.org/",
                 "id": 169164391,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-07T22:03:51Z",
+                "open_issues": 388,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3110
+                "stars": 3110,
+                "topics": [
+                  "ai",
+                  "computer-vision",
+                  "deep-learning",
+                  "deep-reinforcement-learning",
+                  "python",
+                  "reinforcement-learning",
+                  "research",
+                  "robotics",
+                  "sim2real",
+                  "simulator"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             },
@@ -1330,12 +1975,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔀 Visual Room Rearrangement",
+                "homepage": "https://ai2thor.allenai.org/rearrangement",
                 "id": 286929617,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-15T22:02:07Z",
+                "open_issues": 9,
                 "owner": "allenai",
                 "repo": "ai2thor-rearrangement",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "ai",
+                  "ai2-thor",
+                  "computer-vision",
+                  "physics-simuation",
+                  "python",
+                  "reinforcement-learning",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
             }
@@ -1357,12 +2015,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source platform for Visual AI.",
+            "homepage": "http://ai2thor.allenai.org",
             "id": 107305157,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-04T06:09:29Z",
+            "open_issues": 279,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1786
+            "stars": 1786,
+            "topics": [
+              "artificial-intelligence",
+              "computer-vision",
+              "interaction",
+              "physics-engine",
+              "visual-ai"
+            ]
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
         },
@@ -1373,12 +2042,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Replica Dataset v1 as published in https://arxiv.org/abs/1906.05797 .",
+            "homepage": null,
             "id": 169771349,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-22T12:41:43Z",
+            "open_issues": 67,
             "owner": "facebookresearch",
             "repo": "Replica-Dataset",
-            "stars": 1317
+            "stars": 1317,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
         },
@@ -1389,12 +2063,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Matterport3D is a pretty awesome dataset for RGB-D machine learning tasks :)",
+            "homepage": "https://niessner.github.io/Matterport/",
             "id": 76594116,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-11-03T12:14:52Z",
+            "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1245
+            "stars": 1245,
+            "topics": [
+              "3d-reconstruction",
+              "semantic-scene-understanding"
+            ]
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
         },
@@ -1405,12 +2087,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gibson Environments: Real-World Perception for Embodied Agents",
+            "homepage": "http://gibsonenv.stanford.edu/",
             "id": 114683429,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2024-04-15T12:20:11Z",
+            "open_issues": 49,
             "owner": "StanfordVL",
             "repo": "GibsonEnv",
-            "stars": 946
+            "stars": 946,
+            "topics": [
+              "computer-vision",
+              "cvpr2018",
+              "deep-learning",
+              "deep-reinforcement-learning",
+              "reinforcement-learning",
+              "research",
+              "robotics",
+              "ros",
+              "sim2real",
+              "simulator"
+            ]
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
         },
@@ -1421,12 +2119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 124310318,
             "language": "Matlab",
+            "license": "MIT",
             "last_commit": "2018-06-17T16:36:12Z",
+            "open_issues": 4,
             "owner": "ammirato",
             "repo": "active_vision_dataset_processing",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
         },
@@ -1437,12 +2140,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "EgoTV Egocentric Task Verification from Natural Language Task Descriptions",
+            "homepage": null,
             "id": 617521056,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-09T19:47:45Z",
+            "open_issues": 1,
             "owner": "facebookresearch",
             "repo": "EgoTV",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
         },
@@ -1453,12 +2161,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D household task-based dataset created using customised AI2-THOR.",
+            "homepage": null,
             "id": 278378338,
             "language": "C#",
+            "license": null,
             "last_commit": "2022-04-14T02:38:06Z",
+            "open_issues": 0,
             "owner": "SamsonYuBaiJian",
             "repo": "actionet",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "ai2-thor",
+              "ai2thor-environment",
+              "artificial-intelligence",
+              "dataset",
+              "embodied-artificial-intelligence",
+              "icip"
+            ]
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
         }
@@ -1475,12 +2195,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modular high-level library to train embodied AI agents across a variety of tasks and environments.",
+            "homepage": "https://aihabitat.org/",
             "id": 169164391,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-07T22:03:51Z",
+            "open_issues": 388,
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3110
+            "stars": 3110,
+            "topics": [
+              "ai",
+              "computer-vision",
+              "deep-learning",
+              "deep-reinforcement-learning",
+              "python",
+              "reinforcement-learning",
+              "research",
+              "robotics",
+              "sim2real",
+              "simulator"
+            ]
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
         },
@@ -1491,12 +2227,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UnrealCV: Connecting Computer Vision to Unreal Engine",
+            "homepage": "https://unrealcv.org",
             "id": 67727697,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:53:31Z",
+            "open_issues": 117,
             "owner": "unrealcv",
             "repo": "unrealcv",
-            "stars": 2209
+            "stars": 2209,
+            "topics": [
+              "computer-vision",
+              "embodied-ai",
+              "machine-learning",
+              "simulation",
+              "synthetic-data",
+              "ue4",
+              "ue5",
+              "virtual-worlds"
+            ]
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
         },
@@ -1507,12 +2257,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source platform for Visual AI.",
+            "homepage": "http://ai2thor.allenai.org",
             "id": 107305157,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-04T06:09:29Z",
+            "open_issues": 279,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1786
+            "stars": 1786,
+            "topics": [
+              "artificial-intelligence",
+              "computer-vision",
+              "interaction",
+              "physics-engine",
+              "visual-ai"
+            ]
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
         },
@@ -1523,12 +2284,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "a Realistic and Rich 3D Environment",
+            "homepage": null,
             "id": 112513665,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2020-07-06T04:41:49Z",
+            "open_issues": 10,
             "owner": "facebookresearch",
             "repo": "House3D",
-            "stars": 1200
+            "stars": 1200,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
         },
@@ -1539,12 +2305,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "a Realistic and Rich 3D Environment",
+            "homepage": null,
             "id": 112513665,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2020-07-06T04:41:49Z",
+            "open_issues": 10,
             "owner": "facebookresearch",
             "repo": "House3D",
-            "stars": 1200
+            "stars": 1200,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
         },
@@ -1555,12 +2326,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gibson Environments: Real-World Perception for Embodied Agents",
+            "homepage": "http://gibsonenv.stanford.edu/",
             "id": 114683429,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2024-04-15T12:20:11Z",
+            "open_issues": 49,
             "owner": "StanfordVL",
             "repo": "GibsonEnv",
-            "stars": 946
+            "stars": 946,
+            "topics": [
+              "computer-vision",
+              "cvpr2018",
+              "deep-learning",
+              "deep-reinforcement-learning",
+              "reinforcement-learning",
+              "research",
+              "robotics",
+              "ros",
+              "sim2real",
+              "simulator"
+            ]
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
         },
@@ -1571,12 +2358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+            "homepage": null,
             "id": 303795676,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-08T15:40:09Z",
+            "open_issues": 14,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 846
+            "stars": 847,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
         },
@@ -1587,12 +2379,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "API to run VirtualHome, a Multi-Agent Household Simulator",
+            "homepage": "http://virtual-home.org",
             "id": 177614859,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-20T03:19:25Z",
+            "open_issues": 58,
             "owner": "xavierpuigf",
             "repo": "virtualhome",
-            "stars": 630
+            "stars": 630,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "graph",
+              "multi-agent",
+              "reinforcement-learning",
+              "simulator",
+              "unity"
+            ]
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
         },
@@ -1603,12 +2408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ThreeDWorld simulation environment",
+            "homepage": null,
             "id": 245492977,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-06-03T12:57:30Z",
+            "open_issues": 22,
             "owner": "threedworld-mit",
             "repo": "tdw",
-            "stars": 606
+            "stars": 606,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
         },
@@ -1619,12 +2429,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ManipulaTHOR, a framework that facilitates visual manipulation of objects using a robotic arm",
+            "homepage": "https://ai2thor.allenai.org/manipulathor",
             "id": 355720441,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-07T19:09:04Z",
+            "open_issues": 6,
             "owner": "allenai",
             "repo": "manipulathor",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "ai2thor-environment",
+              "embodied-ai",
+              "manipulathor",
+              "object-manipulation"
+            ]
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
         },
@@ -1635,12 +2455,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cornell House Agent Learning Environment",
+            "homepage": null,
             "id": 118391591,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-06-22T20:20:24Z",
+            "open_issues": 1,
             "owner": "lil-lab",
             "repo": "chalet",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "computer-vision",
+              "graphics",
+              "natural-language-understanding",
+              "robotics-simulation",
+              "simulator",
+              "unity3d"
+            ]
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
         },
@@ -1651,12 +2483,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 813059950,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-18T12:38:52Z",
+            "open_issues": 2,
             "owner": "aimagelab",
             "repo": "pin",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
         }
@@ -1665,15 +2502,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:45:37.243Z",
+    "last_updated": "2026-08-29T04:41:35.757Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Reading list for research topics in embodied vision",
+      "homepage": null,
       "id": 277348364,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-06-13T18:55:49Z",
+      "open_issues": 4,
       "owner": "ChanganVR",
       "repo": "awesome-embodied-vision",
-      "stars": 706
+      "stars": 706,
+      "topics": [
+        "awesome-list",
+        "curated-list",
+        "embodied-vision",
+        "visual-exploration",
+        "visual-navigation",
+        "vln"
+      ]
     },
     "original_repository_sha": "27a814b8cadf18d764384fdda17435f28fdcc0a2",
     "enhanced_repository": "enhansome/enhansome-embodied-vision",
