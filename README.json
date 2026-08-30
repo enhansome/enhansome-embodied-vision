@@ -21,7 +21,7 @@
                 "open_issues": 388,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3111,
+                "stars": 3112,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -53,7 +53,7 @@
                 "open_issues": 388,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3111,
+                "stars": 3112,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -1952,7 +1952,7 @@
                 "open_issues": 388,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3111,
+                "stars": 3112,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -2021,7 +2021,7 @@
             "language": "C#",
             "license": "Apache-2.0",
             "last_commit": "2025-11-04T06:09:29Z",
-            "open_issues": 280,
+            "open_issues": 279,
             "owner": "allenai",
             "repo": "ai2thor",
             "stars": 1787,
@@ -2204,7 +2204,7 @@
             "open_issues": 388,
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3111,
+            "stars": 3112,
             "topics": [
               "ai",
               "computer-vision",
@@ -2263,7 +2263,7 @@
             "language": "C#",
             "license": "Apache-2.0",
             "last_commit": "2025-11-04T06:09:29Z",
-            "open_issues": 280,
+            "open_issues": 279,
             "owner": "allenai",
             "repo": "ai2thor",
             "stars": 1787,
@@ -2417,7 +2417,7 @@
             "open_issues": 22,
             "owner": "threedworld-mit",
             "repo": "tdw",
-            "stars": 606,
+            "stars": 607,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T20:55:45.309Z",
+    "last_updated": "2026-08-30T21:06:54.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
