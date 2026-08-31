@@ -21,7 +21,7 @@
                 "open_issues": 388,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3112,
+                "stars": 3115,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -53,7 +53,7 @@
                 "open_issues": 388,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3112,
+                "stars": 3115,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -666,7 +666,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 859,
+                "stars": 861,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -694,7 +694,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 859,
+                "stars": 861,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -722,7 +722,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 859,
+                "stars": 861,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -1150,7 +1150,7 @@
                 "open_issues": 1,
                 "owner": "HanqingWangAI",
                 "repo": "Active_VLN",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "eccv2020",
                   "embodied-ai",
@@ -1952,7 +1952,7 @@
                 "open_issues": 388,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3112,
+                "stars": 3115,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -2024,7 +2024,7 @@
             "open_issues": 279,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1787,
+            "stars": 1788,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -2051,7 +2051,7 @@
             "open_issues": 67,
             "owner": "facebookresearch",
             "repo": "Replica-Dataset",
-            "stars": 1317,
+            "stars": 1318,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2096,7 +2096,7 @@
             "open_issues": 49,
             "owner": "StanfordVL",
             "repo": "GibsonEnv",
-            "stars": 946,
+            "stars": 947,
             "topics": [
               "computer-vision",
               "cvpr2018",
@@ -2204,7 +2204,7 @@
             "open_issues": 388,
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3112,
+            "stars": 3115,
             "topics": [
               "ai",
               "computer-vision",
@@ -2266,7 +2266,7 @@
             "open_issues": 279,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1787,
+            "stars": 1788,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -2335,7 +2335,7 @@
             "open_issues": 49,
             "owner": "StanfordVL",
             "repo": "GibsonEnv",
-            "stars": 946,
+            "stars": 947,
             "topics": [
               "computer-vision",
               "cvpr2018",
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:06:54.595Z",
+    "last_updated": "2026-08-31T22:51:44.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
