@@ -21,7 +21,7 @@
                 "open_issues": 388,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3115,
+                "stars": 3117,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -53,7 +53,7 @@
                 "open_issues": 388,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3115,
+                "stars": 3117,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -527,7 +527,7 @@
                 "open_issues": 8,
                 "owner": "rllab-snu",
                 "repo": "TopologicalSemanticGraphMemory",
-                "stars": 142,
+                "stars": 143,
                 "topics": [
                   "gibson",
                   "gibson-dataset",
@@ -666,7 +666,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 861,
+                "stars": 862,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -694,7 +694,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 861,
+                "stars": 862,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -722,7 +722,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 861,
+                "stars": 862,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -750,7 +750,7 @@
                 "open_issues": 51,
                 "owner": "peteanderson80",
                 "repo": "Matterport3DSimulator",
-                "stars": 713,
+                "stars": 714,
                 "topics": [
                   "matterport3d-dataset",
                   "matterport3d-simulator",
@@ -1952,7 +1952,7 @@
                 "open_issues": 388,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3115,
+                "stars": 3117,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -2024,7 +2024,7 @@
             "open_issues": 279,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1788,
+            "stars": 1790,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -2072,7 +2072,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1245,
+            "stars": 1247,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -2204,7 +2204,7 @@
             "open_issues": 388,
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3115,
+            "stars": 3117,
             "topics": [
               "ai",
               "computer-vision",
@@ -2266,7 +2266,7 @@
             "open_issues": 279,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1788,
+            "stars": 1790,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -2417,7 +2417,7 @@
             "open_issues": 22,
             "owner": "threedworld-mit",
             "repo": "tdw",
-            "stars": 607,
+            "stars": 608,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T22:51:44.222Z",
+    "last_updated": "2026-09-01T21:03:01.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
