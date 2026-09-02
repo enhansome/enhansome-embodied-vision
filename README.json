@@ -829,7 +829,7 @@
                 "open_issues": 9,
                 "owner": "cshizhe",
                 "repo": "VLN-HAMT",
-                "stars": 149,
+                "stars": 150,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -871,7 +871,7 @@
                 "open_issues": 15,
                 "owner": "chihyaoma",
                 "repo": "regretful-agent",
-                "stars": 125,
+                "stars": 126,
                 "topics": [
                   "cvpr2019",
                   "navigation",
@@ -897,7 +897,7 @@
                 "open_issues": 9,
                 "owner": "chihyaoma",
                 "repo": "selfmonitoring-agent",
-                "stars": 123,
+                "stars": 124,
                 "topics": [
                   "iclr2019",
                   "navigation",
@@ -2072,7 +2072,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1247,
+            "stars": 1249,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T21:03:01.435Z",
+    "last_updated": "2026-09-02T21:04:31.128Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",

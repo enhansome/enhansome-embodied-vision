@@ -2,7 +2,7 @@
 
 > A curated list of embodied vision resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,012 | 🐛 105 | 📅 2026-08-21 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,370 | 🐛 105 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
 
 By [Changan Chen](https://changan.io) (<changan@cs.utexas.edu>), Department of Computer Science at the University of Texas at Austin, with help from [Tushar Nagarajan](https://tushar-n.github.io/), [Santhosh Kumar Ramakrishnan](https://srama2512.github.io/) and [Yinfeng Yu](https://yyf17.github.io/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
@@ -298,7 +298,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **History Aware Multimodal Transformer for Vision-and-Language Navigation** <br>
   *Shizhe Chen, Pierre-Louis Guhur, Cordelia Schmid, Ivan Laptev* <br>
-  NeurIPS, 2021. [\[Paper\]](https://arxiv.org/pdf/2110.13309.pdf) [\[Website\]](https://cshizhe.github.io/projects/vln_hamt.html) [\[Code\]](https://github.com/cshizhe/VLN-HAMT) ⭐ 149 | 🐛 9 | 🌐 Python | 📅 2023-06-14
+  NeurIPS, 2021. [\[Paper\]](https://arxiv.org/pdf/2110.13309.pdf) [\[Website\]](https://cshizhe.github.io/projects/vln_hamt.html) [\[Code\]](https://github.com/cshizhe/VLN-HAMT) ⭐ 150 | 🐛 9 | 🌐 Python | 📅 2023-06-14
 
 * **Speaker-Follower Models for Vision-and-Language Navigation** <br>
   *Daniel Fried, Ronghang Hu, Volkan Cirik, Anna Rohrbach, Jacob Andreas, Louis-Philippe Morency, Taylor Berg-Kirkpatrick, Kate Saenko, Dan Klein, Trevor Darrell* <br>
@@ -306,11 +306,11 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **The Regretful Agent: Heuristic-Aided Navigation through Progress Estimation** <br>
   *Chih-Yao Ma, Zuxuan Wu, Ghassan AlRegib, Caiming Xiong, Zsolt Kira* <br>
-  CVPR, 2019. [\[Paper\]](https://arxiv.org/abs/1903.01602) [\[Code\]](https://github.com/chihyaoma/regretful-agent) ⭐ 125 | 🐛 15 | 🌐 C++ | 📅 2023-10-03 [\[Website\]](https://chihyaoma.github.io/project/2019/02/25/regretful.html)
+  CVPR, 2019. [\[Paper\]](https://arxiv.org/abs/1903.01602) [\[Code\]](https://github.com/chihyaoma/regretful-agent) ⭐ 126 | 🐛 15 | 🌐 C++ | 📅 2023-10-03 [\[Website\]](https://chihyaoma.github.io/project/2019/02/25/regretful.html)
 
 * **Self-Monitoring Navigation Agent via Auxiliary Progress Estimation** <br>
   *Chih-Yao Ma, Jiasen Lu, Zuxuan Wu, Ghassan AlRegib, Zsolt Kira, Richard Socher, Caiming Xiong* <br>
-  ICLR, 2019. [\[Paper\]](https://arxiv.org/abs/1901.03035) [\[Code\]](https://github.com/chihyaoma/selfmonitoring-agent) ⭐ 123 | 🐛 9 | 🌐 C++ | 📅 2023-10-03 [\[Website\]](https://chihyaoma.github.io/project/2018/09/27/selfmonitoring.html)
+  ICLR, 2019. [\[Paper\]](https://arxiv.org/abs/1901.03035) [\[Code\]](https://github.com/chihyaoma/selfmonitoring-agent) ⭐ 124 | 🐛 9 | 🌐 C++ | 📅 2023-10-03 [\[Website\]](https://chihyaoma.github.io/project/2018/09/27/selfmonitoring.html)
 
 * **TOUCHDOWN: Natural Language Navigation and Spatial Reasoning in Visual Street Environments** <br>
   *Howard Chen, Alane Suhr, Dipendra Misra, Noah Snavely, Yoav Artzi* <br>
@@ -763,7 +763,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Matterport3D: Learning from RGB-D Data in Indoor Environments** <br>
   *Angel Chang, Angela Dai, Thomas Funkhouser, Maciej Halber, Matthias Nießner, Manolis Savva, Shuran Song, Andy Zeng, Yinda Zhang* <br>
-  3DV, 2017. [\[Paper\]](https://arxiv.org/pdf/1709.06158.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,247 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://niessner.github.io/Matterport/)
+  3DV, 2017. [\[Paper\]](https://arxiv.org/pdf/1709.06158.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,249 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://niessner.github.io/Matterport/)
 
 * **Gibson Env: Real-World Perception for Embodied Agents** <br>
   *Fei Xia, Amir Zamir, Zhi-Yang He, Alexander Sax, Jitendra Malik, Silvio Savarese* <br>
@@ -889,4 +889,4 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
