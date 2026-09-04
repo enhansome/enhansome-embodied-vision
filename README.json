@@ -21,7 +21,7 @@
                 "open_issues": 388,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3118,
+                "stars": 3120,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -53,7 +53,7 @@
                 "open_issues": 388,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3118,
+                "stars": 3120,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -666,7 +666,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 862,
+                "stars": 864,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -694,7 +694,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 862,
+                "stars": 864,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -722,7 +722,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 862,
+                "stars": 864,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -1856,7 +1856,7 @@
                 "open_issues": 23,
                 "owner": "askforalfred",
                 "repo": "alfred",
-                "stars": 530,
+                "stars": 531,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -1952,7 +1952,7 @@
                 "open_issues": 388,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3118,
+                "stars": 3120,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -1984,7 +1984,7 @@
                 "open_issues": 9,
                 "owner": "allenai",
                 "repo": "ai2thor-rearrangement",
-                "stars": 128,
+                "stars": 129,
                 "topics": [
                   "ai",
                   "ai2-thor",
@@ -2021,7 +2021,7 @@
             "language": "C#",
             "license": "Apache-2.0",
             "last_commit": "2025-11-04T06:09:29Z",
-            "open_issues": 279,
+            "open_issues": 280,
             "owner": "allenai",
             "repo": "ai2thor",
             "stars": 1790,
@@ -2051,7 +2051,7 @@
             "open_issues": 67,
             "owner": "facebookresearch",
             "repo": "Replica-Dataset",
-            "stars": 1320,
+            "stars": 1321,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2204,7 +2204,7 @@
             "open_issues": 388,
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3118,
+            "stars": 3120,
             "topics": [
               "ai",
               "computer-vision",
@@ -2232,11 +2232,11 @@
             "id": 67727697,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-03T08:28:13Z",
-            "open_issues": 117,
+            "last_commit": "2026-09-04T06:49:58Z",
+            "open_issues": 118,
             "owner": "unrealcv",
             "repo": "unrealcv",
-            "stars": 2209,
+            "stars": 2210,
             "topics": [
               "computer-vision",
               "embodied-ai",
@@ -2263,7 +2263,7 @@
             "language": "C#",
             "license": "Apache-2.0",
             "last_commit": "2025-11-04T06:09:29Z",
-            "open_issues": 279,
+            "open_issues": 280,
             "owner": "allenai",
             "repo": "ai2thor",
             "stars": 1790,
@@ -2388,7 +2388,7 @@
             "open_issues": 58,
             "owner": "xavierpuigf",
             "repo": "virtualhome",
-            "stars": 631,
+            "stars": 632,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -2417,7 +2417,7 @@
             "open_issues": 22,
             "owner": "threedworld-mit",
             "repo": "tdw",
-            "stars": 608,
+            "stars": 609,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:02:57.307Z",
+    "last_updated": "2026-09-04T20:46:23.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
