@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-07T22:03:51Z",
-                "open_issues": 388,
+                "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
                 "stars": 3120,
@@ -50,7 +50,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-07T22:03:51Z",
-                "open_issues": 388,
+                "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
                 "stars": 3120,
@@ -666,7 +666,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 864,
+                "stars": 865,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -694,7 +694,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 864,
+                "stars": 865,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -722,7 +722,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 864,
+                "stars": 865,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -850,7 +850,7 @@
                 "open_issues": 11,
                 "owner": "ronghanghu",
                 "repo": "speaker_follower",
-                "stars": 139,
+                "stars": 140,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -897,7 +897,7 @@
                 "open_issues": 9,
                 "owner": "chihyaoma",
                 "repo": "selfmonitoring-agent",
-                "stars": 124,
+                "stars": 125,
                 "topics": [
                   "iclr2019",
                   "navigation",
@@ -1563,7 +1563,7 @@
                 "open_issues": 35,
                 "owner": "pathak22",
                 "repo": "noreward-rl",
-                "stars": 1482,
+                "stars": 1483,
                 "topics": [
                   "curiosity",
                   "deep-learning",
@@ -1835,7 +1835,7 @@
                 "open_issues": 14,
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 848,
+                "stars": 849,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -1949,7 +1949,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-07T22:03:51Z",
-                "open_issues": 388,
+                "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
                 "stars": 3120,
@@ -2201,7 +2201,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-05-07T22:03:51Z",
-            "open_issues": 388,
+            "open_issues": 390,
             "owner": "facebookresearch",
             "repo": "habitat-lab",
             "stars": 3120,
@@ -2367,7 +2367,7 @@
             "open_issues": 14,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 848,
+            "stars": 849,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T20:46:23.834Z",
+    "last_updated": "2026-09-05T20:21:48.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",

@@ -2,7 +2,7 @@
 
 > A curated list of embodied vision resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,997 | 🐛 106 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,292 | 🐛 106 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
 
 By [Changan Chen](https://changan.io) (<changan@cs.utexas.edu>), Department of Computer Science at the University of Texas at Austin, with help from [Tushar Nagarajan](https://tushar-n.github.io/), [Santhosh Kumar Ramakrishnan](https://srama2512.github.io/) and [Yinfeng Yu](https://yyf17.github.io/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
@@ -41,11 +41,11 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Habitat: A Platform for Embodied AI Research** <br>
   *Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra* <br>
-  ICCV, 2019. [\[Paper\]](https://arxiv.org/abs/1904.01201) [\[Code\]](https://github.com/facebookresearch/habitat-api) ⭐ 3,120 | 🐛 388 | 🌐 Python | 📅 2026-05-07 [\[Website\]](https://aihabitat.org/)
+  ICCV, 2019. [\[Paper\]](https://arxiv.org/abs/1904.01201) [\[Code\]](https://github.com/facebookresearch/habitat-api) ⭐ 3,120 | 🐛 390 | 🌐 Python | 📅 2026-05-07 [\[Website\]](https://aihabitat.org/)
 
 * **DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames** <br>
   *Erik Wijmans, Abhishek Kadian, Ari Morcos, Stefan Lee, Irfan Essa, Devi Parikh, Manolis Savva, Dhruv Batra* <br>
-  ICLR, 2020. [\[Paper\]](https://arxiv.org/abs/1911.00357) [\[Code\]](https://github.com/facebookresearch/habitat-api/tree/master/habitat_baselines/rl/ddppo) ⭐ 3,120 | 🐛 388 | 🌐 Python | 📅 2026-05-07 [\[Website\]](https://wijmans.xyz/publication/ddppo-2019/)
+  ICLR, 2020. [\[Paper\]](https://arxiv.org/abs/1911.00357) [\[Code\]](https://github.com/facebookresearch/habitat-api/tree/master/habitat_baselines/rl/ddppo) ⭐ 3,120 | 🐛 390 | 🌐 Python | 📅 2026-05-07 [\[Website\]](https://wijmans.xyz/publication/ddppo-2019/)
 
 * **Learning to Explore using Active Neural SLAM** <br>
   *Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov* <br>
@@ -274,15 +274,15 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments** <br>
   *Jacob Krantz, Erik Wijmans, Arjun Majumdar, Dhruv Batra, Stefan Lee* <br>
-  ECCV, 2020. [\[Paper\]](https://arxiv.org/abs/2004.02857) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 864 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/vlnce)
+  ECCV, 2020. [\[Paper\]](https://arxiv.org/abs/2004.02857) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 865 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/vlnce)
 
 * **Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling** <br>
   *Tsu-Jui Fu, Xin Eric Wang, Matthew Peterson, Scott Grafton, Miguel Eckstein, William Yang Wang* <br>
-  ECCV, 2020. [\[Paper\]](https://arxiv.org/abs/1911.07308) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 864 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/vlnce)
+  ECCV, 2020. [\[Paper\]](https://arxiv.org/abs/1911.07308) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 865 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/vlnce)
 
 * **Waypoint Models for Instruction-guided Navigation in Continuous Environments** <br>
   *Jacob Krantz, Aaron Gokaslan, Dhruv Batra, Stefan Lee, Oleksandr Maksymets* <br>
-  ICCV, 2021. [\[Paper\]](https://arxiv.org/pdf/2106.07876.pdf) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 864 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/waypoint-vlnce/)
+  ICCV, 2021. [\[Paper\]](https://arxiv.org/pdf/2106.07876.pdf) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 865 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/waypoint-vlnce/)
 
 * **Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments** <br>
   *Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel* <br>
@@ -302,7 +302,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Speaker-Follower Models for Vision-and-Language Navigation** <br>
   *Daniel Fried, Ronghang Hu, Volkan Cirik, Anna Rohrbach, Jacob Andreas, Louis-Philippe Morency, Taylor Berg-Kirkpatrick, Kate Saenko, Dan Klein, Trevor Darrell* <br>
-  NeurIPS, 2018. [\[Paper\]](https://arxiv.org/abs/1806.02724) [\[Code\]](https://github.com/ronghanghu/speaker_follower) ⭐ 139 | 🐛 11 | 🌐 C++ | 📅 2022-11-22 [\[Website\]](http://ronghanghu.com/speaker_follower/)
+  NeurIPS, 2018. [\[Paper\]](https://arxiv.org/abs/1806.02724) [\[Code\]](https://github.com/ronghanghu/speaker_follower) ⭐ 140 | 🐛 11 | 🌐 C++ | 📅 2022-11-22 [\[Website\]](http://ronghanghu.com/speaker_follower/)
 
 * **The Regretful Agent: Heuristic-Aided Navigation through Progress Estimation** <br>
   *Chih-Yao Ma, Zuxuan Wu, Ghassan AlRegib, Caiming Xiong, Zsolt Kira* <br>
@@ -310,7 +310,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Self-Monitoring Navigation Agent via Auxiliary Progress Estimation** <br>
   *Chih-Yao Ma, Jiasen Lu, Zuxuan Wu, Ghassan AlRegib, Zsolt Kira, Richard Socher, Caiming Xiong* <br>
-  ICLR, 2019. [\[Paper\]](https://arxiv.org/abs/1901.03035) [\[Code\]](https://github.com/chihyaoma/selfmonitoring-agent) ⭐ 124 | 🐛 9 | 🌐 C++ | 📅 2023-10-03 [\[Website\]](https://chihyaoma.github.io/project/2018/09/27/selfmonitoring.html)
+  ICLR, 2019. [\[Paper\]](https://arxiv.org/abs/1901.03035) [\[Code\]](https://github.com/chihyaoma/selfmonitoring-agent) ⭐ 125 | 🐛 9 | 🌐 C++ | 📅 2023-10-03 [\[Website\]](https://chihyaoma.github.io/project/2018/09/27/selfmonitoring.html)
 
 * **TOUCHDOWN: Natural Language Navigation and Spatial Reasoning in Visual Street Environments** <br>
   *Howard Chen, Alane Suhr, Dipendra Misra, Noah Snavely, Yoav Artzi* <br>
@@ -577,7 +577,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Curiosity-driven Exploration by Self-supervised Prediction** <br>
   *Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell* <br>
-  ICML, 2017. [\[Paper\]](https://arxiv.org/pdf/1705.05363.pdf) [\[Code\]](https://github.com/pathak22/noreward-rl) ⭐ 1,482 | 🐛 35 | 🌐 Python | 📅 2022-12-07 [\[Website\]](https://pathak22.github.io/noreward-rl/)
+  ICML, 2017. [\[Paper\]](https://arxiv.org/pdf/1705.05363.pdf) [\[Code\]](https://github.com/pathak22/noreward-rl) ⭐ 1,483 | 🐛 35 | 🌐 Python | 📅 2022-12-07 [\[Website\]](https://pathak22.github.io/noreward-rl/)
 
 * **Learning to Explore using Active Neural SLAM** <br>
   *Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov* <br>
@@ -665,7 +665,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **ALFWorld: Aligning Text and Embodied Environments for Interactive Learning** <br>
   *Mohit Shridhar, Xingdi Yuan, Marc-Alexandre Côté, Yonatan Bisk, Adam Trischler, Matthew Hausknecht* <br>
-  ICLR, 2021. [\[Paper\]](https://arxiv.org/pdf/2010.03768.pdf) [\[Code\]](https://github.com/alfworld/alfworld) ⭐ 848 | 🐛 14 | 🌐 Python | 📅 2026-02-08 [\[Website\]](https://alfworld.github.io/)
+  ICLR, 2021. [\[Paper\]](https://arxiv.org/pdf/2010.03768.pdf) [\[Code\]](https://github.com/alfworld/alfworld) ⭐ 849 | 🐛 14 | 🌐 Python | 📅 2026-02-08 [\[Website\]](https://alfworld.github.io/)
 
 * **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks** <br>
   *Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, Dieter Fox* <br>
@@ -711,7 +711,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Habitat 2.0: Training Home Assistants to Rearrange their Habitat** <br>
   *Andrew Szot, Alex Clegg, Eric Undersander, Erik Wijmans, Yili Zhao, John Turner, Noah Maestre, Mustafa Mukadam, Devendra Chaplot, Oleksandr Maksymets, Aaron Gokaslan, Vladimir Vondrus, Sameer Dharur, Franziska Meier, Wojciech Galuba, Angel Chang, Zsolt Kira, Vladlen Koltun, Jitendra Malik, Manolis Savva, Dhruv Batra* <br>
-  NeurIPS 2021. [\[Paper\]](https://arxiv.org/abs/2106.14405) [\[Code\]](https://github.com/facebookresearch/habitat-lab/) ⭐ 3,120 | 🐛 388 | 🌐 Python | 📅 2026-05-07
+  NeurIPS 2021. [\[Paper\]](https://arxiv.org/abs/2106.14405) [\[Code\]](https://github.com/facebookresearch/habitat-lab/) ⭐ 3,120 | 🐛 390 | 🌐 Python | 📅 2026-05-07
 
 * **Visual Room Rearrangement** <br>
   *Luca Weihs, Matt Deitke, Aniruddha Kembhavi, and Roozbeh Mottaghi* <br>
@@ -797,7 +797,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Habitat: A Platform for Embodied AI Research** <br>
   *Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra* <br>
-  ICCV, 2019. [\[Paper\]](https://arxiv.org/abs/1904.01201) [\[Code\]](https://github.com/facebookresearch/habitat-api) ⭐ 3,120 | 🐛 388 | 🌐 Python | 📅 2026-05-07 [\[Website\]](https://aihabitat.org/)
+  ICCV, 2019. [\[Paper\]](https://arxiv.org/abs/1904.01201) [\[Code\]](https://github.com/facebookresearch/habitat-api) ⭐ 3,120 | 🐛 390 | 🌐 Python | 📅 2026-05-07 [\[Website\]](https://aihabitat.org/)
 
 * **UnrealCV: Virtual Worlds for Computer Vision** <br>
   *Weichao Qiu, Fangwei Zhong, Yi Zhang, Siyuan Qiao, Zihao Xiao, Tae Soo Kim, Yizhou Wang, Alan Yuille* <br>
@@ -821,7 +821,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **ALFWorld: Aligning Text and Embodied Environments for Interactive Learning** <br>
   *Mohit Shridhar, Xingdi Yuan, Marc-Alexandre Côté, Yonatan Bisk, Adam Trischler, Matthew Hausknecht*<br>
-  ICLR, 2021. [\[Paper\]](https://arxiv.org/abs/2010.03768) [\[Code\]](https://github.com/alfworld/alfworld) ⭐ 848 | 🐛 14 | 🌐 Python | 📅 2026-02-08 [\[Website\]](https://alfworld.github.io/)
+  ICLR, 2021. [\[Paper\]](https://arxiv.org/abs/2010.03768) [\[Code\]](https://github.com/alfworld/alfworld) ⭐ 849 | 🐛 14 | 🌐 Python | 📅 2026-02-08 [\[Website\]](https://alfworld.github.io/)
 
 * **VirtualHome: Simulating Household Activities via Programs** <br>
   *Xavier Puig\*, Kevin Ra\*, Marko Boben\*, Jiaman Li, Tingwu Wang, Sanja Fidler, Antonio Torralba* <br>
@@ -889,4 +889,4 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
