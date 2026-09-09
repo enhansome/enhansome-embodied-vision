@@ -666,7 +666,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 866,
+                "stars": 867,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -694,7 +694,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 866,
+                "stars": 867,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -722,7 +722,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 866,
+                "stars": 867,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -923,7 +923,7 @@
                 "open_issues": 1,
                 "owner": "lil-lab",
                 "repo": "touchdown",
-                "stars": 114,
+                "stars": 113,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -1835,7 +1835,7 @@
                 "open_issues": 14,
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 855,
+                "stars": 856,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2072,7 +2072,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1251,
+            "stars": 1252,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -2236,7 +2236,7 @@
             "open_issues": 118,
             "owner": "unrealcv",
             "repo": "unrealcv",
-            "stars": 2211,
+            "stars": 2213,
             "topics": [
               "computer-vision",
               "embodied-ai",
@@ -2367,7 +2367,7 @@
             "open_issues": 14,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 855,
+            "stars": 856,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T21:10:20.199Z",
+    "last_updated": "2026-09-09T20:56:37.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
