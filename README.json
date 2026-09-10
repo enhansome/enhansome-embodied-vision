@@ -286,7 +286,7 @@
                 "open_issues": 56,
                 "owner": "facebookresearch",
                 "repo": "sound-spaces",
-                "stars": 471,
+                "stars": 472,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -307,7 +307,7 @@
                 "open_issues": 56,
                 "owner": "facebookresearch",
                 "repo": "sound-spaces",
-                "stars": 471,
+                "stars": 472,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -1563,7 +1563,7 @@
                 "open_issues": 35,
                 "owner": "pathak22",
                 "repo": "noreward-rl",
-                "stars": 1484,
+                "stars": 1485,
                 "topics": [
                   "curiosity",
                   "deep-learning",
@@ -2024,7 +2024,7 @@
             "open_issues": 280,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1791,
+            "stars": 1792,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -2051,7 +2051,7 @@
             "open_issues": 67,
             "owner": "facebookresearch",
             "repo": "Replica-Dataset",
-            "stars": 1323,
+            "stars": 1325,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2266,7 +2266,7 @@
             "open_issues": 280,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1791,
+            "stars": 1792,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T20:56:37.302Z",
+    "last_updated": "2026-09-10T20:53:09.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
@@ -2514,7 +2514,7 @@
       "open_issues": 4,
       "owner": "ChanganVR",
       "repo": "awesome-embodied-vision",
-      "stars": 707,
+      "stars": 708,
       "topics": [
         "awesome-list",
         "curated-list",

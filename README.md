@@ -2,7 +2,7 @@
 
 > A curated list of embodied vision resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,519 | 🐛 106 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,803 | 🐛 106 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
 
 By [Changan Chen](https://changan.io) (<changan@cs.utexas.edu>), Department of Computer Science at the University of Texas at Austin, with help from [Tushar Nagarajan](https://tushar-n.github.io/), [Santhosh Kumar Ramakrishnan](https://srama2512.github.io/) and [Yinfeng Yu](https://yyf17.github.io/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
@@ -577,7 +577,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Curiosity-driven Exploration by Self-supervised Prediction** <br>
   *Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell* <br>
-  ICML, 2017. [\[Paper\]](https://arxiv.org/pdf/1705.05363.pdf) [\[Code\]](https://github.com/pathak22/noreward-rl) ⭐ 1,484 | 🐛 35 | 🌐 Python | 📅 2022-12-07 [\[Website\]](https://pathak22.github.io/noreward-rl/)
+  ICML, 2017. [\[Paper\]](https://arxiv.org/pdf/1705.05363.pdf) [\[Code\]](https://github.com/pathak22/noreward-rl) ⭐ 1,485 | 🐛 35 | 🌐 Python | 📅 2022-12-07 [\[Website\]](https://pathak22.github.io/noreward-rl/)
 
 * **Learning to Explore using Active Neural SLAM** <br>
   *Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov* <br>
@@ -755,11 +755,11 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
   *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
-  arXiv, 2017. [\[Paper\]](https://arxiv.org/abs/1712.05474) [\[Code\]](https://github.com/allenai/ai2thor) ⭐ 1,791 | 🐛 280 | 🌐 C# | 📅 2025-11-04 [\[Website\]](https://ai2thor.allenai.org/)
+  arXiv, 2017. [\[Paper\]](https://arxiv.org/abs/1712.05474) [\[Code\]](https://github.com/allenai/ai2thor) ⭐ 1,792 | 🐛 280 | 🌐 C# | 📅 2025-11-04 [\[Website\]](https://ai2thor.allenai.org/)
 
 * **The Replica Dataset: A Digital Replica of Indoor Spaces** <br>
   *Julian Straub, Thomas Whelan, Lingni Ma, Yufan Chen, Erik Wijmans, Simon Green, Jakob J. Engel, Raul Mur-Artal, Carl Ren, Shobhit Verma, Anton Clarkson, Mingfei Yan, Brian Budge, Yajie Yan, Xiaqing Pan, June Yon, Yuyang Zou, Kimberly Leon, Nigel Carter, Jesus Briales, Tyler Gillingham, Elias Mueggler, Luis Pesqueira, Manolis Savva, Dhruv Batra, Hauke M. Strasdat, Renzo De Nardi, Michael Goesele, Steven Lovegrove, Richard Newcombe* <br>
-  arXiV, 2019. [\[Paper\]](https://arxiv.org/pdf/1906.05797.pdf) [\[Code\]](https://github.com/facebookresearch/Replica-Dataset) ⭐ 1,323 | 🐛 67 | 🌐 C++ | 📅 2024-07-22
+  arXiV, 2019. [\[Paper\]](https://arxiv.org/pdf/1906.05797.pdf) [\[Code\]](https://github.com/facebookresearch/Replica-Dataset) ⭐ 1,325 | 🐛 67 | 🌐 C++ | 📅 2024-07-22
 
 * **Matterport3D: Learning from RGB-D Data in Indoor Environments** <br>
   *Angel Chang, Angela Dai, Thomas Funkhouser, Maciej Halber, Matthias Nießner, Manolis Savva, Shuran Song, Andy Zeng, Yinda Zhang* <br>
@@ -805,7 +805,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
   *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
-  arXiv, 2017. [\[Paper\]](https://arxiv.org/abs/1712.05474) [\[Code\]](https://github.com/allenai/ai2thor) ⭐ 1,791 | 🐛 280 | 🌐 C# | 📅 2025-11-04 [\[Website\]](https://ai2thor.allenai.org/)
+  arXiv, 2017. [\[Paper\]](https://arxiv.org/abs/1712.05474) [\[Code\]](https://github.com/allenai/ai2thor) ⭐ 1,792 | 🐛 280 | 🌐 C# | 📅 2025-11-04 [\[Website\]](https://ai2thor.allenai.org/)
 
 * **Building Generalizable Agents with a Realistic and Rich 3D Environment (House3D)** <br>
   *Yi Wu, Yuxin Wu, Georgia Gkioxari, Yuandong Tian* <br>
@@ -889,4 +889,4 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
