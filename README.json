@@ -21,7 +21,7 @@
                 "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3126,
+                "stars": 3128,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -53,7 +53,7 @@
                 "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3126,
+                "stars": 3128,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -666,7 +666,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 867,
+                "stars": 868,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -694,7 +694,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 867,
+                "stars": 868,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -722,7 +722,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 867,
+                "stars": 868,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -1835,7 +1835,7 @@
                 "open_issues": 14,
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 856,
+                "stars": 857,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -1952,7 +1952,7 @@
                 "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3126,
+                "stars": 3128,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -2204,7 +2204,7 @@
             "open_issues": 390,
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3126,
+            "stars": 3128,
             "topics": [
               "ai",
               "computer-vision",
@@ -2367,7 +2367,7 @@
             "open_issues": 14,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 856,
+            "stars": 857,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T20:53:09.799Z",
+    "last_updated": "2026-09-11T20:58:29.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
