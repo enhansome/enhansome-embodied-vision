@@ -666,7 +666,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 868,
+                "stars": 869,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -694,7 +694,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 868,
+                "stars": 869,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -722,7 +722,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 868,
+                "stars": 869,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -2236,7 +2236,7 @@
             "open_issues": 118,
             "owner": "unrealcv",
             "repo": "unrealcv",
-            "stars": 2213,
+            "stars": 2214,
             "topics": [
               "computer-vision",
               "embodied-ai",
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T20:58:29.419Z",
+    "last_updated": "2026-09-12T20:34:05.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
