@@ -666,7 +666,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 873,
+                "stars": 874,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -694,7 +694,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 873,
+                "stars": 874,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -722,7 +722,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 873,
+                "stars": 874,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -1835,7 +1835,7 @@
                 "open_issues": 14,
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 860,
+                "stars": 861,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -1856,7 +1856,7 @@
                 "open_issues": 23,
                 "owner": "askforalfred",
                 "repo": "alfred",
-                "stars": 531,
+                "stars": 532,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2024,7 +2024,7 @@
             "open_issues": 280,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1792,
+            "stars": 1794,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -2266,7 +2266,7 @@
             "open_issues": 280,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1792,
+            "stars": 1794,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -2367,7 +2367,7 @@
             "open_issues": 14,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 860,
+            "stars": 861,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2388,7 +2388,7 @@
             "open_issues": 58,
             "owner": "xavierpuigf",
             "repo": "virtualhome",
-            "stars": 632,
+            "stars": 633,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T21:21:48.365Z",
+    "last_updated": "2026-09-16T21:19:01.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
