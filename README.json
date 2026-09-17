@@ -21,7 +21,7 @@
                 "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3133,
+                "stars": 3135,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -53,7 +53,7 @@
                 "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3133,
+                "stars": 3135,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -382,7 +382,7 @@
                 "open_issues": 1,
                 "owner": "Xiaoming-Zhao",
                 "repo": "PointNav-VO",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -666,7 +666,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 874,
+                "stars": 875,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -694,7 +694,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 874,
+                "stars": 875,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -722,7 +722,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 874,
+                "stars": 875,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -779,7 +779,7 @@
                 "open_issues": 2,
                 "owner": "YicongHong",
                 "repo": "Recurrent-VLN-BERT",
-                "stars": 209,
+                "stars": 210,
                 "topics": [
                   "bert",
                   "cvpr-oral",
@@ -1835,7 +1835,7 @@
                 "open_issues": 14,
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 861,
+                "stars": 862,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -1952,7 +1952,7 @@
                 "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3133,
+                "stars": 3135,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -2204,7 +2204,7 @@
             "open_issues": 390,
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3133,
+            "stars": 3135,
             "topics": [
               "ai",
               "computer-vision",
@@ -2367,7 +2367,7 @@
             "open_issues": 14,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 861,
+            "stars": 862,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T21:19:01.883Z",
+    "last_updated": "2026-09-17T21:23:27.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
