@@ -2,7 +2,7 @@
 
 > A curated list of embodied vision resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,214 | 🐛 106 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,605 | 🐛 106 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
 
 By [Changan Chen](https://changan.io) (<changan@cs.utexas.edu>), Department of Computer Science at the University of Texas at Austin, with help from [Tushar Nagarajan](https://tushar-n.github.io/), [Santhosh Kumar Ramakrishnan](https://srama2512.github.io/) and [Yinfeng Yu](https://yyf17.github.io/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
@@ -41,11 +41,11 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Habitat: A Platform for Embodied AI Research** <br>
   *Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra* <br>
-  ICCV, 2019. [\[Paper\]](https://arxiv.org/abs/1904.01201) [\[Code\]](https://github.com/facebookresearch/habitat-api) ⭐ 3,138 | 🐛 390 | 🌐 Python | 📅 2026-05-07 [\[Website\]](https://aihabitat.org/)
+  ICCV, 2019. [\[Paper\]](https://arxiv.org/abs/1904.01201) [\[Code\]](https://github.com/facebookresearch/habitat-api) ⭐ 3,139 | 🐛 390 | 🌐 Python | 📅 2026-05-07 [\[Website\]](https://aihabitat.org/)
 
 * **DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames** <br>
   *Erik Wijmans, Abhishek Kadian, Ari Morcos, Stefan Lee, Irfan Essa, Devi Parikh, Manolis Savva, Dhruv Batra* <br>
-  ICLR, 2020. [\[Paper\]](https://arxiv.org/abs/1911.00357) [\[Code\]](https://github.com/facebookresearch/habitat-api/tree/master/habitat_baselines/rl/ddppo) ⭐ 3,138 | 🐛 390 | 🌐 Python | 📅 2026-05-07 [\[Website\]](https://wijmans.xyz/publication/ddppo-2019/)
+  ICLR, 2020. [\[Paper\]](https://arxiv.org/abs/1911.00357) [\[Code\]](https://github.com/facebookresearch/habitat-api/tree/master/habitat_baselines/rl/ddppo) ⭐ 3,139 | 🐛 390 | 🌐 Python | 📅 2026-05-07 [\[Website\]](https://wijmans.xyz/publication/ddppo-2019/)
 
 * **Learning to Explore using Active Neural SLAM** <br>
   *Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov* <br>
@@ -290,7 +290,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **VLN BERT: A Recurrent Vision-and-Language BERT for Navigation** <br>
   *Yicong Hong, Qi Wu, Yuankai Qi, Cristian Rodriguez-Opazo, Stephen Gould* <br>
-  CVPR, 2021. [\[Paper\]](https://arxiv.org/abs/2011.13922) [\[Code\]](https://github.com/YicongHong/Recurrent-VLN-BERT) ⭐ 210 | 🐛 2 | 🌐 Python | 📅 2022-08-13
+  CVPR, 2021. [\[Paper\]](https://arxiv.org/abs/2011.13922) [\[Code\]](https://github.com/YicongHong/Recurrent-VLN-BERT) ⭐ 211 | 🐛 2 | 🌐 Python | 📅 2022-08-13
 
 * **Pathdreamer: A World Model for Indoor Navigation** <br>
   *Jing Yu Koh, Honglak Lee, Yinfei Yang, Jason Baldridge, Peter Anderson* <br>
@@ -711,7 +711,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Habitat 2.0: Training Home Assistants to Rearrange their Habitat** <br>
   *Andrew Szot, Alex Clegg, Eric Undersander, Erik Wijmans, Yili Zhao, John Turner, Noah Maestre, Mustafa Mukadam, Devendra Chaplot, Oleksandr Maksymets, Aaron Gokaslan, Vladimir Vondrus, Sameer Dharur, Franziska Meier, Wojciech Galuba, Angel Chang, Zsolt Kira, Vladlen Koltun, Jitendra Malik, Manolis Savva, Dhruv Batra* <br>
-  NeurIPS 2021. [\[Paper\]](https://arxiv.org/abs/2106.14405) [\[Code\]](https://github.com/facebookresearch/habitat-lab/) ⭐ 3,138 | 🐛 390 | 🌐 Python | 📅 2026-05-07
+  NeurIPS 2021. [\[Paper\]](https://arxiv.org/abs/2106.14405) [\[Code\]](https://github.com/facebookresearch/habitat-lab/) ⭐ 3,139 | 🐛 390 | 🌐 Python | 📅 2026-05-07
 
 * **Visual Room Rearrangement** <br>
   *Luca Weihs, Matt Deitke, Aniruddha Kembhavi, and Roozbeh Mottaghi* <br>
@@ -755,11 +755,11 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
   *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
-  arXiv, 2017. [\[Paper\]](https://arxiv.org/abs/1712.05474) [\[Code\]](https://github.com/allenai/ai2thor) ⭐ 1,797 | 🐛 280 | 🌐 C# | 📅 2025-11-04 [\[Website\]](https://ai2thor.allenai.org/)
+  arXiv, 2017. [\[Paper\]](https://arxiv.org/abs/1712.05474) [\[Code\]](https://github.com/allenai/ai2thor) ⭐ 1,799 | 🐛 280 | 🌐 C# | 📅 2025-11-04 [\[Website\]](https://ai2thor.allenai.org/)
 
 * **The Replica Dataset: A Digital Replica of Indoor Spaces** <br>
   *Julian Straub, Thomas Whelan, Lingni Ma, Yufan Chen, Erik Wijmans, Simon Green, Jakob J. Engel, Raul Mur-Artal, Carl Ren, Shobhit Verma, Anton Clarkson, Mingfei Yan, Brian Budge, Yajie Yan, Xiaqing Pan, June Yon, Yuyang Zou, Kimberly Leon, Nigel Carter, Jesus Briales, Tyler Gillingham, Elias Mueggler, Luis Pesqueira, Manolis Savva, Dhruv Batra, Hauke M. Strasdat, Renzo De Nardi, Michael Goesele, Steven Lovegrove, Richard Newcombe* <br>
-  arXiV, 2019. [\[Paper\]](https://arxiv.org/pdf/1906.05797.pdf) [\[Code\]](https://github.com/facebookresearch/Replica-Dataset) ⭐ 1,329 | 🐛 67 | 🌐 C++ | 📅 2024-07-22
+  arXiV, 2019. [\[Paper\]](https://arxiv.org/pdf/1906.05797.pdf) [\[Code\]](https://github.com/facebookresearch/Replica-Dataset) ⭐ 1,330 | 🐛 67 | 🌐 C++ | 📅 2024-07-22
 
 * **Matterport3D: Learning from RGB-D Data in Indoor Environments** <br>
   *Angel Chang, Angela Dai, Thomas Funkhouser, Maciej Halber, Matthias Nießner, Manolis Savva, Shuran Song, Andy Zeng, Yinda Zhang* <br>
@@ -797,15 +797,15 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Habitat: A Platform for Embodied AI Research** <br>
   *Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra* <br>
-  ICCV, 2019. [\[Paper\]](https://arxiv.org/abs/1904.01201) [\[Code\]](https://github.com/facebookresearch/habitat-api) ⭐ 3,138 | 🐛 390 | 🌐 Python | 📅 2026-05-07 [\[Website\]](https://aihabitat.org/)
+  ICCV, 2019. [\[Paper\]](https://arxiv.org/abs/1904.01201) [\[Code\]](https://github.com/facebookresearch/habitat-api) ⭐ 3,139 | 🐛 390 | 🌐 Python | 📅 2026-05-07 [\[Website\]](https://aihabitat.org/)
 
 * **UnrealCV: Virtual Worlds for Computer Vision** <br>
   *Weichao Qiu, Fangwei Zhong, Yi Zhang, Siyuan Qiao, Zihao Xiao, Tae Soo Kim, Yizhou Wang, Alan Yuille* <br>
-  ACM MM Open Source Software Competition, 2017. [\[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396) [\[Code\]](https://github.com/unrealcv/unrealcv) ⭐ 2,214 | 🐛 118 | 🌐 Python | 📅 2026-09-04 [\[Website\]](https://unrealcv.org/)
+  ACM MM Open Source Software Competition, 2017. [\[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396) [\[Code\]](https://github.com/unrealcv/unrealcv) ⭐ 2,215 | 🐛 118 | 🌐 Python | 📅 2026-09-04 [\[Website\]](https://unrealcv.org/)
 
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
   *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
-  arXiv, 2017. [\[Paper\]](https://arxiv.org/abs/1712.05474) [\[Code\]](https://github.com/allenai/ai2thor) ⭐ 1,797 | 🐛 280 | 🌐 C# | 📅 2025-11-04 [\[Website\]](https://ai2thor.allenai.org/)
+  arXiv, 2017. [\[Paper\]](https://arxiv.org/abs/1712.05474) [\[Code\]](https://github.com/allenai/ai2thor) ⭐ 1,799 | 🐛 280 | 🌐 C# | 📅 2025-11-04 [\[Website\]](https://ai2thor.allenai.org/)
 
 * **Building Generalizable Agents with a Realistic and Rich 3D Environment (House3D)** <br>
   *Yi Wu, Yuxin Wu, Georgia Gkioxari, Yuandong Tian* <br>
@@ -889,4 +889,4 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
