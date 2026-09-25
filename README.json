@@ -21,7 +21,7 @@
                 "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3142,
+                "stars": 3143,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -53,7 +53,7 @@
                 "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3142,
+                "stars": 3143,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -1835,7 +1835,7 @@
                 "open_issues": 14,
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 872,
+                "stars": 874,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -1952,7 +1952,7 @@
                 "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3142,
+                "stars": 3143,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -2204,7 +2204,7 @@
             "open_issues": 390,
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3142,
+            "stars": 3143,
             "topics": [
               "ai",
               "computer-vision",
@@ -2367,7 +2367,7 @@
             "open_issues": 14,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 872,
+            "stars": 874,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T21:31:44.640Z",
+    "last_updated": "2026-09-25T21:35:51.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
@@ -2511,7 +2511,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2025-06-13T18:55:49Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "ChanganVR",
       "repo": "awesome-embodied-vision",
       "stars": 710,
