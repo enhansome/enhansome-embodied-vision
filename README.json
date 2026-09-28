@@ -21,7 +21,7 @@
                 "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3144,
+                "stars": 3145,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -53,7 +53,7 @@
                 "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3144,
+                "stars": 3145,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -85,7 +85,7 @@
                 "open_issues": 10,
                 "owner": "devendrachaplot",
                 "repo": "Neural-SLAM",
-                "stars": 851,
+                "stars": 852,
                 "topics": [
                   "active-neural-slam",
                   "deep-learning",
@@ -666,7 +666,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 879,
+                "stars": 880,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -694,7 +694,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 879,
+                "stars": 880,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -722,7 +722,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 879,
+                "stars": 880,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -1563,7 +1563,7 @@
                 "open_issues": 35,
                 "owner": "pathak22",
                 "repo": "noreward-rl",
-                "stars": 1487,
+                "stars": 1488,
                 "topics": [
                   "curiosity",
                   "deep-learning",
@@ -1596,7 +1596,7 @@
                 "open_issues": 10,
                 "owner": "devendrachaplot",
                 "repo": "Neural-SLAM",
-                "stars": 851,
+                "stars": 852,
                 "topics": [
                   "active-neural-slam",
                   "deep-learning",
@@ -1835,7 +1835,7 @@
                 "open_issues": 14,
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 874,
+                "stars": 876,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -1952,7 +1952,7 @@
                 "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3144,
+                "stars": 3145,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -2051,7 +2051,7 @@
             "open_issues": 67,
             "owner": "facebookresearch",
             "repo": "Replica-Dataset",
-            "stars": 1331,
+            "stars": 1332,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2204,7 +2204,7 @@
             "open_issues": 390,
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3144,
+            "stars": 3145,
             "topics": [
               "ai",
               "computer-vision",
@@ -2367,7 +2367,7 @@
             "open_issues": 14,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 874,
+            "stars": 876,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T21:21:41.811Z",
+    "last_updated": "2026-09-28T23:17:10.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
@@ -2514,7 +2514,7 @@
       "open_issues": 5,
       "owner": "ChanganVR",
       "repo": "awesome-embodied-vision",
-      "stars": 710,
+      "stars": 709,
       "topics": [
         "awesome-list",
         "curated-list",
