@@ -2024,7 +2024,7 @@
             "open_issues": 280,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1807,
+            "stars": 1809,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -2072,7 +2072,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1255,
+            "stars": 1257,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -2236,7 +2236,7 @@
             "open_issues": 118,
             "owner": "unrealcv",
             "repo": "unrealcv",
-            "stars": 2218,
+            "stars": 2219,
             "topics": [
               "computer-vision",
               "embodied-ai",
@@ -2266,7 +2266,7 @@
             "open_issues": 280,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1807,
+            "stars": 1809,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T22:16:56.475Z",
+    "last_updated": "2026-10-01T22:42:07.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
@@ -2514,7 +2514,7 @@
       "open_issues": 5,
       "owner": "ChanganVR",
       "repo": "awesome-embodied-vision",
-      "stars": 709,
+      "stars": 710,
       "topics": [
         "awesome-list",
         "curated-list",
