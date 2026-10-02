@@ -2051,7 +2051,7 @@
             "open_issues": 67,
             "owner": "facebookresearch",
             "repo": "Replica-Dataset",
-            "stars": 1332,
+            "stars": 1333,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2236,7 +2236,7 @@
             "open_issues": 118,
             "owner": "unrealcv",
             "repo": "unrealcv",
-            "stars": 2219,
+            "stars": 2220,
             "topics": [
               "computer-vision",
               "embodied-ai",
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T22:42:07.616Z",
+    "last_updated": "2026-10-02T22:14:58.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
@@ -2511,7 +2511,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2025-06-13T18:55:49Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "ChanganVR",
       "repo": "awesome-embodied-vision",
       "stars": 710,
