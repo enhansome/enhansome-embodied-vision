@@ -2,7 +2,7 @@
 
 > A curated list of embodied vision resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,708 | 🐛 106 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
 
 By [Changan Chen](https://changan.io) (<changan@cs.utexas.edu>), Department of Computer Science at the University of Texas at Austin, with help from [Tushar Nagarajan](https://tushar-n.github.io/), [Santhosh Kumar Ramakrishnan](https://srama2512.github.io/) and [Yinfeng Yu](https://yyf17.github.io/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
@@ -763,7 +763,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Matterport3D: Learning from RGB-D Data in Indoor Environments** <br>
   *Angel Chang, Angela Dai, Thomas Funkhouser, Maciej Halber, Matthias Nießner, Manolis Savva, Shuran Song, Andy Zeng, Yinda Zhang* <br>
-  3DV, 2017. [\[Paper\]](https://arxiv.org/pdf/1709.06158.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,257 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://niessner.github.io/Matterport/)
+  3DV, 2017. [\[Paper\]](https://arxiv.org/pdf/1709.06158.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,258 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://niessner.github.io/Matterport/)
 
 * **Gibson Env: Real-World Perception for Embodied Agents** <br>
   *Fei Xia, Amir Zamir, Zhi-Yang He, Alexander Sax, Jitendra Malik, Silvio Savarese* <br>
@@ -889,4 +889,4 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

@@ -124,7 +124,7 @@
             {
               "node_type": "item",
               "title": "SplitNet: Sim2Sim and Task2Task Transfer for Embodied Visual Navigation Daniel Gordon, Abhishek Kadian, Devi Parikh, Judy Hoffman, Dhruv Batra ICCV, 2019. [Paper]",
-              "description": "[Code]",
+              "description": "facebookresearch/splitnet",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -215,7 +215,7 @@
             {
               "node_type": "item",
               "title": "Auxiliary Tasks Speed Up Learning PointGoal Navigation Joel Ye, Dhruv Batra, Erik Wijmans, Abhishek Das CoRL, 2020. [Paper]",
-              "description": "[Code]",
+              "description": "joel99/habitat-pointnav-aux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -439,7 +439,7 @@
             {
               "node_type": "item",
               "title": "Bayesian Relational Memory for Semantic Visual Navigation Yi Wu, Yuxin Wu, Aviv Tamar, Stuart Russell, Georgia Gkioxari, Yuandong Tian ICCV, 2019. [Paper]",
-              "description": "[Code]",
+              "description": "jxwuyi/HouseNavAgent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -460,7 +460,7 @@
             {
               "node_type": "item",
               "title": "Good Time to Ask: A Learning Framework for Asking for Help in Embodied Visual Navigation Jenny Zhang, Samson Yu, Jiafei Duan, Cheston Tan arXiv, 2022. [Paper]",
-              "description": "[Code]",
+              "description": "jennyzzt/good_time_to_ask",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -486,7 +486,7 @@
             {
               "node_type": "item",
               "title": "Visual Representations for Semantic Target Driven Navigation Arsalan Mousavian, Alexander Toshev, Marek Fiser, Jana Kosecka, Ayzaan Wahid, James Davidson ICRA, 2019. [Paper]",
-              "description": "[Code]",
+              "description": "arsalan-mousavian/Navigation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -766,7 +766,7 @@
             {
               "node_type": "item",
               "title": "VLN BERT: A Recurrent Vision-and-Language BERT for Navigation Yicong Hong, Qi Wu, Yuankai Qi, Cristian Rodriguez-Opazo, Stephen Gould CVPR, 2021. [Paper]",
-              "description": "[Code]",
+              "description": "YicongHong/Recurrent-VLN-BERT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -910,7 +910,7 @@
             {
               "node_type": "item",
               "title": "TOUCHDOWN: Natural Language Navigation and Spatial Reasoning in Visual Street Environments Howard Chen, Alane Suhr, Dipendra Misra, Noah Snavely, Yoav Artzi CVPR, 2019. [Paper]",
-              "description": "[Code]",
+              "description": "lil-lab/touchdown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -936,7 +936,7 @@
             {
               "node_type": "item",
               "title": "Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training Weituo Hao, Chunyuan Li, Xiujun Li, Lawrence Carin, Jianfeng Gao CVPR, 2020. [Paper]",
-              "description": "[Code]",
+              "description": "weituo12321/PREVALENT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1016,7 +1016,7 @@
             {
               "node_type": "item",
               "title": "Neighbor-view Enhanced Model for Vision and Language Navigation Dong An, Yuankai Qi, Yan Huang, Qi Wu, Liang Wang, Tieniu Tan ACM MM, 2021. [Paper]",
-              "description": "[Code]",
+              "description": "MarSaKi/NvEM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1090,7 +1090,7 @@
             {
               "node_type": "item",
               "title": "Language and Visual Entity Relationship Graph for Agent Navigation Yicong Hong, Cristian Rodriguez, Yuankai Qi, Qi Wu, Stephen Gould NeurIPS, 2020. [Paper]",
-              "description": "[Code]",
+              "description": "YicongHong/Entity-Graph-VLN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1116,7 +1116,7 @@
             {
               "node_type": "item",
               "title": "Active Visual Information Gathering for Vision-Language Navigation Hanqing Wang, Wenguan Wang, Tianmin Shu, Wei Liang, Jianbing Shen ECCV, 2020. [Paper]",
-              "description": "[Code]",
+              "description": "HanqingWangAI/Active_VLN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1165,7 +1165,7 @@
             {
               "node_type": "item",
               "title": "Structured Scene Memory for Vision-Language Navigation Hanqing Wang, Wenguan Wang, Wei Liang, Caiming Xiong, Jianbing Shen CVPR, 2021. [Paper]",
-              "description": "[Code]",
+              "description": "HanqingWangAI/SSM-VLN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1207,7 +1207,7 @@
             {
               "node_type": "item",
               "title": "Embodied Vision-and-Language Navigation with Dynamic Convolutional Filters Federico Landi, Lorenzo Baraldi, Massimiliano Corsini, Rita Cucchiara BMVC, 2019. [Paper]",
-              "description": "[Code]",
+              "description": "aimagelab/DynamicConv-agent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1228,7 +1228,7 @@
             {
               "node_type": "item",
               "title": "Perceive, Transform, and Act: Multi-Modal Attention Networks for Vision-and-Language Navigation Federico Landi, Lorenzo Baraldi, Marcella Cornia, Massimiliano Corsini, Rita Cucchiara arXiv, 2019. [Paper]",
-              "description": "[Code]",
+              "description": "aimagelab/perceive-transform-and-act",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1255,7 +1255,7 @@
             {
               "node_type": "item",
               "title": "Vision-Dialog Navigation by Exploring Cross-modal Memory Yi Zhu, Fengda Zhu, Zhaohuan Zhan, Bingqian Lin, Jianbin Jiao, Xiaojun Chang, Xiaodan Liang CVPR, 2020. [Paper]",
-              "description": "[Code]",
+              "description": "yeezhu/CMN.pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1276,7 +1276,7 @@
             {
               "node_type": "item",
               "title": "The Road To Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation Yuankai Qi, Zizheng Pan, Yicong Hong, Ming-Hsuan Yang, Anton van den Hengel, Qi Wu ICCV, 2021. [Paper]",
-              "description": "[Code]",
+              "description": "YuankaiQi/ORIST",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1297,7 +1297,7 @@
             {
               "node_type": "item",
               "title": "Curriculum Learning for Vision-and-Language Navigation Jiwen Zhang, Zhongyu Wei, Jianqing Fan, Jiajie Peng NeurIPS, 2021. [Paper]",
-              "description": "[Code]",
+              "description": "IMNearth/Curriculum-Learning-For-VLN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1343,7 +1343,7 @@
             {
               "node_type": "item",
               "title": "Vision-Language Navigation with Random Environmental Mixup Chong Liu*, Fengda Zhu*, Xiaojun Chang, Xiaodan Liang, Zongyuan Ge, Yi-Dong Shen ICCV, 2021. [Paper]",
-              "description": "[Code]",
+              "description": "LCFractal/VLNREM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1447,7 +1447,7 @@
             {
               "node_type": "item",
               "title": "AD-VAT: An Asymmetric Dueling mechanism for learning Visual Active Tracking Fangwei Zhong, Wenhan Luo, Peng Sun, Tingyun Yan, Yizhou Wang ICLR, 2019. [Paper]",
-              "description": "[Code]",
+              "description": "zfw1226/active_tracking_rl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1472,7 +1472,7 @@
             {
               "node_type": "item",
               "title": "AD-VAT+: An Asymmetric Dueling Mechanism for Learning and Understanding Visual Active Tracking Fangwei Zhong, Wenhan Luo, Peng Sun, Tingyun Yan, Yizhou Wang IEEE TPAMI, 2019. [Paper]",
-              "description": "[Code]",
+              "description": "zfw1226/active_tracking_rl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1522,7 +1522,7 @@
             {
               "node_type": "item",
               "title": "Pose-Assisted Multi-Camera Collaboration for Active Object Tracking Jing Li*, Jing Xu*, Fangwei Zhong*, Xiangyu Kong, Yu Qiao, Yizhou Wang AAAI, 2020. [Paper]",
-              "description": "[Code]",
+              "description": "LilJing/pose-assisted-collaboration",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1724,7 +1724,7 @@
             {
               "node_type": "item",
               "title": "Focus on Impact: Indoor Exploration With Intrinsic Motivation Roberto Bigazzi, Federico Landi, Silvia Cascianelli, Lorenzo Baraldi, Marcella Cornia, Rita Cucchiara IEEE RA-L + ICRA, 2022. [Paper]",
-              "description": "[Code]",
+              "description": "aimagelab/focus-on-impact",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1939,7 +1939,7 @@
             {
               "node_type": "item",
               "title": "Habitat 2.0: Training Home Assistants to Rearrange their Habitat Andrew Szot, Alex Clegg, Eric Undersander, Erik Wijmans, Yili Zhao, John Turner, Noah Maestre, Mustafa Mukadam, Devendra Chaplot, Oleksandr Maksymets, Aaron Gokaslan, Vladimir Vondrus, Sameer Dharur, Franziska Meier, Wojciech Galuba, Angel Chang, Zsolt Kira, Vladlen Koltun, Jitendra Malik, Manolis Savva, Dhruv Batra NeurIPS 2021. [Paper]",
-              "description": "[Code]",
+              "description": "facebookresearch/habitat-lab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2038,7 +2038,7 @@
         {
           "node_type": "item",
           "title": "The Replica Dataset: A Digital Replica of Indoor Spaces Julian Straub, Thomas Whelan, Lingni Ma, Yufan Chen, Erik Wijmans, Simon Green, Jakob J. Engel, Raul Mur-Artal, Carl Ren, Shobhit Verma, Anton Clarkson, Mingfei Yan, Brian Budge, Yajie Yan, Xiaqing Pan, June Yon, Yuyang Zou, Kimberly Leon, Nigel Carter, Jesus Briales, Tyler Gillingham, Elias Mueggler, Luis Pesqueira, Manolis Savva, Dhruv Batra, Hauke M. Strasdat, Renzo De Nardi, Michael Goesele, Steven Lovegrove, Richard Newcombe arXiV, 2019. [Paper]",
-          "description": "[Code]",
+          "description": "facebookresearch/Replica-Dataset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2072,7 +2072,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1257,
+            "stars": 1258,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -2157,7 +2157,7 @@
         {
           "node_type": "item",
           "title": "Actionet: An Interactive End-to-End Platform for Task-Based Data Collection and Augmentation in 3D Environments Jiafei Duan, Samson Yu, Hui Li Tan, Cheston Tan ICIP, 2020. [Paper]",
-          "description": "[Code]",
+          "description": "SamsonYuBaiJian/actionet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2280,7 +2280,7 @@
         {
           "node_type": "item",
           "title": "Building Generalizable Agents with a Realistic and Rich 3D Environment (House3D) Yi Wu, Yuxin Wu, Georgia Gkioxari, Yuandong Tian arXiv, 2018. [Paper]",
-          "description": "[Code]",
+          "description": "facebookresearch/House3D",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2301,7 +2301,7 @@
         {
           "node_type": "item",
           "title": "CHALET: Cornell House Agent Learning Environment Claudia Yan, Dipendra Misra, Andrew Bennett, Aaron Walsman, Yonatan Bisk and Yoav Artzi arXiv, 2018. [Paper]",
-          "description": "[Code]",
+          "description": "facebookresearch/House3D",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:14:58.769Z",
+    "last_updated": "2026-10-03T04:41:53.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
