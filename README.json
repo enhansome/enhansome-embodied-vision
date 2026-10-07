@@ -21,7 +21,7 @@
                 "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3147,
+                "stars": 3149,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -53,7 +53,7 @@
                 "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3147,
+                "stars": 3149,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -1563,7 +1563,7 @@
                 "open_issues": 35,
                 "owner": "pathak22",
                 "repo": "noreward-rl",
-                "stars": 1488,
+                "stars": 1489,
                 "topics": [
                   "curiosity",
                   "deep-learning",
@@ -1835,7 +1835,7 @@
                 "open_issues": 14,
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 880,
+                "stars": 881,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -1952,7 +1952,7 @@
                 "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3147,
+                "stars": 3149,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -2072,7 +2072,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1259,
+            "stars": 1260,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -2204,7 +2204,7 @@
             "open_issues": 390,
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3147,
+            "stars": 3149,
             "topics": [
               "ai",
               "computer-vision",
@@ -2367,7 +2367,7 @@
             "open_issues": 14,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 880,
+            "stars": 881,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2492,7 +2492,7 @@
             "open_issues": 2,
             "owner": "aimagelab",
             "repo": "pin",
-            "stars": 20,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T22:39:36.704Z",
+    "last_updated": "2026-10-07T23:05:59.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
