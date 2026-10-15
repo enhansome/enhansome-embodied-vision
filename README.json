@@ -21,7 +21,7 @@
                 "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3160,
+                "stars": 3161,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -53,7 +53,7 @@
                 "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3160,
+                "stars": 3161,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -410,7 +410,7 @@
                 "open_issues": 0,
                 "owner": "saimwani",
                 "repo": "multiON",
-                "stars": 59,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -1952,7 +1952,7 @@
                 "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3160,
+                "stars": 3161,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -2204,7 +2204,7 @@
             "open_issues": 390,
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3160,
+            "stars": 3161,
             "topics": [
               "ai",
               "computer-vision",
@@ -2388,7 +2388,7 @@
             "open_issues": 58,
             "owner": "xavierpuigf",
             "repo": "virtualhome",
-            "stars": 637,
+            "stars": 638,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T21:41:49.235Z",
+    "last_updated": "2026-10-15T21:23:40.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",

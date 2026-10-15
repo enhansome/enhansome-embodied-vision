@@ -2,7 +2,7 @@
 
 > A curated list of embodied vision resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 518,975 | 🐛 105 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,462 | 🐛 105 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
 
 By [Changan Chen](https://changan.io) (<changan@cs.utexas.edu>), Department of Computer Science at the University of Texas at Austin, with help from [Tushar Nagarajan](https://tushar-n.github.io/), [Santhosh Kumar Ramakrishnan](https://srama2512.github.io/) and [Yinfeng Yu](https://yyf17.github.io/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
@@ -41,11 +41,11 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Habitat: A Platform for Embodied AI Research** <br>
   *Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra* <br>
-  ICCV, 2019. [\[Paper\]](https://arxiv.org/abs/1904.01201) [\[Code\]](https://github.com/facebookresearch/habitat-api) ⭐ 3,160 | 🐛 390 | 🌐 Python | 📅 2026-05-07 [\[Website\]](https://aihabitat.org/)
+  ICCV, 2019. [\[Paper\]](https://arxiv.org/abs/1904.01201) [\[Code\]](https://github.com/facebookresearch/habitat-api) ⭐ 3,161 | 🐛 390 | 🌐 Python | 📅 2026-05-07 [\[Website\]](https://aihabitat.org/)
 
 * **DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames** <br>
   *Erik Wijmans, Abhishek Kadian, Ari Morcos, Stefan Lee, Irfan Essa, Devi Parikh, Manolis Savva, Dhruv Batra* <br>
-  ICLR, 2020. [\[Paper\]](https://arxiv.org/abs/1911.00357) [\[Code\]](https://github.com/facebookresearch/habitat-api/tree/master/habitat_baselines/rl/ddppo) ⭐ 3,160 | 🐛 390 | 🌐 Python | 📅 2026-05-07 [\[Website\]](https://wijmans.xyz/publication/ddppo-2019/)
+  ICLR, 2020. [\[Paper\]](https://arxiv.org/abs/1911.00357) [\[Code\]](https://github.com/facebookresearch/habitat-api/tree/master/habitat_baselines/rl/ddppo) ⭐ 3,161 | 🐛 390 | 🌐 Python | 📅 2026-05-07 [\[Website\]](https://wijmans.xyz/publication/ddppo-2019/)
 
 * **Learning to Explore using Active Neural SLAM** <br>
   *Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov* <br>
@@ -146,7 +146,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **MultiON: Benchmarking Semantic Map Memory using Multi-Object Navigation** <br>
   *Saim Wani\*, Shivansh Patel\*, Unnat Jain\*, Angel X. Chang, Manolis Savva* <br>
-  NeurIPS, 2020. [\[Paper\]](https://arxiv.org/abs/2012.03912) [\[Code\]](https://github.com/saimwani/multiON) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2020-12-08 [\[Website\]](https://shivanshpatel35.github.io/multi-ON/)
+  NeurIPS, 2020. [\[Paper\]](https://arxiv.org/abs/2012.03912) [\[Code\]](https://github.com/saimwani/multiON) ⭐ 60 | 🐛 0 | 🌐 Python | 📅 2020-12-08 [\[Website\]](https://shivanshpatel35.github.io/multi-ON/)
 
 * **Hierarchical Object-to-Zone Graph for Object Navigation** <br>
   *Sixian Zhang, Xinhang Song, Yubing Bai, Weijie Li, Yakui Chu, Shuqiang Jiang* <br>
@@ -711,7 +711,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Habitat 2.0: Training Home Assistants to Rearrange their Habitat** <br>
   *Andrew Szot, Alex Clegg, Eric Undersander, Erik Wijmans, Yili Zhao, John Turner, Noah Maestre, Mustafa Mukadam, Devendra Chaplot, Oleksandr Maksymets, Aaron Gokaslan, Vladimir Vondrus, Sameer Dharur, Franziska Meier, Wojciech Galuba, Angel Chang, Zsolt Kira, Vladlen Koltun, Jitendra Malik, Manolis Savva, Dhruv Batra* <br>
-  NeurIPS 2021. [\[Paper\]](https://arxiv.org/abs/2106.14405) [\[Code\]](https://github.com/facebookresearch/habitat-lab/) ⭐ 3,160 | 🐛 390 | 🌐 Python | 📅 2026-05-07
+  NeurIPS 2021. [\[Paper\]](https://arxiv.org/abs/2106.14405) [\[Code\]](https://github.com/facebookresearch/habitat-lab/) ⭐ 3,161 | 🐛 390 | 🌐 Python | 📅 2026-05-07
 
 * **Visual Room Rearrangement** <br>
   *Luca Weihs, Matt Deitke, Aniruddha Kembhavi, and Roozbeh Mottaghi* <br>
@@ -797,7 +797,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Habitat: A Platform for Embodied AI Research** <br>
   *Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra* <br>
-  ICCV, 2019. [\[Paper\]](https://arxiv.org/abs/1904.01201) [\[Code\]](https://github.com/facebookresearch/habitat-api) ⭐ 3,160 | 🐛 390 | 🌐 Python | 📅 2026-05-07 [\[Website\]](https://aihabitat.org/)
+  ICCV, 2019. [\[Paper\]](https://arxiv.org/abs/1904.01201) [\[Code\]](https://github.com/facebookresearch/habitat-api) ⭐ 3,161 | 🐛 390 | 🌐 Python | 📅 2026-05-07 [\[Website\]](https://aihabitat.org/)
 
 * **UnrealCV: Virtual Worlds for Computer Vision** <br>
   *Weichao Qiu, Fangwei Zhong, Yi Zhang, Siyuan Qiao, Zihao Xiao, Tae Soo Kim, Yizhou Wang, Alan Yuille* <br>
@@ -825,7 +825,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **VirtualHome: Simulating Household Activities via Programs** <br>
   *Xavier Puig\*, Kevin Ra\*, Marko Boben\*, Jiaman Li, Tingwu Wang, Sanja Fidler, Antonio Torralba* <br>
-  CVPR, 2018. [\[Paper\]](http://virtual-home.org/paper/virtualhome.pdf) [\[Code\]](https://github.com/xavierpuigf/virtualhome) ⭐ 637 | 🐛 58 | 🌐 Python | 📅 2026-05-20 [\[Website\]](http://virtual-home.org/)
+  CVPR, 2018. [\[Paper\]](http://virtual-home.org/paper/virtualhome.pdf) [\[Code\]](https://github.com/xavierpuigf/virtualhome) ⭐ 638 | 🐛 58 | 🌐 Python | 📅 2026-05-20 [\[Website\]](http://virtual-home.org/)
 
 * **ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation** <br>
   *Chuang Gan, Jeremy Schwartz, Seth Alter, Martin Schrimpf, James Traer, Julian De Freitas, Jonas Kubilius, Abhishek Bhandwaldar, Nick Haber, Megumi Sano, Kuno Kim, Elias Wang, Damian Mrowca, Michael Lingelbach, Aidan Curtis, Kevin Feigelis, Daniel M. Bear, Dan Gutfreund, David Cox, James J. DiCarlo, Josh McDermott, Joshua B. Tenenbaum, Daniel L.K. Yamins*<br>
@@ -889,4 +889,4 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
