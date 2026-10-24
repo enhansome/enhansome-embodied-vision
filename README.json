@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-07T22:03:51Z",
-                "open_issues": 390,
+                "open_issues": 389,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
                 "stars": 3167,
@@ -50,7 +50,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-07T22:03:51Z",
-                "open_issues": 390,
+                "open_issues": 389,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
                 "stars": 3167,
@@ -666,7 +666,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 897,
+                "stars": 896,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -694,7 +694,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 897,
+                "stars": 896,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -722,7 +722,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 897,
+                "stars": 896,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -1835,7 +1835,7 @@
                 "open_issues": 14,
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 896,
+                "stars": 898,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -1949,7 +1949,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-07T22:03:51Z",
-                "open_issues": 390,
+                "open_issues": 389,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
                 "stars": 3167,
@@ -2024,7 +2024,7 @@
             "open_issues": 281,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1818,
+            "stars": 1819,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -2201,7 +2201,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-05-07T22:03:51Z",
-            "open_issues": 390,
+            "open_issues": 389,
             "owner": "facebookresearch",
             "repo": "habitat-lab",
             "stars": 3167,
@@ -2236,7 +2236,7 @@
             "open_issues": 118,
             "owner": "unrealcv",
             "repo": "unrealcv",
-            "stars": 2225,
+            "stars": 2224,
             "topics": [
               "computer-vision",
               "embodied-ai",
@@ -2266,7 +2266,7 @@
             "open_issues": 281,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1818,
+            "stars": 1819,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -2367,7 +2367,7 @@
             "open_issues": 14,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 896,
+            "stars": 898,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2388,7 +2388,7 @@
             "open_issues": 58,
             "owner": "xavierpuigf",
             "repo": "virtualhome",
-            "stars": 642,
+            "stars": 643,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T21:25:04.809Z",
+    "last_updated": "2026-10-24T20:50:52.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
