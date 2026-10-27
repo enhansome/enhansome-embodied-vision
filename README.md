@@ -2,7 +2,7 @@
 
 > A curated list of embodied vision resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 525,149 | 🐛 105 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 525,702 | 🐛 105 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
 
 By [Changan Chen](https://changan.io) (<changan@cs.utexas.edu>), Department of Computer Science at the University of Texas at Austin, with help from [Tushar Nagarajan](https://tushar-n.github.io/), [Santhosh Kumar Ramakrishnan](https://srama2512.github.io/) and [Yinfeng Yu](https://yyf17.github.io/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
@@ -240,7 +240,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Visual Graph Memory with Unsupervised Representation for Visual Navigation** <br>
   *Obin Kwon, Nuri Kim, Yunho Choi, Hwiyeon Yoo, Jeongho Park, Songhwai Oh* <br>
-  ICCV, 2021. [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kwon_Visual_Graph_Memory_With_Unsupervised_Representation_for_Visual_Navigation_ICCV_2021_paper.pdf) [\[Code\]](https://github.com/rllab-snu/Visual-Graph-Memory) ⭐ 67 | 🐛 0 | 🌐 Python | 📅 2025-11-24 [\[Website\]](https://rllab-snu.github.io/projects/vgm/doc.html)
+  ICCV, 2021. [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kwon_Visual_Graph_Memory_With_Unsupervised_Representation_for_Visual_Navigation_ICCV_2021_paper.pdf) [\[Code\]](https://github.com/rllab-snu/Visual-Graph-Memory) ⭐ 68 | 🐛 0 | 🌐 Python | 📅 2025-11-24 [\[Website\]](https://rllab-snu.github.io/projects/vgm/doc.html)
 
 * **Last-Mile Embodied Visual Navigation** <br>
   *Justin Wasserman, Karmesh Yadav, Girish Chowdhary, Abhinav Gupta, Unnat Jain* <br>
@@ -759,7 +759,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **The Replica Dataset: A Digital Replica of Indoor Spaces** <br>
   *Julian Straub, Thomas Whelan, Lingni Ma, Yufan Chen, Erik Wijmans, Simon Green, Jakob J. Engel, Raul Mur-Artal, Carl Ren, Shobhit Verma, Anton Clarkson, Mingfei Yan, Brian Budge, Yajie Yan, Xiaqing Pan, June Yon, Yuyang Zou, Kimberly Leon, Nigel Carter, Jesus Briales, Tyler Gillingham, Elias Mueggler, Luis Pesqueira, Manolis Savva, Dhruv Batra, Hauke M. Strasdat, Renzo De Nardi, Michael Goesele, Steven Lovegrove, Richard Newcombe* <br>
-  arXiV, 2019. [\[Paper\]](https://arxiv.org/pdf/1906.05797.pdf) [\[Code\]](https://github.com/facebookresearch/Replica-Dataset) ⭐ 1,341 | 🐛 67 | 🌐 C++ | 📅 2024-07-22
+  arXiV, 2019. [\[Paper\]](https://arxiv.org/pdf/1906.05797.pdf) [\[Code\]](https://github.com/facebookresearch/Replica-Dataset) ⭐ 1,342 | 🐛 67 | 🌐 C++ | 📅 2024-07-22
 
 * **Matterport3D: Learning from RGB-D Data in Indoor Environments** <br>
   *Angel Chang, Angela Dai, Thomas Funkhouser, Maciej Halber, Matthias Nießner, Manolis Savva, Shuran Song, Andy Zeng, Yinda Zhang* <br>
@@ -825,7 +825,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **VirtualHome: Simulating Household Activities via Programs** <br>
   *Xavier Puig\*, Kevin Ra\*, Marko Boben\*, Jiaman Li, Tingwu Wang, Sanja Fidler, Antonio Torralba* <br>
-  CVPR, 2018. [\[Paper\]](http://virtual-home.org/paper/virtualhome.pdf) [\[Code\]](https://github.com/xavierpuigf/virtualhome) ⭐ 643 | 🐛 58 | 🌐 Python | 📅 2026-05-20 [\[Website\]](http://virtual-home.org/)
+  CVPR, 2018. [\[Paper\]](http://virtual-home.org/paper/virtualhome.pdf) [\[Code\]](https://github.com/xavierpuigf/virtualhome) ⭐ 644 | 🐛 59 | 🌐 Python | 📅 2026-05-20 [\[Website\]](http://virtual-home.org/)
 
 * **ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation** <br>
   *Chuang Gan, Jeremy Schwartz, Seth Alter, Martin Schrimpf, James Traer, Julian De Freitas, Jonas Kubilius, Abhishek Bhandwaldar, Nick Haber, Megumi Sano, Kuno Kim, Elias Wang, Damian Mrowca, Michael Lingelbach, Aidan Curtis, Kevin Feigelis, Daniel M. Bear, Dan Gutfreund, David Cox, James J. DiCarlo, Josh McDermott, Joshua B. Tenenbaum, Daniel L.K. Yamins*<br>
@@ -889,4 +889,4 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
