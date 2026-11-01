@@ -21,7 +21,7 @@
                 "open_issues": 389,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3178,
+                "stars": 3179,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -53,7 +53,7 @@
                 "open_issues": 389,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3178,
+                "stars": 3179,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -1952,7 +1952,7 @@
                 "open_issues": 389,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3178,
+                "stars": 3179,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -2204,7 +2204,7 @@
             "open_issues": 389,
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3178,
+            "stars": 3179,
             "topics": [
               "ai",
               "computer-vision",
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T21:36:00.805Z",
+    "last_updated": "2026-11-01T22:02:41.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
