@@ -1832,10 +1832,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-02-08T15:40:09Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 902,
+                "stars": 904,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2364,10 +2364,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-02-08T15:40:09Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 902,
+            "stars": 904,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T22:02:41.825Z",
+    "last_updated": "2026-11-03T00:58:34.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
