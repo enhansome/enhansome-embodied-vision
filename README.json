@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-07T22:03:51Z",
-                "open_issues": 389,
+                "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3181,
+                "stars": 3183,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -50,10 +50,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-07T22:03:51Z",
-                "open_issues": 389,
+                "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3181,
+                "stars": 3183,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -666,7 +666,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 899,
+                "stars": 900,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -694,7 +694,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 899,
+                "stars": 900,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -722,7 +722,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 899,
+                "stars": 900,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -829,7 +829,7 @@
                 "open_issues": 9,
                 "owner": "cshizhe",
                 "repo": "VLN-HAMT",
-                "stars": 153,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -1835,7 +1835,7 @@
                 "open_issues": 16,
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 907,
+                "stars": 909,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -1949,10 +1949,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-07T22:03:51Z",
-                "open_issues": 389,
+                "open_issues": 390,
                 "owner": "facebookresearch",
                 "repo": "habitat-lab",
-                "stars": 3181,
+                "stars": 3183,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -2051,7 +2051,7 @@
             "open_issues": 67,
             "owner": "facebookresearch",
             "repo": "Replica-Dataset",
-            "stars": 1346,
+            "stars": 1347,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2201,10 +2201,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-05-07T22:03:51Z",
-            "open_issues": 389,
+            "open_issues": 390,
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3181,
+            "stars": 3183,
             "topics": [
               "ai",
               "computer-vision",
@@ -2367,7 +2367,7 @@
             "open_issues": 16,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 907,
+            "stars": 909,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T23:40:15.231Z",
+    "last_updated": "2026-11-05T23:38:46.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
@@ -2514,7 +2514,7 @@
       "open_issues": 6,
       "owner": "ChanganVR",
       "repo": "awesome-embodied-vision",
-      "stars": 710,
+      "stars": 711,
       "topics": [
         "awesome-list",
         "curated-list",
