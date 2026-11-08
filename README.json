@@ -666,7 +666,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 900,
+                "stars": 899,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -694,7 +694,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 900,
+                "stars": 899,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -722,7 +722,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 900,
+                "stars": 899,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -750,7 +750,7 @@
                 "open_issues": 51,
                 "owner": "peteanderson80",
                 "repo": "Matterport3DSimulator",
-                "stars": 718,
+                "stars": 719,
                 "topics": [
                   "matterport3d-dataset",
                   "matterport3d-simulator",
@@ -1835,7 +1835,7 @@
                 "open_issues": 16,
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 909,
+                "stars": 910,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2367,7 +2367,7 @@
             "open_issues": 16,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 909,
+            "stars": 910,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T21:51:39.454Z",
+    "last_updated": "2026-11-08T22:06:23.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",

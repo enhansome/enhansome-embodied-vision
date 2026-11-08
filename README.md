@@ -2,7 +2,7 @@
 
 > A curated list of embodied vision resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,148 | 🐛 103 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,819 | 🐛 103 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
 
 By [Changan Chen](https://changan.io) (<changan@cs.utexas.edu>), Department of Computer Science at the University of Texas at Austin, with help from [Tushar Nagarajan](https://tushar-n.github.io/), [Santhosh Kumar Ramakrishnan](https://srama2512.github.io/) and [Yinfeng Yu](https://yyf17.github.io/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
@@ -274,19 +274,19 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments** <br>
   *Jacob Krantz, Erik Wijmans, Arjun Majumdar, Dhruv Batra, Stefan Lee* <br>
-  ECCV, 2020. [\[Paper\]](https://arxiv.org/abs/2004.02857) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 900 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/vlnce)
+  ECCV, 2020. [\[Paper\]](https://arxiv.org/abs/2004.02857) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 899 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/vlnce)
 
 * **Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling** <br>
   *Tsu-Jui Fu, Xin Eric Wang, Matthew Peterson, Scott Grafton, Miguel Eckstein, William Yang Wang* <br>
-  ECCV, 2020. [\[Paper\]](https://arxiv.org/abs/1911.07308) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 900 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/vlnce)
+  ECCV, 2020. [\[Paper\]](https://arxiv.org/abs/1911.07308) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 899 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/vlnce)
 
 * **Waypoint Models for Instruction-guided Navigation in Continuous Environments** <br>
   *Jacob Krantz, Aaron Gokaslan, Dhruv Batra, Stefan Lee, Oleksandr Maksymets* <br>
-  ICCV, 2021. [\[Paper\]](https://arxiv.org/pdf/2106.07876.pdf) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 900 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/waypoint-vlnce/)
+  ICCV, 2021. [\[Paper\]](https://arxiv.org/pdf/2106.07876.pdf) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 899 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/waypoint-vlnce/)
 
 * **Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments** <br>
   *Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel* <br>
-  CVPR, 2018. [\[Paper\]](https://arxiv.org/abs/1711.07280) [\[Code\]](https://github.com/peteanderson80/Matterport3DSimulator) ⭐ 718 | 🐛 51 | 🌐 C++ | 📅 2024-07-12 [\[Website\]](https://bringmeaspoon.org)
+  CVPR, 2018. [\[Paper\]](https://arxiv.org/abs/1711.07280) [\[Code\]](https://github.com/peteanderson80/Matterport3DSimulator) ⭐ 719 | 🐛 51 | 🌐 C++ | 📅 2024-07-12 [\[Website\]](https://bringmeaspoon.org)
 
 * **VLN BERT: A Recurrent Vision-and-Language BERT for Navigation** <br>
   *Yicong Hong, Qi Wu, Yuankai Qi, Cristian Rodriguez-Opazo, Stephen Gould* <br>
@@ -665,7 +665,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **ALFWorld: Aligning Text and Embodied Environments for Interactive Learning** <br>
   *Mohit Shridhar, Xingdi Yuan, Marc-Alexandre Côté, Yonatan Bisk, Adam Trischler, Matthew Hausknecht* <br>
-  ICLR, 2021. [\[Paper\]](https://arxiv.org/pdf/2010.03768.pdf) [\[Code\]](https://github.com/alfworld/alfworld) ⭐ 909 | 🐛 16 | 🌐 Python | 📅 2026-02-08 [\[Website\]](https://alfworld.github.io/)
+  ICLR, 2021. [\[Paper\]](https://arxiv.org/pdf/2010.03768.pdf) [\[Code\]](https://github.com/alfworld/alfworld) ⭐ 910 | 🐛 16 | 🌐 Python | 📅 2026-02-08 [\[Website\]](https://alfworld.github.io/)
 
 * **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks** <br>
   *Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, Dieter Fox* <br>
@@ -821,7 +821,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **ALFWorld: Aligning Text and Embodied Environments for Interactive Learning** <br>
   *Mohit Shridhar, Xingdi Yuan, Marc-Alexandre Côté, Yonatan Bisk, Adam Trischler, Matthew Hausknecht*<br>
-  ICLR, 2021. [\[Paper\]](https://arxiv.org/abs/2010.03768) [\[Code\]](https://github.com/alfworld/alfworld) ⭐ 909 | 🐛 16 | 🌐 Python | 📅 2026-02-08 [\[Website\]](https://alfworld.github.io/)
+  ICLR, 2021. [\[Paper\]](https://arxiv.org/abs/2010.03768) [\[Code\]](https://github.com/alfworld/alfworld) ⭐ 910 | 🐛 16 | 🌐 Python | 📅 2026-02-08 [\[Website\]](https://alfworld.github.io/)
 
 * **VirtualHome: Simulating Household Activities via Programs** <br>
   *Xavier Puig\*, Kevin Ra\*, Marko Boben\*, Jiaman Li, Tingwu Wang, Sanja Fidler, Antonio Torralba* <br>
@@ -889,4 +889,4 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
