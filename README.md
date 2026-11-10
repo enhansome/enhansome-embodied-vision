@@ -2,7 +2,7 @@
 
 > A curated list of embodied vision resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,819 | 🐛 103 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 534,288 | 🐛 103 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
 
 By [Changan Chen](https://changan.io) (<changan@cs.utexas.edu>), Department of Computer Science at the University of Texas at Austin, with help from [Tushar Nagarajan](https://tushar-n.github.io/), [Santhosh Kumar Ramakrishnan](https://srama2512.github.io/) and [Yinfeng Yu](https://yyf17.github.io/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
@@ -274,19 +274,19 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments** <br>
   *Jacob Krantz, Erik Wijmans, Arjun Majumdar, Dhruv Batra, Stefan Lee* <br>
-  ECCV, 2020. [\[Paper\]](https://arxiv.org/abs/2004.02857) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 899 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/vlnce)
+  ECCV, 2020. [\[Paper\]](https://arxiv.org/abs/2004.02857) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 900 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/vlnce)
 
 * **Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling** <br>
   *Tsu-Jui Fu, Xin Eric Wang, Matthew Peterson, Scott Grafton, Miguel Eckstein, William Yang Wang* <br>
-  ECCV, 2020. [\[Paper\]](https://arxiv.org/abs/1911.07308) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 899 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/vlnce)
+  ECCV, 2020. [\[Paper\]](https://arxiv.org/abs/1911.07308) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 900 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/vlnce)
 
 * **Waypoint Models for Instruction-guided Navigation in Continuous Environments** <br>
   *Jacob Krantz, Aaron Gokaslan, Dhruv Batra, Stefan Lee, Oleksandr Maksymets* <br>
-  ICCV, 2021. [\[Paper\]](https://arxiv.org/pdf/2106.07876.pdf) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 899 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/waypoint-vlnce/)
+  ICCV, 2021. [\[Paper\]](https://arxiv.org/pdf/2106.07876.pdf) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 900 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/waypoint-vlnce/)
 
 * **Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments** <br>
   *Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel* <br>
-  CVPR, 2018. [\[Paper\]](https://arxiv.org/abs/1711.07280) [\[Code\]](https://github.com/peteanderson80/Matterport3DSimulator) ⭐ 719 | 🐛 51 | 🌐 C++ | 📅 2024-07-12 [\[Website\]](https://bringmeaspoon.org)
+  CVPR, 2018. [\[Paper\]](https://arxiv.org/abs/1711.07280) [\[Code\]](https://github.com/peteanderson80/Matterport3DSimulator) ⭐ 720 | 🐛 51 | 🌐 C++ | 📅 2024-07-12 [\[Website\]](https://bringmeaspoon.org)
 
 * **VLN BERT: A Recurrent Vision-and-Language BERT for Navigation** <br>
   *Yicong Hong, Qi Wu, Yuankai Qi, Cristian Rodriguez-Opazo, Stephen Gould* <br>
@@ -298,7 +298,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **History Aware Multimodal Transformer for Vision-and-Language Navigation** <br>
   *Shizhe Chen, Pierre-Louis Guhur, Cordelia Schmid, Ivan Laptev* <br>
-  NeurIPS, 2021. [\[Paper\]](https://arxiv.org/pdf/2110.13309.pdf) [\[Website\]](https://cshizhe.github.io/projects/vln_hamt.html) [\[Code\]](https://github.com/cshizhe/VLN-HAMT) ⭐ 154 | 🐛 9 | 🌐 Python | 📅 2023-06-14
+  NeurIPS, 2021. [\[Paper\]](https://arxiv.org/pdf/2110.13309.pdf) [\[Website\]](https://cshizhe.github.io/projects/vln_hamt.html) [\[Code\]](https://github.com/cshizhe/VLN-HAMT) ⭐ 155 | 🐛 9 | 🌐 Python | 📅 2023-06-14
 
 * **Speaker-Follower Models for Vision-and-Language Navigation** <br>
   *Daniel Fried, Ronghang Hu, Volkan Cirik, Anna Rohrbach, Jacob Andreas, Louis-Philippe Morency, Taylor Berg-Kirkpatrick, Kate Saenko, Dan Klein, Trevor Darrell* <br>
@@ -665,7 +665,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **ALFWorld: Aligning Text and Embodied Environments for Interactive Learning** <br>
   *Mohit Shridhar, Xingdi Yuan, Marc-Alexandre Côté, Yonatan Bisk, Adam Trischler, Matthew Hausknecht* <br>
-  ICLR, 2021. [\[Paper\]](https://arxiv.org/pdf/2010.03768.pdf) [\[Code\]](https://github.com/alfworld/alfworld) ⭐ 910 | 🐛 16 | 🌐 Python | 📅 2026-02-08 [\[Website\]](https://alfworld.github.io/)
+  ICLR, 2021. [\[Paper\]](https://arxiv.org/pdf/2010.03768.pdf) [\[Code\]](https://github.com/alfworld/alfworld) ⭐ 912 | 🐛 16 | 🌐 Python | 📅 2026-02-08 [\[Website\]](https://alfworld.github.io/)
 
 * **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks** <br>
   *Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, Dieter Fox* <br>
@@ -755,7 +755,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
   *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
-  arXiv, 2017. [\[Paper\]](https://arxiv.org/abs/1712.05474) [\[Code\]](https://github.com/allenai/ai2thor) ⭐ 1,829 | 🐛 281 | 🌐 C# | 📅 2025-11-04 [\[Website\]](https://ai2thor.allenai.org/)
+  arXiv, 2017. [\[Paper\]](https://arxiv.org/abs/1712.05474) [\[Code\]](https://github.com/allenai/ai2thor) ⭐ 1,830 | 🐛 281 | 🌐 C# | 📅 2025-11-04 [\[Website\]](https://ai2thor.allenai.org/)
 
 * **The Replica Dataset: A Digital Replica of Indoor Spaces** <br>
   *Julian Straub, Thomas Whelan, Lingni Ma, Yufan Chen, Erik Wijmans, Simon Green, Jakob J. Engel, Raul Mur-Artal, Carl Ren, Shobhit Verma, Anton Clarkson, Mingfei Yan, Brian Budge, Yajie Yan, Xiaqing Pan, June Yon, Yuyang Zou, Kimberly Leon, Nigel Carter, Jesus Briales, Tyler Gillingham, Elias Mueggler, Luis Pesqueira, Manolis Savva, Dhruv Batra, Hauke M. Strasdat, Renzo De Nardi, Michael Goesele, Steven Lovegrove, Richard Newcombe* <br>
@@ -763,7 +763,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Matterport3D: Learning from RGB-D Data in Indoor Environments** <br>
   *Angel Chang, Angela Dai, Thomas Funkhouser, Maciej Halber, Matthias Nießner, Manolis Savva, Shuran Song, Andy Zeng, Yinda Zhang* <br>
-  3DV, 2017. [\[Paper\]](https://arxiv.org/pdf/1709.06158.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,269 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://niessner.github.io/Matterport/)
+  3DV, 2017. [\[Paper\]](https://arxiv.org/pdf/1709.06158.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,270 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://niessner.github.io/Matterport/)
 
 * **Gibson Env: Real-World Perception for Embodied Agents** <br>
   *Fei Xia, Amir Zamir, Zhi-Yang He, Alexander Sax, Jitendra Malik, Silvio Savarese* <br>
@@ -801,11 +801,11 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **UnrealCV: Virtual Worlds for Computer Vision** <br>
   *Weichao Qiu, Fangwei Zhong, Yi Zhang, Siyuan Qiao, Zihao Xiao, Tae Soo Kim, Yizhou Wang, Alan Yuille* <br>
-  ACM MM Open Source Software Competition, 2017. [\[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396) [\[Code\]](https://github.com/unrealcv/unrealcv) ⭐ 2,225 | 🐛 118 | 🌐 Python | 📅 2026-09-04 [\[Website\]](https://unrealcv.org/)
+  ACM MM Open Source Software Competition, 2017. [\[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396) [\[Code\]](https://github.com/unrealcv/unrealcv) ⭐ 2,226 | 🐛 118 | 🌐 Python | 📅 2026-09-04 [\[Website\]](https://unrealcv.org/)
 
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
   *Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, Ali Farhadi* <br>
-  arXiv, 2017. [\[Paper\]](https://arxiv.org/abs/1712.05474) [\[Code\]](https://github.com/allenai/ai2thor) ⭐ 1,829 | 🐛 281 | 🌐 C# | 📅 2025-11-04 [\[Website\]](https://ai2thor.allenai.org/)
+  arXiv, 2017. [\[Paper\]](https://arxiv.org/abs/1712.05474) [\[Code\]](https://github.com/allenai/ai2thor) ⭐ 1,830 | 🐛 281 | 🌐 C# | 📅 2025-11-04 [\[Website\]](https://ai2thor.allenai.org/)
 
 * **Building Generalizable Agents with a Realistic and Rich 3D Environment (House3D)** <br>
   *Yi Wu, Yuxin Wu, Georgia Gkioxari, Yuandong Tian* <br>
@@ -821,7 +821,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **ALFWorld: Aligning Text and Embodied Environments for Interactive Learning** <br>
   *Mohit Shridhar, Xingdi Yuan, Marc-Alexandre Côté, Yonatan Bisk, Adam Trischler, Matthew Hausknecht*<br>
-  ICLR, 2021. [\[Paper\]](https://arxiv.org/abs/2010.03768) [\[Code\]](https://github.com/alfworld/alfworld) ⭐ 910 | 🐛 16 | 🌐 Python | 📅 2026-02-08 [\[Website\]](https://alfworld.github.io/)
+  ICLR, 2021. [\[Paper\]](https://arxiv.org/abs/2010.03768) [\[Code\]](https://github.com/alfworld/alfworld) ⭐ 912 | 🐛 16 | 🌐 Python | 📅 2026-02-08 [\[Website\]](https://alfworld.github.io/)
 
 * **VirtualHome: Simulating Household Activities via Programs** <br>
   *Xavier Puig\*, Kevin Ra\*, Marko Boben\*, Jiaman Li, Tingwu Wang, Sanja Fidler, Antonio Torralba* <br>
@@ -829,7 +829,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation** <br>
   *Chuang Gan, Jeremy Schwartz, Seth Alter, Martin Schrimpf, James Traer, Julian De Freitas, Jonas Kubilius, Abhishek Bhandwaldar, Nick Haber, Megumi Sano, Kuno Kim, Elias Wang, Damian Mrowca, Michael Lingelbach, Aidan Curtis, Kevin Feigelis, Daniel M. Bear, Dan Gutfreund, David Cox, James J. DiCarlo, Josh McDermott, Joshua B. Tenenbaum, Daniel L.K. Yamins*<br>
-  arXiv, 2020. [\[Paper\]](https://arxiv.org/pdf/2007.04954.pdf) [\[Code\]](https://github.com/threedworld-mit/tdw) ⭐ 612 | 🐛 22 | 🌐 Python | 📅 2024-06-03 [\[Website\]](http://www.threedworld.org/)
+  arXiv, 2020. [\[Paper\]](https://arxiv.org/pdf/2007.04954.pdf) [\[Code\]](https://github.com/threedworld-mit/tdw) ⭐ 611 | 🐛 22 | 🌐 Python | 📅 2024-06-03 [\[Website\]](http://www.threedworld.org/)
 
 * **ManipulaTHOR: A Framework for Visual Object Manipulation** <br>
   *Kiana Ehsani, Winson Han, Alvaro Herrasti, Eli VanderBilt, Luca Weihs, Eric Kolve, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
@@ -889,4 +889,4 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

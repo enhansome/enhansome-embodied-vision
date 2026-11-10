@@ -666,7 +666,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 899,
+                "stars": 900,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -694,7 +694,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 899,
+                "stars": 900,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -722,7 +722,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 899,
+                "stars": 900,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -750,7 +750,7 @@
                 "open_issues": 51,
                 "owner": "peteanderson80",
                 "repo": "Matterport3DSimulator",
-                "stars": 719,
+                "stars": 720,
                 "topics": [
                   "matterport3d-dataset",
                   "matterport3d-simulator",
@@ -829,7 +829,7 @@
                 "open_issues": 9,
                 "owner": "cshizhe",
                 "repo": "VLN-HAMT",
-                "stars": 154,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -1835,7 +1835,7 @@
                 "open_issues": 16,
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 910,
+                "stars": 912,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2024,7 +2024,7 @@
             "open_issues": 281,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1829,
+            "stars": 1830,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -2072,7 +2072,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1269,
+            "stars": 1270,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -2236,7 +2236,7 @@
             "open_issues": 118,
             "owner": "unrealcv",
             "repo": "unrealcv",
-            "stars": 2225,
+            "stars": 2226,
             "topics": [
               "computer-vision",
               "embodied-ai",
@@ -2266,7 +2266,7 @@
             "open_issues": 281,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1829,
+            "stars": 1830,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -2367,7 +2367,7 @@
             "open_issues": 16,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 910,
+            "stars": 912,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2417,7 +2417,7 @@
             "open_issues": 22,
             "owner": "threedworld-mit",
             "repo": "tdw",
-            "stars": 612,
+            "stars": 611,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T22:06:23.089Z",
+    "last_updated": "2026-11-10T01:31:45.463Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
