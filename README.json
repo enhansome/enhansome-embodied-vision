@@ -1835,7 +1835,7 @@
                 "open_issues": 16,
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 916,
+                "stars": 917,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2367,7 +2367,7 @@
             "open_issues": 16,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 916,
+            "stars": 917,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2417,7 +2417,7 @@
             "open_issues": 22,
             "owner": "threedworld-mit",
             "repo": "tdw",
-            "stars": 612,
+            "stars": 613,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T22:25:01.032Z",
+    "last_updated": "2026-11-15T22:48:48.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",

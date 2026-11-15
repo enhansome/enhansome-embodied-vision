@@ -2,7 +2,7 @@
 
 > A curated list of embodied vision resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,921 | 🐛 104 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,477 | 🐛 104 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
 
 By [Changan Chen](https://changan.io) (<changan@cs.utexas.edu>), Department of Computer Science at the University of Texas at Austin, with help from [Tushar Nagarajan](https://tushar-n.github.io/), [Santhosh Kumar Ramakrishnan](https://srama2512.github.io/) and [Yinfeng Yu](https://yyf17.github.io/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
@@ -665,7 +665,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **ALFWorld: Aligning Text and Embodied Environments for Interactive Learning** <br>
   *Mohit Shridhar, Xingdi Yuan, Marc-Alexandre Côté, Yonatan Bisk, Adam Trischler, Matthew Hausknecht* <br>
-  ICLR, 2021. [\[Paper\]](https://arxiv.org/pdf/2010.03768.pdf) [\[Code\]](https://github.com/alfworld/alfworld) ⭐ 916 | 🐛 16 | 🌐 Python | 📅 2026-02-08 [\[Website\]](https://alfworld.github.io/)
+  ICLR, 2021. [\[Paper\]](https://arxiv.org/pdf/2010.03768.pdf) [\[Code\]](https://github.com/alfworld/alfworld) ⭐ 917 | 🐛 16 | 🌐 Python | 📅 2026-02-08 [\[Website\]](https://alfworld.github.io/)
 
 * **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks** <br>
   *Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, Dieter Fox* <br>
@@ -821,7 +821,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **ALFWorld: Aligning Text and Embodied Environments for Interactive Learning** <br>
   *Mohit Shridhar, Xingdi Yuan, Marc-Alexandre Côté, Yonatan Bisk, Adam Trischler, Matthew Hausknecht*<br>
-  ICLR, 2021. [\[Paper\]](https://arxiv.org/abs/2010.03768) [\[Code\]](https://github.com/alfworld/alfworld) ⭐ 916 | 🐛 16 | 🌐 Python | 📅 2026-02-08 [\[Website\]](https://alfworld.github.io/)
+  ICLR, 2021. [\[Paper\]](https://arxiv.org/abs/2010.03768) [\[Code\]](https://github.com/alfworld/alfworld) ⭐ 917 | 🐛 16 | 🌐 Python | 📅 2026-02-08 [\[Website\]](https://alfworld.github.io/)
 
 * **VirtualHome: Simulating Household Activities via Programs** <br>
   *Xavier Puig\*, Kevin Ra\*, Marko Boben\*, Jiaman Li, Tingwu Wang, Sanja Fidler, Antonio Torralba* <br>
@@ -829,7 +829,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation** <br>
   *Chuang Gan, Jeremy Schwartz, Seth Alter, Martin Schrimpf, James Traer, Julian De Freitas, Jonas Kubilius, Abhishek Bhandwaldar, Nick Haber, Megumi Sano, Kuno Kim, Elias Wang, Damian Mrowca, Michael Lingelbach, Aidan Curtis, Kevin Feigelis, Daniel M. Bear, Dan Gutfreund, David Cox, James J. DiCarlo, Josh McDermott, Joshua B. Tenenbaum, Daniel L.K. Yamins*<br>
-  arXiv, 2020. [\[Paper\]](https://arxiv.org/pdf/2007.04954.pdf) [\[Code\]](https://github.com/threedworld-mit/tdw) ⭐ 612 | 🐛 22 | 🌐 Python | 📅 2024-06-03 [\[Website\]](http://www.threedworld.org/)
+  arXiv, 2020. [\[Paper\]](https://arxiv.org/pdf/2007.04954.pdf) [\[Code\]](https://github.com/threedworld-mit/tdw) ⭐ 613 | 🐛 22 | 🌐 Python | 📅 2024-06-03 [\[Website\]](http://www.threedworld.org/)
 
 * **ManipulaTHOR: A Framework for Visual Object Manipulation** <br>
   *Kiana Ehsani, Winson Han, Alvaro Herrasti, Eli VanderBilt, Luca Weihs, Eric Kolve, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
@@ -889,4 +889,4 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
