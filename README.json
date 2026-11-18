@@ -666,7 +666,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 905,
+                "stars": 906,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -694,7 +694,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 905,
+                "stars": 906,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -722,7 +722,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 905,
+                "stars": 906,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -949,7 +949,7 @@
                 "open_issues": 11,
                 "owner": "weituo12321",
                 "repo": "PREVALENT",
-                "stars": 95,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -1835,7 +1835,7 @@
                 "open_issues": 16,
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 918,
+                "stars": 919,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2051,7 +2051,7 @@
             "open_issues": 67,
             "owner": "facebookresearch",
             "repo": "Replica-Dataset",
-            "stars": 1353,
+            "stars": 1354,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2367,7 +2367,7 @@
             "open_issues": 16,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 918,
+            "stars": 919,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T01:52:13.303Z",
+    "last_updated": "2026-11-18T00:57:47.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
