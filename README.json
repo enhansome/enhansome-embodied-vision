@@ -666,7 +666,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 906,
+                "stars": 905,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -694,7 +694,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 906,
+                "stars": 905,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -722,7 +722,7 @@
                 "open_issues": 29,
                 "owner": "jacobkrantz",
                 "repo": "VLN-CE",
-                "stars": 906,
+                "stars": 905,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -750,7 +750,7 @@
                 "open_issues": 51,
                 "owner": "peteanderson80",
                 "repo": "Matterport3DSimulator",
-                "stars": 719,
+                "stars": 720,
                 "topics": [
                   "matterport3d-dataset",
                   "matterport3d-simulator",
@@ -2072,7 +2072,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1269,
+            "stars": 1270,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -2388,7 +2388,7 @@
             "open_issues": 59,
             "owner": "xavierpuigf",
             "repo": "virtualhome",
-            "stars": 645,
+            "stars": 646,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -2417,7 +2417,7 @@
             "open_issues": 22,
             "owner": "threedworld-mit",
             "repo": "tdw",
-            "stars": 612,
+            "stars": 613,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T00:36:43.196Z",
+    "last_updated": "2026-11-20T23:59:17.990Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",

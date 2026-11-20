@@ -2,7 +2,7 @@
 
 > A curated list of embodied vision resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,549 | 🐛 103 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 540,021 | 🐛 103 | 📅 2026-09-02 list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln) ⚠️ Archived.
 
 By [Changan Chen](https://changan.io) (<changan@cs.utexas.edu>), Department of Computer Science at the University of Texas at Austin, with help from [Tushar Nagarajan](https://tushar-n.github.io/), [Santhosh Kumar Ramakrishnan](https://srama2512.github.io/) and [Yinfeng Yu](https://yyf17.github.io/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
@@ -274,19 +274,19 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments** <br>
   *Jacob Krantz, Erik Wijmans, Arjun Majumdar, Dhruv Batra, Stefan Lee* <br>
-  ECCV, 2020. [\[Paper\]](https://arxiv.org/abs/2004.02857) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 906 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/vlnce)
+  ECCV, 2020. [\[Paper\]](https://arxiv.org/abs/2004.02857) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 905 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/vlnce)
 
 * **Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling** <br>
   *Tsu-Jui Fu, Xin Eric Wang, Matthew Peterson, Scott Grafton, Miguel Eckstein, William Yang Wang* <br>
-  ECCV, 2020. [\[Paper\]](https://arxiv.org/abs/1911.07308) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 906 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/vlnce)
+  ECCV, 2020. [\[Paper\]](https://arxiv.org/abs/1911.07308) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 905 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/vlnce)
 
 * **Waypoint Models for Instruction-guided Navigation in Continuous Environments** <br>
   *Jacob Krantz, Aaron Gokaslan, Dhruv Batra, Stefan Lee, Oleksandr Maksymets* <br>
-  ICCV, 2021. [\[Paper\]](https://arxiv.org/pdf/2106.07876.pdf) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 906 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/waypoint-vlnce/)
+  ICCV, 2021. [\[Paper\]](https://arxiv.org/pdf/2106.07876.pdf) [\[Code\]](https://github.com/jacobkrantz/VLN-CE) ⭐ 905 | 🐛 29 | 🌐 Python | 📅 2025-01-07 [\[Website\]](https://jacobkrantz.github.io/waypoint-vlnce/)
 
 * **Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments** <br>
   *Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel* <br>
-  CVPR, 2018. [\[Paper\]](https://arxiv.org/abs/1711.07280) [\[Code\]](https://github.com/peteanderson80/Matterport3DSimulator) ⭐ 719 | 🐛 51 | 🌐 C++ | 📅 2024-07-12 [\[Website\]](https://bringmeaspoon.org)
+  CVPR, 2018. [\[Paper\]](https://arxiv.org/abs/1711.07280) [\[Code\]](https://github.com/peteanderson80/Matterport3DSimulator) ⭐ 720 | 🐛 51 | 🌐 C++ | 📅 2024-07-12 [\[Website\]](https://bringmeaspoon.org)
 
 * **VLN BERT: A Recurrent Vision-and-Language BERT for Navigation** <br>
   *Yicong Hong, Qi Wu, Yuankai Qi, Cristian Rodriguez-Opazo, Stephen Gould* <br>
@@ -763,7 +763,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Matterport3D: Learning from RGB-D Data in Indoor Environments** <br>
   *Angel Chang, Angela Dai, Thomas Funkhouser, Maciej Halber, Matthias Nießner, Manolis Savva, Shuran Song, Andy Zeng, Yinda Zhang* <br>
-  3DV, 2017. [\[Paper\]](https://arxiv.org/pdf/1709.06158.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,269 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://niessner.github.io/Matterport/)
+  3DV, 2017. [\[Paper\]](https://arxiv.org/pdf/1709.06158.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,270 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://niessner.github.io/Matterport/)
 
 * **Gibson Env: Real-World Perception for Embodied Agents** <br>
   *Fei Xia, Amir Zamir, Zhi-Yang He, Alexander Sax, Jitendra Malik, Silvio Savarese* <br>
@@ -825,11 +825,11 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **VirtualHome: Simulating Household Activities via Programs** <br>
   *Xavier Puig\*, Kevin Ra\*, Marko Boben\*, Jiaman Li, Tingwu Wang, Sanja Fidler, Antonio Torralba* <br>
-  CVPR, 2018. [\[Paper\]](http://virtual-home.org/paper/virtualhome.pdf) [\[Code\]](https://github.com/xavierpuigf/virtualhome) ⭐ 645 | 🐛 59 | 🌐 Python | 📅 2026-05-20 [\[Website\]](http://virtual-home.org/)
+  CVPR, 2018. [\[Paper\]](http://virtual-home.org/paper/virtualhome.pdf) [\[Code\]](https://github.com/xavierpuigf/virtualhome) ⭐ 646 | 🐛 59 | 🌐 Python | 📅 2026-05-20 [\[Website\]](http://virtual-home.org/)
 
 * **ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation** <br>
   *Chuang Gan, Jeremy Schwartz, Seth Alter, Martin Schrimpf, James Traer, Julian De Freitas, Jonas Kubilius, Abhishek Bhandwaldar, Nick Haber, Megumi Sano, Kuno Kim, Elias Wang, Damian Mrowca, Michael Lingelbach, Aidan Curtis, Kevin Feigelis, Daniel M. Bear, Dan Gutfreund, David Cox, James J. DiCarlo, Josh McDermott, Joshua B. Tenenbaum, Daniel L.K. Yamins*<br>
-  arXiv, 2020. [\[Paper\]](https://arxiv.org/pdf/2007.04954.pdf) [\[Code\]](https://github.com/threedworld-mit/tdw) ⭐ 612 | 🐛 22 | 🌐 Python | 📅 2024-06-03 [\[Website\]](http://www.threedworld.org/)
+  arXiv, 2020. [\[Paper\]](https://arxiv.org/pdf/2007.04954.pdf) [\[Code\]](https://github.com/threedworld-mit/tdw) ⭐ 613 | 🐛 22 | 🌐 Python | 📅 2024-06-03 [\[Website\]](http://www.threedworld.org/)
 
 * **ManipulaTHOR: A Framework for Visual Object Manipulation** <br>
   *Kiana Ehsani, Winson Han, Alvaro Herrasti, Eli VanderBilt, Luca Weihs, Eric Kolve, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
