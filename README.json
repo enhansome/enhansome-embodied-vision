@@ -85,7 +85,7 @@
                 "open_issues": 10,
                 "owner": "devendrachaplot",
                 "repo": "Neural-SLAM",
-                "stars": 855,
+                "stars": 853,
                 "topics": [
                   "active-neural-slam",
                   "deep-learning",
@@ -1563,7 +1563,7 @@
                 "open_issues": 35,
                 "owner": "pathak22",
                 "repo": "noreward-rl",
-                "stars": 1492,
+                "stars": 1490,
                 "topics": [
                   "curiosity",
                   "deep-learning",
@@ -1596,7 +1596,7 @@
                 "open_issues": 10,
                 "owner": "devendrachaplot",
                 "repo": "Neural-SLAM",
-                "stars": 855,
+                "stars": 853,
                 "topics": [
                   "active-neural-slam",
                   "deep-learning",
@@ -1835,7 +1835,7 @@
                 "open_issues": 16,
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 920,
+                "stars": 921,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2024,7 +2024,7 @@
             "open_issues": 281,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1830,
+            "stars": 1831,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -2072,7 +2072,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1271,
+            "stars": 1269,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -2266,7 +2266,7 @@
             "open_issues": 281,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1830,
+            "stars": 1831,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -2367,7 +2367,7 @@
             "open_issues": 16,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 920,
+            "stars": 921,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2417,7 +2417,7 @@
             "open_issues": 22,
             "owner": "threedworld-mit",
             "repo": "tdw",
-            "stars": 613,
+            "stars": 612,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T00:23:31.907Z",
+    "last_updated": "2026-11-20T00:36:43.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
