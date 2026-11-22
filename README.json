@@ -1669,7 +1669,7 @@
                 "open_issues": 2,
                 "owner": "taochenshh",
                 "repo": "exp4nav",
-                "stars": 107,
+                "stars": 108,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2072,7 +2072,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1271,
+            "stars": 1272,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -2236,7 +2236,7 @@
             "open_issues": 118,
             "owner": "unrealcv",
             "repo": "unrealcv",
-            "stars": 2227,
+            "stars": 2228,
             "topics": [
               "computer-vision",
               "embodied-ai",
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T23:17:29.599Z",
+    "last_updated": "2026-11-22T23:36:57.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
