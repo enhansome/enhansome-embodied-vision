@@ -1835,7 +1835,7 @@
                 "open_issues": 17,
                 "owner": "alfworld",
                 "repo": "alfworld",
-                "stars": 923,
+                "stars": 924,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2236,7 +2236,7 @@
             "open_issues": 118,
             "owner": "unrealcv",
             "repo": "unrealcv",
-            "stars": 2228,
+            "stars": 2229,
             "topics": [
               "computer-vision",
               "embodied-ai",
@@ -2367,7 +2367,7 @@
             "open_issues": 17,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 923,
+            "stars": 924,
             "topics": []
           },
           "first_seen": "2026-08-29T01:45:37.243Z"
@@ -2388,7 +2388,7 @@
             "open_issues": 59,
             "owner": "xavierpuigf",
             "repo": "virtualhome",
-            "stars": 646,
+            "stars": 647,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:57:40.970Z",
+    "last_updated": "2026-11-25T02:29:53.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in embodied vision",
